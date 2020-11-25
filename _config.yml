@@ -59,15 +59,15 @@ avatar: "images/CE.png"
 # The order of this list controls the order of the links on the page. Feel free to add.
 links:
   - site:
-      name: Sito
+      name: System Reference Document
       show: true
       href: http://cepheus-engine-ita.github.io/srd/
-      icon: fas fa-globe
+      icon: fas fa-book
   - blog:
       name: Blog
       show: true
       href: http://cepheus-engine-ita.github.io/blog/
-      icon: fas fa-book-open      
+      icon: fas fa-blog      
   - github:
       name: GitHub
       show: true
