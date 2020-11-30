@@ -1,181 +1,290 @@
-# Fuse Core Theme for Jekyll - Settings
-# https://github.com/tsjensen/fuse-core
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "it-IT"
+title                    : "Cepheus Engine"
+title_separator          : "-"
+subtitle                 : "Versione Italiana" # site tagline that appears below site title in masthead
+name                     : ""
+description              : "Benvenuti nel progetto di traduzione di Cepheus Engine, 
+                            il Sistema di Gioco Aperto, basato su 2D6, di Fantascienza dell'Era Classica! 
+                            Cepheus Engine e Samardan Press sono marchi registrati di Jason Flynn Kemp"
+url                      : "https://cepheus-engine-ita.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+# breadcrumbs            : false # true, false (default)
+words_per_minute         : 200
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  disqus:
+    shortname            : "https-cepheus-engine-ita-github-io-blog" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    # https://developers.facebook.com/docs/plugins/comments
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+  utterances:
+    theme                : # "github-light" (default), "github-dark"
+    issue_term           : # "pathname" (default)
+  staticman:
+    branch               : # "master"
+    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+reCaptcha:
+  siteKey                :
+  secret                 :
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
+search_provider          : # lunr (default), algolia, google
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
+google:
+  search_engine_id       : # YOUR_SEARCH_ENGINE_ID
+  instant_search         : # false (default), true
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
+
+# Social Sharing
+twitter:
+  username               :
+facebook:
+  username               :
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
+# For specifying social profiles
+# - https://developers.google.com/structured-data/customize/social-profiles
+social:
+  type                   : # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
+
+
+# Site Author
+author:
+  name             : "Zeruhur"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Un appassionato di cose inutili"
+  location         : "Milano"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/cepheus-engine-ita/
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+
+
+# Reading Files
+include:
+  - .htaccess
+  - _srd
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+  - /docs # ignore Minimal Mistakes /docs
+  - /test # ignore Minimal Mistakes /test
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+
+# Conversion
 markdown: kramdown
-permalink: pretty
-exclude: ['README.*', 'LICENSE.txt']
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+
+# Sass/SCSS
 sass:
-    style: expanded
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
-# CAUTION
-# When modifying this file, take care to preserve the indentation. This is YAML ...
-
-# Main Headline, name required, subtitle optional
-name: Cepheus Engine - Versione Italiana
-#subtitle:
-subtitle: Benvenuti nel progetto di traduzione di Cepheus Engine, il Sistema di Gioco Aperto, basato su 2D6, di Fantascienza dell’Era Classica!
-
-# Title attribute of HTML Page, uses 'name' from above if empty
-title:
-
-# Information for web crawlers / Google, all of them optional
-# 'description' and 'keywords' simply set the corresponding meta tags,
-# 'crawl' is the 'Robots' tag http://www.robotstxt.org/meta.html
-robots:
-    description: Progetto di traduzione di Cepheus Engine, il Sistema di Gioco Aperto, basato su 2D6, di Fantascienza dell’Era Classica!
-    keywords: cepheus engine, cepheus, engine, traveller, rpg
-    crawl: index,follow
-
-# website address when deployed, also given as canonical link
-url: https://cepheus-engine-ita.github.io
-
-# The 'baseurl' is prepended to all website-internal links.
-# 'baseurl' will often be '', but for a project page on gh-pages, it needs to be the project name.
-# If not empty, be careful to keep the leading slash, and don't add a slash at the end.
-#baseurl: ''
-baseurl: ''
-
-# Enable Google Analytics. Leave empty (just "ga:" with subitems commented out) to disable.
-# In order to comply with EU cookie law, enable 'cookieconsent' to show a little popup asking users to acknowledge the GA cookies.
-# Also, some places require you to anonymize the users' IPs, which can be enabled via 'anonymizeip' below. You normally want that.
-# https://support.google.com/analytics/answer/2763052
-#ga:
-ga:
-#    account: 'UA-120960520-1'
-#    cookieconsent: true
-#    anonymizeip: true
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
-# A picture of you, square(!), at least 180x180 pixels, more is better. Recommended file size < 100 KB.
-# Leave empty for generic placeholder image.
-# You can use your GitHub image:
-#avatar: "https://avatars0.githubusercontent.com/u/8897534"
-avatar: "images/CE.png"
-#avatar:
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
 
 
-# All the social media and other sites that we want to link to. The 'show' flag determines if the link is shown.
-# The order of this list controls the order of the links on the page. Feel free to add.
-links:
-  - site:
-      name: System Reference Document
-      show: true
-      href: http://cepheus-engine-ita.github.io/srd/
-      icon: fas fa-book
-  - blog:
-      name: Blog
-      show: true
-      href: http://cepheus-engine-ita.github.io/blog/
-      icon: fas fa-blog      
-  - github:
-      name: GitHub
-      show: true
-      href: https://github.com/cepheus-engine-ita
-      icon: fab fa-github
-  - xing:
-      name: Xing
-      show: false
-      href: https://www.xing.com/profile/YOUR_XING_USERNAME/
-      icon: fab fa-xing
-  - linkedin:
-      name: LinkedIn
-      show: false
-      href: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME/
-      icon: fab fa-linkedin
-  - googleplus:
-      name: Google+
-      show: false
-      href: https://plus.google.com/+YOUR_GOOGLEPLUS_USERNAME
-      icon: fab fa-google-plus
-  - twitter:
-      name: Twitter
-      show: false
-      href: https://twitter.com/YOUR_TWITTER_USERNAME
-      icon: fab fa-twitter
-  - weibo:
-      name: 微博
-      show: false
-      href: https://weibo.com/YOUR_WEIBO_USERNAME
-      icon: fab fa-weibo
-  - vine:
-      name: Vine
-      show: false
-      href: https://vine.co/YOUR_VINE_USERNAME
-      icon: fab fa-vine
-  - facebook:
-      name: Facebook
-      show: false
-      href: https://facebook.com/YOUR_FB_USERNAME
-      icon: fab fa-facebook
-  - vkontakte:
-      name: ВКонтакте
-      show: false
-      href: https://vk.com/YOUR_VK_USERNAME
-      icon: fab fa-vk
-  - instagram:
-      name: Instagram
-      show: false
-      href: https://instagram.com/YOUR_INSTAGRAM_USERNAME
-      icon: fab fa-instagram
-  - flickr:
-      name: Flickr
-      show: false
-      href: https://flickr.com/photos/YOUR_FLICKR_USERNAME
-      icon: fab fa-flickr
-  - steam:
-      name: Steam
-      show: false
-      href: http://steamcommunity.com/id/YOUR_STEAM_CUSTOM_ID
-      icon: fab fa-steam
-  - soundcloud:
-      name: Soundcloud
-      show: false
-      href: https://soundcloud.com/YOUR_SOUNDCLOUD_USERNAME
-      icon: fab fa-soundcloud
-  - lastfm:
-      name: Last.fm
-      show: false
-      href: http://www.last.fm/user/YOUR_LASTFM_USERNAME
-      icon: fab fa-lastfm
-  - codepen:
-      name: CodePen
-      show: false
-      href: https://codepen.io/YOUR_CODEPEN_USERNAME
-      icon: fab fa-codepen
-  - stackoverflow:
-      name: Stack Overflow
-      show: false
-      href: https://stackoverflow.com/users/YOUR_SO_USERNAME/
-      icon: fab fa-stack-overflow
-  - reddit:
-      name: Reddit
-      show: false
-      href: https://reddit.com/user/YOUR_REDDIT_USERNAME
-      icon: fab fa-reddit
-  - medium:
-      name: Medium
-      show: false
-      href: https://medium.com/@YOUR_MEDIUM_USERNAME
-      icon: fab fa-medium
-  - tumblr:
-      name: Tumblr
-      show: false
-      href: https://YOUR_TUMBLR_USERNAME.tumblr.com/
-      icon: fab fa-tumblr
-  - email:
-      name: Email
-      show: false
-      href: mailto:jonathan.doe@host.domain
-      icon: fas fa-envelope
-  - publickey:
-      name: PGP Key
-      show: false
-      href: https://pastebin.com/raw/YOUR_PUBLIC_KEY
-      icon: fas fa-key
+# Archives
+#  Type
+#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
+#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  Path (examples)
+#  - Archive page should exist at path when using Liquid method or you can
+#    expect broken links (especially with breadcrumbs enabled)
+#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+# https://github.com/jekyll/jekyll-archives
+# jekyll-archives:
+#   enabled:
+#     - categories
+#     - tags
+#   layouts:
+#     category: archive-taxonomy
+#     tag: archive-taxonomy
+#   permalinks:
+#     category: /categories/:name/
+#     tag: /tags/:name/
 
-# Extra HTML which will be displayed below the links. Keep it short. Leave empty to disable.
-#extra_html:
-extra_html:
 
-#EOF
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _srd
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false

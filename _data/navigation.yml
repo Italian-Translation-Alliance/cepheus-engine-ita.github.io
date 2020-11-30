@@ -1,0 +1,59 @@
+# main links
+main:
+  - title: "System Reference Document"
+    url: /srd/
+  - title: "Blog"
+    url: /blog/
+  - title: "Cerca"
+    url: /cerca/  
+srd:
+  - title: "Introduzione"
+    url: /introduzione/
+  - title: "Libro Primo: Personaggi"
+    children:
+        - title: "Capitolo 1: Creazione dei Personaggi"
+          url: /srd/capitolo-1/
+        - title: "Capitolo 2: Abilità"
+          url:
+        - title: "Capitolo 3: Psionica"
+          url:
+        - title: "Capitolo 4: Equipaggiamento"
+          url:
+        - title: "Capitolo 5: Combattimento Corpo a Corpo"
+          url:
+  - title: "Libro Secondo: Astronavi e Viaggi Interstellari"
+    children:
+        - title: "Capitolo 6: Viaggi Spaziali"
+          url:
+        - title: "Capitolo 7: Scambi e Commercio"
+          url:
+        - title: "Capitolo 8: Progettazione e Costruzione della Navi"
+          url:
+        - title: "Capitolo 9: Vascelli Comuni"
+          url:
+        - title: "Capitolo 10: Combattimento Spaziale"
+          url:
+  - title: "Libro Terzo: Arbitri"
+    children:
+        - title: "Capitolo 11: Ambienti e Rischi"
+          url:
+        - title: "Capitolo 12: Mondi"
+          url:
+        - title: "Capitolo 13: Incontri nella Natura Selvaggia"
+          url:
+        - title: "Capitolo 14: Incontri sociali"
+          url:
+        - title: "Capitolo 15: Incontri di Astronavi"
+          url:
+        - title: "Capitolo 16: Arbitrare il gioco"
+          url:
+        - title: "Capitolo 17: Avventure"
+          url:
+  - title: "Informazioni"
+    children:
+        - title: "Informazioni Importanti"
+          url: /srd/informazioni-importanti/
+        - title: "Informazioni Legali"
+          url: /srd/informazioni-legali/
+        - title: "Glossario"
+          url: /srd/glossario/
