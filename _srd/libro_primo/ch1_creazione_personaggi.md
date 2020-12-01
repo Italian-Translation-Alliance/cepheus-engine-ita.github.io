@@ -8,17 +8,17 @@ toc_label: Indice
 title: 'CAPITOLO 1: CREAZIONE DEI PERSONAGGI'
 published: true
 ---
-In Cepheus Engine i personaggi raramente sono principianti alle prime armi.
+In Cepheus Engine i personaggi raramente sono principianti freschi di fattoria.
 Non c'è alcuna limitazione a giocare un personaggio giovane e inesperto, se lo vuoi, ma siccome una vasta gamma di abilità è importante per il successo durante il gioco, molti giocatori preferiranno che i loro personaggi abbiano un po' più di esperienza del mondo. 
 
-Tutti i personaggi iniziano all'età della maturità, tipicamente 18 anni. Una volta generati i punteggi per le caratteristiche e le abilità iniziali, il personaggio dovrebbe iniziare a servire periodi nella carriera scelta. Ogni periodo, che è di quattro anni, trascorso in una carriera garantisce al personaggio più esperienza dell'universo, generalmente nella forma di abilità. Genera i risultati di ciascun periodo prima di procedere al successivo. Una volta completata la carriera, i personaggi tirano per i benefici guadagnati con il "congedo" (p.e. lasciando il servizio). Possono quindi iniziare l'avventura.
+Tutti i personaggi iniziano all'età della maturità, tipicamente 18 anni. Una volta generati i punteggi per le caratteristiche e le abilità iniziali, il personaggio dovrebbe iniziare a servire periodi nella carriera prescelta. Ogni periodo, che è di quattro anni, trascorso in una carriera garantisce al personaggio più esperienza dell'universo, generalmente nella forma di abilità. Genera i risultati di ciascun periodo prima di procedere al successivo. Una volta completata la carriera, i personaggi tirano per i benefici guadagnati con il "congedo" (p.e. lasciando il servizio). Possono quindi iniziare l'avventura.
 
 Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro differenti percorsi di carriera .
 
 ## Checklist di Creazione Personaggio
 
 1. Caratteristiche
-    a. Deterina le sei caratteristiche tirando 2D6 e registrandole in ordine sulla tua scheda personaggio.    
+    a. Determina le sei caratteristiche tirando 2D6 e registrandole in ordine sulla tua scheda personaggio.    
     b. Determina i modificatori di caratteristica.    
 2. Mondo d'origine (Opzionale)
     a. Determina il mondo d'origine.    
@@ -32,21 +32,21 @@ Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro 
    Per il primo periodo nella tua prima carriera, acquisisci tutte le Abilità di Servizio a livello 0.
    Per il primo periodo nelle successive carriere, puoi scegliere qualsiasi altra Abilità di Servizio a livello 0.
 5. Sopravvivenza
-    Tira per la sopravvivenza, come indicati nella descrizione della carriera.
+    Tira per la sopravvivenza, come indicato nella descrizione della carriera.
     Se hai successo, vai al punto 8.
     Se non hai successo, sei morto. In alternativa, gli eventi ti hanno condotto fuori da questa carriera. Tira sulla tabella degli Incidenti e vai al punto 10 (non ricevi benefici per questo periodo).
 6. Gradi e Promozione
-    a. Inizi come un personaggio di Rango 0.    
-    b. Se la tua carriera offre una Prova su Gradi e sei di Rango 0, puoi scegliere di tirare per acquisire un Grado. Se hai successo, passi al Rango 1 della carriera scelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi abilità bonus dalla Tabella Ranghi per questa carriera.    
-    c. Se una carriera offre una Prova su Promozione e se di Rango 1 o superiore, puoi scegliere di tirare per la Promozione. Se hai successo, il tuo Rango incrementa di uno nella carriera scelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi bonus di abilità dalla Tabella Ranghi per questa carriera. Puoi tirare per una Promozione nello stesso periodo in cui hai ricevuto un Grado.    
+    a. Inizi come un personaggio di Rango 0.
+    b. Se la tua carriera offre una Prova di acquisizione del Grado e sei di Rango 0, puoi scegliere di tirare per acquisire un Grado. Se hai successo, passi al Rango 1 della carriera prescelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi abilità bonus dalla Tabella Ranghi per questa carriera.    
+    c. Se una carriera offre una Prova di Promozione e se sei di Rango 1 o superiore, puoi scegliere di tirare per la Promozione. Se hai successo, il tuo Rango incrementa di uno nella carriera prescelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi bonus di abilità dalla Tabella Ranghi per questa carriera. Puoi tirare per una Promozione nello stesso periodo in cui hai ricevuto un Grado.    
 7. Abilità e Addestramento
-    a. Seleziona una delle Tabelle Abilità o Addestramento prevista per questa carriera e tira su di essa. Se il risultato è un miglioramento della carattestica, applica la modifca al tuo punteggio di caratteristica immediatamente. Se guadagni un'abilità come risultato e non hai ancora alcun livello in quell'abilità, la prendi al Livello 1. Se già possiedi quell'abilità, la incrementi di un livello.     
-    b. Se la tua carriera non prevede una Prova su Gradi o Promozioni, puoi tirare una seconda volta, selezionando una delle Tabelle Abilità o Addestramento prevista per questa carriera (che può essere la stessa tabella che hai già scelto per questo periodo oppure una differente).
+    a. Seleziona una delle Tabelle Abilità o Addestramento prevista per questa carriera e tira su di essa. Se il risultato è un miglioramento della carattestica, applica la modifica al tuo punteggio di caratteristica immediatamente. Se guadagni un'abilità come risultato e non hai ancora alcun livello in quell'abilità, la prendi al Livello 1. Se già possiedi quell'abilità, la incrementi di un livello.     
+    b. Se la tua carriera non prevede una Prova di assegnazione del Grado o di Promozione, puoi tirare una seconda volta, selezionando una delle Tabelle Abilità o Addestramento prevista per questa carriera (che può essere la stessa tabella che hai già scelto per questo periodo oppure una differente).
 8. Invecchiamento
     a. Aumenta la tua età di 4 anni.    
     b. Se il tuo personaggio ha 34 anni o di più, tira per l'Invecchiamento.
 9. Riarruolamento
-    a. Tira per il riarruolamento. Se fallisci, devi lasciare questa carriera. Se hai tirato un 12 naturale, non puoi lasciare questa carriera e devi continuare per un altro periodo, vai al punto 5.    
+    a. Tira per il Riarruolamento. Se fallisci, devi lasciare questa carriera. Se hai tirato un 12 naturale, non puoi lasciare questa carriera e devi continuare per un altro periodo, vai al punto 5.    
     b. Se hai servito per un totale di sette periodi o più durante la creazione del personaggio, allora puoi andare in pensione, vai al punto 10.    
     c. Se desideri continuare in questa carriera, vai al punto 5.    
     d. Se desideri lasciare questa carriera, vai al punto 10.
@@ -55,15 +55,15 @@ Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro 
 11. Prossima Carriera
     Se stai lasciando la tua carriera corrente e il totale del numero di periodi durante la creazione del personaggio è meno di sette, puoi andare al punto 3 per scegliere una nuova carriera oppure al punto 12 se desideri completare il tuo personaggio.
 12. Compra l'equipaggiamento iniziale
-    Compra il tuo equipaggaimento iniziare e, se te lo puoi permettere, magari un'astronave.
+    Compra il tuo equipaggaimento iniziale e, se te lo puoi permettere, magari un'astronave.
 
 ## Caratteristiche
 
-Le Cararatteristiche misura le abilità più basilari di un personaggio: quanto è forte, agile, istruito o intelligente. I punteggi di caratteristica influenzano quasi tutto ciò che il personaggio fa. I personaggi più forti possono sollevare pesi maggiori, i più agili hanno un migliore equilibrio e così via.
+Le Cararatteristiche misurano le abilità più basilari di un personaggio: quanto è forte, agile, istruito o intelligente. I punteggi di caratteristica influenzano quasi tutto ciò che il personaggio fa. I personaggi più forti possono sollevare pesi maggiori, i più agili hanno un migliore equilibrio e così via.
 
-I personaggi hanno sei abilità: Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Status Sociale (Soc). Forza, Destrezza e Resistenza sono chiamate capacità fisiche, mentre Intelligenza, Educazione e Status Sociale sono capacità mentali vagamente definite. Ciascun punteggio sopra la media garantisce un bonus su certi tiri di dado, mentre capacità sotto la media causano una penalità a certi tiri di dado.
+I personaggi hanno sei abilità: Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Status Sociale (Soc). Forza, Destrezza e Resistenza sono chiamate capacità fisiche, mentre Intelligenza, Educazione e Status Sociale sono capacità mentali definite in modo vago. Ciascun punteggio sopra la media garantisce un bonus su certi Tiri di dado, mentre capacità sotto la media causano una penalità a certi Tiri di dado.
 
-Le sei caratteristiche del tuoi personaggio sono descritte brevemente di seguito:
+Le sei caratteristiche del tuoi personaggi sono descritte brevemente di seguito:
 
 - **Forza** (Str): La forza fisica di un personaggio, la sua forma fisica e potenza.
 - **Destrezza** (Dex): Coordinazione fisica e agilità, riflessi.
@@ -74,7 +74,7 @@ Le sei caratteristiche del tuoi personaggio sono descritte brevemente di seguito
 
 ### Status Sociale e Titoli Nobiliari
 
-In un universo di Cepheus Engine in cui i personaggi, che hanno uno Status Sociale sufficientemente alto, sono considerati membri della nobiltà, specifici valori di Status Sociale sono spesso associati a precisi Titoli Nobiliari. La Tabella Titoli Nobiliari secondo Status Sociale presenta alcuni esempi, ma i valori effettivi possono variare da un universo all'altro.  Versioni di questi titoli tradizionalmente dati al genere femminile sono forniti tra parentesi.
+In un universo di Cepheus Engine in cui i personaggi, che hanno uno Status Sociale sufficientemente alto, sono considerati membri della nobiltà, specifici valori di Status Sociale sono spesso associati a precisi Titoli Nobiliari. La Tabella Titoli Nobiliari secondo Status Sociale presenta alcuni esempi, ma i valori effettivi possono variare da un universo all'altro.  Versioni di questi titoli, tradizionalmente dati al genere femminile, sono forniti tra parentesi.
 
 #### Tabella: Titoli Nobiliari secondo Status Sociale
 
@@ -92,15 +92,15 @@ In un universo di Cepheus Engine in cui i personaggi, che hanno uno Status Socia
 
 ### Forza Psionica, la Settima Caratteristica
 
-Nel Cepheus Engine, i personaggi possono qualche volta possedere una settima caratteristica. Quando un personaggio impara la Psionica, è da generare anche la caratteristica di Forza Psionica (abbreviato Psi), che da potere al proprio talento psionico. Questa caratteristica non può essere tirata o considerata nella creazione di un personaggio senza l'autorizzazione dell'Arbitro. Per maggiori informazioni, vedi il **Capitolo 3: Psionica**.
+Nel Cepheus Engine, i personaggi possono qualche volta possedere una settima caratteristica. Quando un personaggio impara la Psionica, devi generare anche la caratteristica di Forza Psionica (abbreviato Psi), che alimenta il potere del proprio talento psionico. Questa caratteristica non può essere tirata o considerata nella creazione di un personaggio senza l'autorizzazione dell'Arbitro. Per maggiori informazioni, vedi il **Capitolo 3: Psionica**.
 
 ### Determinare i Punteggi di Caratteristica
 
-Determinare i punteggi di caratteristica è è abbastanza semplice.  Tira le tue sei caratteristiche usando 2D6 e registrandoli nell'ordine standard: Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Status Sociale (Soc).
+Determinare i punteggi di caratteristica è abbastanza semplice.  Tira le tue sei caratteristiche usando 2D6 e registrandoli nell'ordine standard: Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Status Sociale (Soc).
 
 **Regola Opzionale**: Con il consenso dell'Arbitro, tira 2D6 sei volte e assegna i risultati alle sei differenti caratteristiche basandoti su una particolare concezione di personaggio. Per esempio, se immagini il tuo personaggio come un ricercatore altamente istruito, allora potresti assegnare il tuo risultato più alto all'Educazione e assegnare il secondo risultato più alto all'Intelligenza.
 
-**Limiti dei Punteggi di Carattestica**: Per i personaggi giocanti, un punteggio di caratteristica non può tipicamente superare il massimo di 15, né può scendere permanentemente sotto ad 1, ad eccezione di particolari circostanze.
+**Limiti dei Punteggi di Carattestica**: Per i personaggi giocanti, un punteggio di caratteristica non può tipicamente superare il massimo di 15, né può scendere permanentemente sotto ad 1, a eccezione di particolari circostanze.
 
 ### Modificatori di Caratteristica
 
@@ -128,7 +128,7 @@ Una volta che hai assegnato i Punteggi di Caratteristica, puoi determinare i Mod
 Durante la partita, i punteggi di caratteristica dei personaggi potrebbero cambiare per uno dei seguenti motivi:
 
 - L'invecchiamento può abbassare in modo permanente i punteggi di caratteristica fisica.
-- Il danno fisico, come quello da combattimento, le cadure, le malattie o il veleno, può abbassare in modo temporaneo i punteggi di caratteristica fisica.
+- Il danno fisico, come quello da combattimento, le cadute, le malattie o il veleno, può abbassare in modo temporaneo i punteggi di caratteristica fisica.
 - Il trauma mentale, come ferite alla testa o un attacco psionico, può abbassare in modo temporaneo i punteggi di caratteristica mentale.
 - Alcune medicine, potenziamenti psionici e altri casi possono migliorare temporanemanente o permanentemente specifici punteggi di caratteristica.
 
@@ -136,13 +136,13 @@ Ogni volta che un punteggio di caratteristica cambia, dovrà determinare il suo 
 
 ### Riguardo a Genere e Razza
 
-Le regole principali del Cepheus Engine non fanno alcuna distinzione tra differenti membri della stessa specie, sia di genere che di razza. Nell'ambito della letteratura classica di fantascienza, gli eroi potevano giungere con diverse sfaccettatura e capacità e non erano quasi mai impediti dal proprio genere o dal colore della propria pelle.
+Le regole principali del Cepheus Engine non fanno alcuna distinzione tra differenti membri della stessa specie, sia di genere che di razza. Nell'ambito della letteratura classica di fantascienza, gli eroi potevano avere diverse sfaccettature e capacità e non erano quasi mai impediti dal proprio genere o dal colore della propria pelle.
 
-Le specie aliene possono avere scelte aggiuntive per il genere che possono avere un impatto sui punteggi di caratteristica e garantiscono specifiche abilità o tratti basati sulla scelta del genere. Per esempio, se una specie insettoide ha quattro generi (regina, soldato, lavoratore e drone), ognuno potrebbe garantire bonus o penalità di caratteristica differenti che avranno impatto sulla creazione del personaggio. La definizione di specie aliena risiede nell'ambito dei poteri della creatività dell'Arbitro, in quanto influisce sulla natura della propria campagna e del proprio universo.
+Le specie aliene possono avere scelte aggiuntive per il genere e quindi si può avere un impatto sui punteggi di caratteristica e specifiche abilità o tratti basati sulla scelta del genere. Per esempio, se una specie insettoide ha quattro generi (regina, soldato, lavoratore e drone), ognuno potrebbe garantire bonus o penalità di caratteristica differenti che avranno impatto sulla creazione del personaggio. La definizione di specie aliena risiede nell'ambito dei poteri della creatività dell'Arbitro, in quanto influisce sulla natura della propria campagna e del proprio universo.
 
 ### Riguardo alle Specie Aliene e allo Status Sociale
 
-Le specie aliene potrebbero avere diversi criteri per lo Status Sociale: Casta o Carisma. Quando si ha a che fare con una razza che ha un diverso concetto di Status Sociale, tutti gli MD per lo Status Sociale o il suo equivaliente alien, sia positivi che negativi, sono dimezzati.
+Le specie aliene potrebbero avere diversi criteri per lo Status Sociale: Casta o Carisma. Quando si ha a che fare con una razza che ha un diverso concetto di Status Sociale, tutti gli MD per lo Status Sociale o il suo equivaliente alieno, sia positivi che negativi, sono dimezzati.
 
 ## Il Profilo di Personalità Universale (PPU)
 
@@ -206,7 +206,7 @@ Crescere sul tuo mondo d'origine ti ha dotato di abilità che dipendono dalla na
 
 #### Tabella: Abilità del Mondo d'origine secondo Codice di Commercio
 
-| Trade Code          | Skill                |
+| Codice di Commercio | Abilità       |
 | ------------------- | -------------------- |
 | Alta Tecnologia     | Computer-0           |
 | Agricolo            | Animali-0            |
@@ -229,7 +229,7 @@ Un'educazione formale ti fornisce delle competenze di base in varie scienze e di
 
 > Amministrazione-0, Avvocato-0, Animali-0, Baldoria-0, Comunicazioni-0, Computer-0,
 > Elettronica-0, Ingegneria-0, Scienze Biologiche-0, Lingue-0,
-> Meccanico-0, Medico-0, Scienze Fisiche-0, Scienze Sociali-0, Scienze Spaziali-0.
+> Meccanico-0, Medicina-0, Scienze Fisiche-0, Scienze Sociali-0, Scienze Spaziali-0.
 
 ## Carriere
 
@@ -251,7 +251,7 @@ Le seguenti ventiquattro carriere sono dettagliate alla fine di questo capitolo:
 - **Corpo di Difesa Aerospaziale**: Membro di una forza armata planetaria che opera entro i limiti dell’atmosfera di quel mondo e nella sua orbita bassa. Conosciuto anche come “Areonautica Planetaria”.
 - **Corpo di Difesa Marittima**: Membro di una forza armata planetaria che opera sotto o sopra la superficie degli oceani di quel mondo. Conosciuto anche come “Marina planetaria”.
 - **Corpo di Difesa Terrestre**: Membro di una forza armata planetaria che opera sulla superficie non bagnata di quel mondo. Conosciuto anche come “Esercito Planetario”.
-- **Diplomatico**: Persona che è investito da un governo planetario o interstellare di condurre negoziati ufficiali e di mantenere relazioni politiche, economiche e sociali con altre entità politiche.
+- **Diplomatico**: Persona che è investito da un governo planetario o interstellare per condurre negoziati ufficiali e per mantenere relazioni politiche, economiche e sociali con altre entità politiche.
 - **Esploratore**: Membro di un servizio di esplorazione interplanetaria, impegnato nella ricognizione di territori sconosciuti nello spazio.
 - **Intrattenitore**: Persona che ha raggiunto lo status di celebrità per la loro competenza nell’intrattenere il pubblico.
 - **Malvivente**: Persona che si guadagna da vivere attraverso mezzi illeciti.
@@ -260,7 +260,7 @@ Le seguenti ventiquattro carriere sono dettagliate alla fine di questo capitolo:
 - **Medico**: Persona che è abile nella scienza medica ed è addestrata e autorizzata a trattare le persone malate o ferite.
 - **Mercante**: Persona coinvolta nel commercio interstellare, in particolare tra singoli mondi o entità politiche.
 - **Mercenario**: Soldato professionista ingaggiato per servire in una forza armata straniera o per eseguire specifiche azioni militari.
-- **Nobile**: Membro di un classe elevata di elite, che possiede alto status sociale e politico.
+- **Nobile**: Membro di un classe di elite, che possiede alto status sociale e politico.
 - **Pirata**: Persona che attacca o ruba dalle astronavi interplanetarie o interstellari in pieno spazio.
 - **Ramingo**: Persona che si muove continuamente da un posto all’altro, senza alcuna fissa dimora o impiego.
 - **Scienziato**: Persona che si è impegnato nella scienza e ne possiede conoscienza ed esperienza, specialmente di biologia o fisica.
@@ -282,7 +282,7 @@ La Prova di Qualifica determina se puoi entrare con successo nella carriera pres
 | 6                      | Corpo di Difesa Terrestre (Esercito Planetario)       |
 | ## Periodi di Servizio |                                                       |
 
-Per ogni passo del tuo percorso di carriera, affronterai un periodo di servizio che dura approssimativamente quattro anni. Questi si aggiungono all'età del personaggio. Ogni vola che il personaggio si arruola nuovamente o che entra in una nuova carriera, lo fa per un altro periodo, ovvero quattro anni di servizio in più.
+Per ogni passo del tuo percorso di carriera, affronterai un periodo di servizio che dura approssimativamente quattro anni. Questi si aggiungono all'età del personaggio. Ogni volta che il personaggio si arruola nuovamente o che entra in una nuova carriera, lo fa per un altro periodo, ovvero quattro anni di servizio in più.
 
 ## Addestramento di Base
 
@@ -316,7 +316,7 @@ Gradi e Promozioni non sono previsti per Atleti, Barbari, Cinturiani, Raminghi, 
 
 Ogni carriera ha tabelle abilità associate ad essa - Sviluppo Personale, Abilità di Servizio, Abilità Specialistiche ed Educazione Avanzata. In ciascun periodo trascorso in una carriera, scegli una di queste tabelle e tira 1D6 per vedere quale abilità puoi incrementare. Puoi tirare sulla tabella Educazione Avanzata solamente se il personaggio ha Educazione 8+.
 
-Siccome Atleti, Barbari, Cinturiani, Raminghi, Intratternitori, Cacciatori ed Esploratori non hanno prove di assegnazione del Grado o di Promozione, i personaggi ottengono, per ciascun periodo, due tiri per le abilità invece che solo un tiro.
+Siccome Atleti, Barbari, Cinturiani, Raminghi, Intratternitori, Cacciatori ed Esploratori non hanno Prove di assegnazione del Grado o di Promozione, i personaggi ottengono, per ciascun periodo, due tiri per le abilità invece che solo un tiro.
 
 ### Abilità a Cascata
 
