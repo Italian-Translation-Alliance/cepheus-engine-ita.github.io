@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Che cos'è"
+    url: /about/
   - title: "System Reference Document"
     url: /srd/
   - title: "Blog"
