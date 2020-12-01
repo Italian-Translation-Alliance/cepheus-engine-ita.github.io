@@ -97,7 +97,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 
 ## Tabella di Traduzione delle Abilità
 
-## Abilità di Base
+### Abilità di Base
 
 | Basic Skills                        | Abilità di Base             |
 |-------------------------------------|-----------------------------|
@@ -125,7 +125,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Linguistics                         | Lingue                      |
 | Liaison                             | Collegamento                |
 | Mechanics                           | Meccanico                   |
-| Medicine                            | Medico                      |
+| Medicine                            | Medicina                    |
 | Navigation                          | Navigazione                 |
 | Piloting                            | Pilotare                    |
 | Recon                               | Ricognizione                |
@@ -139,7 +139,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Tactics                             | Tattica                     |
 | Zero-G                              | G-Zero                      |
 
-## Abilità nelle Armi
+### Abilità nelle Armi
 | Weapon Skills                | Abilità nelle Armi                |
 |------------------------------|-----------------------------------|
 | Gun Combat (Cascade Skill)   | Armi da Fuoco (Abilità a Cascata) |
@@ -161,7 +161,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Piercing Weapons             | Armi Perforanti                   |
 | Slashing Weapons             | Armi da Taglio                    |
 
-## Abilità di Trasporto
+### Abilità di Trasporto
 | Transport Skills           | Abilità di Trasporto           |
 |----------------------------|--------------------------------|
 | Vehicle (Cascade Skill)    | Veicoli (Abilità a Cascata)    |
