@@ -2,13 +2,14 @@
 layout: single
 permalink: /introduzione/
 sidebar:
-  nav: "srd"
+  nav: srd
 toc: true
-toc_label: "Indice"
-title: "INTRODUZIONE"
+toc_label: Indice
+title: INTRODUZIONE
+published: true
 ---
 
-Benvenuti nel ***Cepheus Engine System Reference Document***, che delinea le regole fondamentali usate da un Sistema di Gioco Aperto, basato su 2D6, di Fantascienza dell'Era Classica. Questa introduzione ti fornisce una panoramica di ciò che Cepheus Engine è e di come funziona, mentre i capitoli successivi ti mostrano come creare personaggi e imbarcarti in tue eccitanti avventure di fantascienza.
+Benvenuti nel ***Cepheus Engine System Reference Document***, che delinea le regole fondamentali usate da un Sistema di Gioco Aperto, basato su 2D6, di Fantascienza dell'Era Classica. Questa introduzione ti fornisce una panoramica di ciò che è Cepheus Engine e di come funziona, mentre i capitoli successivi ti mostrano come creare personaggi e imbarcarti in tue eccitanti avventure di fantascienza.
 
 ## Che cos'è il Gioco di Ruolo?
 
