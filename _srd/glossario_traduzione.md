@@ -117,14 +117,14 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Computer                            | Computer                    |
 | Demolitions                         | Demolizioni                 |
 | Electronics                         | Elettronica                 |
-| Engineering                         | Ingegnere                   |
+| Engineering                         | Ingegneria                  |
 | Gambling                            | Gioco d'Azzardo             |
 | Gravitics                           | Gravitonica                 |
 | Jack-of-All-Trades (Jack o' Trades) | Tuttofare                   |
 | Leadership                          | Comando                     |
 | Linguistics                         | Lingue                      |
 | Liaison                             | Collegamento                |
-| Mechanics                           | Meccanico                   |
+| Mechanics                           | Meccanica                   |
 | Medicine                            | Medicina                    |
 | Navigation                          | Navigazione                 |
 | Piloting                            | Pilotare                    |

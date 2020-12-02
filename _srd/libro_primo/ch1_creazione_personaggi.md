@@ -231,7 +231,7 @@ Un'educazione formale ti fornisce delle competenze di base in varie scienze e di
 
 > Amministrazione-0, Avvocato-0, Animali-0, Baldoria-0, Comunicazioni-0, Computer-0,
 > Elettronica-0, Ingegneria-0, Scienze Biologiche-0, Lingue-0,
-> Meccanico-0, Medicina-0, Scienze Fisiche-0, Scienze Sociali-0, Scienze Spaziali-0.
+> Meccanica-0, Medicina-0, Scienze Fisiche-0, Scienze Sociali-0, Scienze Spaziali-0.
 
 ## Carriere
 
@@ -485,7 +485,7 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 5                       | Atletica            | Baldoria            | Atletica            | Atletica            | Atletica            | Mischia             |
 | 6                       | Baldoria            | Mischia             | Armi da Fuoco       | Baldoria            | Armi da Fuoco       | Gioco d’Azzardo     |
 |                         | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio |
-| 1                       | Amministrazione     | Atletica            | Meccanico           | Amministrazione     | Meccanico           | Comunicazioni       |
+| 1                       | Amministrazione     | Atletica            | Meccanica           | Amministrazione     | Meccanica           | Comunicazioni       |
 | 2                       | Computer            | Amministrazione     | Armi da Fuoco       | Computer            | Armi da Fuoco       | Demolizioni         |
 | 3                       | Legge della Strada  | Baldoria            | Mischia             | Baldoria            | Mischia             | Armi da Fuoco       |
 | 4                       | Corruzione          | Computer            | Ricognizione        | Corruzione          | Ricognizione        | Artiglieria         |
@@ -500,7 +500,7 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 6                       | Sopravvivenza       | Gioco d’Azzardo     | Tattica             | Veicoli             | Veicoli             | Veicoli             |
 |                         | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata |
 | 1                       | Avvocato            | Avvocato            | Avvocato            | Avvocato            | Avvocato            | Avvocato            |
-| 2                       | Computer            | Computer            | Lingue              | Computer            | Lingue              | Ingegnere           |
+| 2                       | Computer            | Computer            | Lingue              | Computer            | Lingue              | Ingegneria           |
 | 3                       | Collegamento        | Collegamento        | Medicina            | Collegamento        | Medicina            | Medicina            |
 | 4                       | Lingue              | Lingue              | Comando             | Lingue              | Collegamento        | Navigazione         |
 | 5                       | Medicina            | Medicina            | Tattica             | Medicina            | Tattica             | Comunicazioni       |
@@ -548,17 +548,17 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 5                       | Atletica            | Mischia             | Mischia             | Mischia             | Atletica            | +1 Edu              |
 | 6                       | Armi da Fuoco       | Veicoli             | Veicoli             | Veicoli             | Baldoria            | Mischia             |
 |                         | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio |
-| 1                       | Meccanico           | Elettronica         | Meccanico           | Meccanico           | Amministrazione     | Comunicazioni       |
+| 1                       | Meccanica           | Elettronica         | Meccanica           | Meccanica           | Amministrazione     | Comunicazioni       |
 | 2                       | Armi da Fuoco       | Armi da Fuoco       | Armi da Fuoco       | Armi da Fuoco       | Computer            | Elettronica         |
 | 3                       | Animali             | Artiglieria         | Artiglieria         | Artiglieria         | Baldoria            | Armi da Fuoco       |
 | 4                       | Elettronica         | Mischia             | Mischia             | Mischia             | Corruzione          | Artigliera          |
 | 5                       | Sopravvivenza       | Sopravvivenza       | Sopravvivenza       | Ricognizione        | Collegamento        | Ricognizione        |
 | 6                       | Veicoli             | Aircraft            | Marinaio            | Tenuta da Battaglia | Veicoli             | Pilota              |
 |                         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         |
-| 1                       | Atletica            | Comunicazioni       | Comunicazioni       | Comunicazioni       | Baldoria            | Ingegnere           |
+| 1                       | Atletica            | Comunicazioni       | Comunicazioni       | Comunicazioni       | Baldoria            | Ingegneria           |
 | 2                       | Baldoria            | Gravitonica         | Elettronica         | Demolizioni         | Lingue              | Artigliera          |
 | 3                       | Tuttofare           | Armi da Fuoco       | Armi da Fuoco       | Armi da Fuoco       | Corruzione          | Demolizioni         |
-| 4                       | Ingegnere           | Artiglieria         | Demolizioni         | Mischia             | Collegamento        | Navigazione         |
+| 4                       | Ingegneria           | Artiglieria         | Demolizioni         | Mischia             | Collegamento        | Navigazione         |
 | 5                       | Animali             | Ricognizione        | Ricognizione        | Sopravvivenza       | Steward             | Medicina            |
 | 6                       | Veicoli             | Pilotare            | Marinaio            | Veicoli             | Veicoli             | Veicoli             |
 |                         | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata |
@@ -612,8 +612,8 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 6                       | Mischia             | Gioco d’Azzardo     | Mischia             | Mischia             | Steward             | Armi da Fuoco       |
 |                         | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio |
 | 1                       | Atletica            | Legge della Strada  | Comunicazioni       | Comunicazioni       | Comunicazioni       | Amministrazione     |
-| 2                       | Amministrazione     | Meccanico           | Ingegnere           | Demolizioni         | Ingegnere           | Computer            |
-| 3                       | Baldoria            | Armi da Fuoco       | Armi da Fuoco       | Armi da Fuoco       | Armi da Fuoco       | Meccanico           |
+| 2                       | Amministrazione     | Meccanica           | Ingegneria           | Demolizioni         | Ingegneria           | Computer            |
+| 3                       | Baldoria            | Armi da Fuoco       | Armi da Fuoco       | Armi da Fuoco       | Armi da Fuoco       | Meccanica           |
 | 4                       | Corruzione          | Mischia             | Artiglieria         | Artiglieria         | Mischia             | Medicina            |
 | 5                       | Gioco d’Azzardo     | Ricognizione        | Mischia             | Mischia             | Intermediario       | Comando             |
 | 6                       | Veicoli             | Veicoli             | Veicoli             | Tenuta da Battaglia | Veicoli             | Scienze             |
@@ -626,8 +626,8 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 6                       | Ricognizione        | Veicoli             | Pilotare            | Veicoli             | Pilotare            | Scienze             |
 |                         | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata |
 | 1                       | Avvocato            | Computer            | Avvocato            | Avvocato            | Avvocato            | Avvocato            |
-| 2                       | Computer            | Gravitonica         | Computer            | Computer            | Ingegnere           | Computer            |
-| 3                       | Baldoria            | Tuttofare           | Ingegnere           | Gravitonica         | Medicina            | Tuttofare           |
+| 2                       | Computer            | Gravitonica         | Computer            | Computer            | Ingegneria           | Computer            |
+| 3                       | Baldoria            | Tuttofare           | Ingegneria           | Gravitonica         | Medicina            | Tuttofare           |
 | 4                       | Lingue              | Medicina            | Medicina            | Medicina            | Navigazione         | Lingue              |
 | 5                       | Medicina            | Avvocato            | Navigazione         | Navigazione         | Scienze             | Medicina            |
 | 6                       | Scienze             | Tattica             | Tattica             | Tattica             | Tattica             | Scienze             |
@@ -675,21 +675,21 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 6                       | Gioco d’Azzardo     | Mischia             | Gioco d’Azzardo     | Gioco d’Azzardo     | Armi da Fuoco       | Armi da Fuoco       |
 |                         | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio |
 | 1                       | Comunicazioni       | Atletica            | Legge della Strada  | Legge della Strada  | Amministrazione     | Amministrazione     |
-| 2                       | Meccanico           | Amministrazione     | Elettronica         | Meccanico           | Computer            | Computer            |
-| 3                       | Armi da Fuoco       | Baldoria            | Armi da Fuoco       | Armi da Fuoco       | Elettronica         | Meccanico           |
+| 2                       | Meccanica           | Amministrazione     | Elettronica         | Meccanica           | Computer            | Computer            |
+| 3                       | Armi da Fuoco       | Baldoria            | Armi da Fuoco       | Armi da Fuoco       | Elettronica         | Meccanica           |
 | 4                       | Mischia             | Comando             | Mischia             | Mischia             | Medicina            | Medicina            |
 | 5                       | Gioco d’Azzardo     | Gioco d’Azzardo     | Ricognizione        | Ricognizione        | Corruzione          | Elettronica         |
 | 6                       | Tenuta da Battaglia | Veicoli             | Veicoli             | Veicoli             | Scienze             | Scienze             |
 |                         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         |
 | 1                       | Gravitonica         | Computer            | G-Zero              | Elettronica         | Navigazione         | Computer            |
 | 2                       | Armi da Fuoco       | Baldoria            | Comunicazioni       | Mischia             | Amministrazione     | Elettronica         |
-| 3                       | Artiglieria         | Armi da Fuoco       | Ingegnere           | Corruzione          | Scienze             | Gravitonica         |
+| 3                       | Artiglieria         | Armi da Fuoco       | Ingegneria           | Corruzione          | Scienze             | Gravitonica         |
 | 4                       | Mischia             | Mischia             | Artiglieria         | Legge della Strada  | Scienze             | Lingue              |
-| 5                       | Ricognizione        | Collegamento        | Navigazione         | Gioco d’Azzardo     | Animali             | Ingegnere           |
+| 5                       | Ricognizione        | Collegamento        | Navigazione         | Gioco d’Azzardo     | Animali             | Ingegneria           |
 | 6                       | Veicoli             | Animali             | Pilotare            | Ricognizione        | Veicoli             | Animali             |
 |                         | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata |
 | 1                       | Avvocato            | Avvocato            | Computer            | Computer            | Avvocato            | Avvocato            |
-| 2                       | Ingegnere           | Computer            | Gravitonica         | Ingegnere           | Computer            | Computer            |
+| 2                       | Ingegneria           | Computer            | Gravitonica         | Ingegneria           | Computer            | Computer            |
 | 3                       | Medicina            | Collegamento        | Tuttofare           | Tuttofare           | Tuttofare           | Tuttofare           |
 | 4                       | Navigazione         | Lingue              | Medicina            | Medicina            | Lingue              | Lingue              |
 | 5                       | Scienze             | Medicina            | Avvocato            | Collegamento        | Medicina            | Medicina            |
