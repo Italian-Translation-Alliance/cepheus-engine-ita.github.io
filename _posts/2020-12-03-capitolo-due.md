@@ -1,7 +1,8 @@
 ---
 layout: single
-title: Il capitolo 2 è online
+title: Giorno 10 - Il capitolo 2 è online
 categories: Aggiornamenti
+published: true
 ---
 
 Oggi vede la pubblicazione del capitolo della Abilità (ovvero le Skill nel testo originale). Cepheus Engine presenta la bellezza di 65 abiità distribuite nei campi più disparati: dall'allevamento degli animali all'astrogazione, passando per varie abilità guerriere e non.  
@@ -11,4 +12,4 @@ I capitoli per iniziare a divertirvi nella creazione del personaggio sono quasi 
 
 Come sempre il proof-reading è ben accetto e per qualsiasi necessità potete trovarci sul [gruppo telegram](https://t.me/cepheus_engine_ita) o scrivermi in [privato](https://t.me/zeruhur).
 
-Su questo blog presto vorrei pubblicare appronfondimenti sulle varie carriere e ai riferimenti letterari e cinematografici da cui prendere spunto per dare verve e spessore ai vostri personaggi. Stay tuned. 
+Su questo blog presto vorrei pubblicare appronfondimenti sulle varie carriere e ai riferimenti letterari e cinematografici da cui prendere spunto per dare verve e spessore ai vostri personaggi. Stay tuned.
