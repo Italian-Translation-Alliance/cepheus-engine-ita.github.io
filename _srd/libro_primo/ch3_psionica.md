@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: # /srd/capitolo-3/
+permalink: /srd/capitolo-3/
 sidebar:
   nav: srd
 toc: true
