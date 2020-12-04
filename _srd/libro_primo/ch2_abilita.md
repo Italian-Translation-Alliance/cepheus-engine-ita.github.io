@@ -84,7 +84,7 @@ La seguente è una lista delle abilità disponibili usate nelle regole fondament
 #### Tabella: Abilità Disponibili
 
 | Abilità di Base             | Abilità nelle Armi                | Abilità di Trasporto           |
-|-----------------------------|-----------------------------------|--------------------------------|
+| --------------------------- | --------------------------------- | ------------------------------ |
 | Amministrazione             | Armi da Fuoco (Abilità a Cascata) | Aeremobili (Abilità a Cascata) |
 | Animali (Abilità a Cascata) | Fucile a Energia                  | Ala                            |
 | Allevamento                 | Fucile a Proiettili               | Grav                           |
@@ -358,7 +358,7 @@ come delinato nella tabella Prova di Corruzione secondo la Violazione.
 #### Tabella: rova di Corruzione secondo la Violazione
 
 | Violazione                        | MD  | Bustarella Minima |
-|-----------------------------------|-----|-------------------|
+| --------------------------------- | --- | ----------------- |
 | Reato o Infrazione Insignificante | +2  | 1D6xCr10          |
 | Reato o Infrazione Minore         | +0  | 1D6xCr50          |
 | Serious Crime or Infraction       | -2  | 1D6xCr100         |
@@ -433,7 +433,7 @@ iniziale. La Casa vince sempre al tiro di un 2 naturale.
 #### Tabella: Gioco d’Azzardo secondo le Probabilità di Vincita
 
 | Probabilità di Vincita | MD  | Ricompensa | Scommessa Massima |
-|------------------------|-----|------------|-------------------|
+| ---------------------- | --- | ---------- | ----------------- |
 | Truccato               | -8  | Varia      | Varia             |
 | Remota                 | -6  | 1:10       | Cr5,000           |
 | Scarsa                 | -4  | 1:8        | Cr1,000           |
@@ -622,13 +622,6 @@ manutenzione di base su, automobili e simili veicoli su gomma.
 Il personaggio è esperto nell’attivare e usare gli schermi a energia
 della nave, come ammortizzatori nucleari o schermi mesonici.
 
-### Science Fisiche
-
-Questa abilità rappresenta la conoscenza pratica e teorica che deriva
-dallo studio scientifico della natura e delle proprietà dell’energia e
-della materia non vivente. Questo copre una vasta gamma di campi
-correlati, comi: chimica, elettronica, geologica e fisica.
-
 ### Scienze (Abilità a Cascata)
 
 Le varie specialità di questa abilità coprono differenti tipi di armi
@@ -644,12 +637,27 @@ dallo studio scientifico di organismi viventi. Questo copre una vasta
 gama di campi, come: biochimica, biologia, botanica, cibernetica,
 genetica, fisiologia, psicologia e psionica.
 
+### Science Fisiche
+
+Questa abilità rappresenta la conoscenza pratica e teorica che deriva
+dallo studio scientifico della natura e delle proprietà dell’energia e
+della materia non vivente. Questo copre una vasta gamma di campi
+correlati, come: chimica, elettronica, geologica e fisica.
+
 ### Scienze Sociali
 
 Questa abilità rappresenta la conoscenza pratica e teorica che deriva
 dallo studio scientifico delle società sofonti e delle relazioni
 sociali. Questo copre una vasta gamma di campi correlati come:
 archeologia, economia, storia, filosofia, psicologia e sofontologia.
+
+### Scienze Spaziali
+
+Questa abilità rappresenta la conoscenza pratica e teorica che deriva
+dallo diverse discipline scientifiche che studiano fenomeni che accadono
+nello spazio interplanetario e interstellare, oltre che i corpi celesti
+che esistono nello spazio. Questo copre una vasta gamma di campi
+correlati come: astronomia, cosmologia, planetologia e xenologia.
 
 ### Sopravvivenza
 
@@ -664,14 +672,6 @@ rischiosi (artico, deserto, etc).
 
 Questa abilità garantisce la capacità di manovrare, ed eseguire
 manutenzione di base su, veicoli che viaggiano sott’acqua.
-
-### Space Sciences
-
-Questa abilità rappresenta la conoscenza pratica e teorica che deriva
-dallo diverse discipline scientifiche che studiano fenomeni che accadono
-nello spazio interplanetario e interstellare, oltre che i corpi celesti
-che esistono nello spazio. Questo copre una vasta gamma di campi
-correlati come: astronomia, cosmologia, planetologia e xenologia.
 
 ### Steward
 
