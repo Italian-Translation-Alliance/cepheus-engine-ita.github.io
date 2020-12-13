@@ -20,9 +20,9 @@ srd:
         - title: "Capitolo 3: Psionica"
           url: /srd/capitolo-3/
         - title: "Capitolo 4: Equipaggiamento"
-          url:/srd/capitolo-4/
+          url: /srd/capitolo-4/
         - title: "Capitolo 5: Combattimento Corpo a Corpo"
-          url:/srd/capitolo-5/
+          url: /srd/capitolo-5/
   - title: "Libro Secondo: Astronavi e Viaggi Interstellari"
     children:
         - title: "Capitolo 6: Viaggi Spaziali"
