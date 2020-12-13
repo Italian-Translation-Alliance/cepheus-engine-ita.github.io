@@ -621,7 +621,6 @@ manutenzione di base su, automobili e simili veicoli su gomma.
 
 Il personaggio è esperto nell’attivare e usare gli schermi a energia
 della nave, come ammortizzatori nucleari o schermi mesonici.
-
 ### Scienze (Abilità a Cascata)
 
 Le varie specialità di questa abilità coprono differenti tipi di armi
@@ -672,7 +671,6 @@ rischiosi (artico, deserto, etc).
 
 Questa abilità garantisce la capacità di manovrare, ed eseguire
 manutenzione di base su, veicoli che viaggiano sott’acqua.
-
 ### Steward
 
 L’abilità di Steward permette al personaggio di servire e prendersi cura
