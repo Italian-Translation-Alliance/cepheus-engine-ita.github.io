@@ -21,7 +21,7 @@ srd:
           url: /srd/capitolo-3/
         - title: "Capitolo 4: Equipaggiamento"
           url: /srd/capitolo-4/
-        - title: "Capitolo 5: Combattimento Corpo a Corpo"
+        - title: "Capitolo 5: Combattimento"
           url: /srd/capitolo-5/
   - title: "Libro Secondo: Astronavi e Viaggi Interstellari"
     children:
