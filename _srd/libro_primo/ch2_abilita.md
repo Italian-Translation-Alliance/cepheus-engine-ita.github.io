@@ -541,9 +541,6 @@ per manovrare questi vascelli, anche se una Prova è effettuata di solito
 solo quando le circostanze diventano sfidanti, come condizioni
 atmosferiche avverse o azioni ostili.
 
-### Prospesione
-Quest persona ha esperienza nella ricerca di minerali e depositi di metalli preziosi che possono essere trovati su asteroidi o sulla superficie di pianeti.
-
 ### Pistola a Proiettili
 Il personaggio è esperto nell’uso di pistole a proiettili come pistole
 calibro 32 o calibro 38.
@@ -551,6 +548,9 @@ calibro 32 o calibro 38.
 ### Pistola ad Energia
 Il personaggio è esperto nell’uso delle armi avanzate come pistole laser
 e storditori.
+
+### Prospezione
+Questa persona ha esperienza nella ricerca di minerali e depositi di metalli preziosi che possono essere trovati su asteroidi o sulla superficie di pianeti.
 
 ### Ricognizione
 Questa abilità rappresenta la capacità di anticipare i pericoli e
