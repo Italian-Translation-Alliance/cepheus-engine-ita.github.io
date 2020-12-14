@@ -35,7 +35,7 @@ Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro 
    Per il primo periodo nelle successive carriere, puoi scegliere qualsiasi altra Abilità di Servizio a livello 0.
 5. Sopravvivenza
     Tira per la sopravvivenza, come indicato nella descrizione della carriera.
-    Se hai successo, vai al punto 8.
+    Se hai successo, vai al punto 6.
     Se non hai successo, sei morto. In alternativa, gli eventi ti hanno condotto fuori da questa carriera. Tira sulla tabella degli Incidenti e vai al punto 10 (non ricevi benefici per questo periodo).
 6. Gradi e Promozione
     a. Inizi come un personaggio di Rango 0.
@@ -106,7 +106,7 @@ Determinare i punteggi di caratteristica è abbastanza semplice.  Tira le tue se
 
 ### Modificatori di Caratteristica
 
-Una volta che hai assegnato i Punteggi di Caratteristica, puoi determinare i Modificatori di Caratteristica. Questi modificatori sono applicati a qualsiasi Prova quando fai qualcosa che riguarda quella caratteristica. Un Modificatore di Caratteristica è calcolato dividendo il punteggio della caratteristica per tre, togliendo le eventuali frazioni e quindi sottraendo uno, in modo che il punteggio medio di 7 abbia un MD+0. In questo modo, una caratteristica di 2 o meno ha un modificatore di MD-2, caratteristiche con valori tra 3 e 5 hanno modificatori MD-1 e così via. La Tabella Modificatori di Caratteristica secondo Gamma di Punteggio fornisce una sintesi di questi modificatori, già pronti all'uso.
+Una volta che hai assegnato i Punteggi di Caratteristica, puoi determinare i Modificatori di Caratteristica. Questi modificatori sono applicati a qualsiasi Prova quando fai qualcosa che riguarda quella caratteristica. Un Modificatore di Caratteristica è calcolato dividendo il punteggio della caratteristica per tre, togliendo le eventuali frazioni e quindi sottraendo due, in modo che il punteggio medio di 7 abbia un MD+0. In questo modo, una caratteristica di 2 o meno ha un modificatore di MD-2, caratteristiche con valori tra 3 e 5 hanno modificatori MD-1 e così via. La Tabella Modificatori di Caratteristica secondo Gamma di Punteggio fornisce una sintesi di questi modificatori, già pronti all'uso.
 
 #### Tabella: Modificatori di Caratteristica secondo Gamma di Punteggio
 
@@ -489,13 +489,13 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 2                       | Computer            | Amministrazione     | Armi da Fuoco       | Computer            | Armi da Fuoco       | Demolizioni         |
 | 3                       | Legge della Strada  | Baldoria            | Mischia             | Baldoria            | Mischia             | Armi da Fuoco       |
 | 4                       | Corruzione          | Computer            | Ricognizione        | Corruzione          | Ricognizione        | Artiglieria         |
-| 5                       | Comando             | Gioco d’Azzardo     | Sopravvivenza       | Comando             | Sopravvivenza       | Prospecting         |
+| 5                       | Comando             | Gioco d’Azzardo     | Sopravvivenza       | Comando             | Sopravvivenza       | Prospezione         |
 | 6                       | Veicoli             | Veicoli             | Animali             | Veicoli             | Veicoli             | Pilotare            |
 |                         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         | Specialista         |
 | 1                       | Armi da Fuoco       | G-Zero              | Armi da Fuoco       | Amministrazione     | Amministrazione     | G-Zero              |
 | 2                       | Mischia             | Atletica            | Tuttofare           | Computer            | Comunicazioni       | Computer            |
 | 3                       | Corruzione          | Atletica            | Mischia             | Perception          | Elettronica         | Elettronica         |
-| 4                       | Comando             | Computer            | Ricognizione        | Comando             | Ricognizione        | Prospecting         |
+| 4                       | Comando             | Computer            | Ricognizione        | Comando             | Ricognizione        | Prospezione         |
 | 5                       | Ricognizione        | Comando             | Animali             | Steward             | Animali             | Scienze             |
 | 6                       | Sopravvivenza       | Gioco d’Azzardo     | Tattica             | Veicoli             | Veicoli             | Veicoli             |
 |                         | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata | Educazione Avanzata |
