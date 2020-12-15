@@ -85,7 +85,7 @@ La seguente è una lista delle abilità disponibili usate nelle regole fondament
 
 | Abilità di Base             | Abilità nelle Armi                | Abilità di Trasporto           |
 | --------------------------- | --------------------------------- | ------------------------------ |
-| Amministrazione             | Armi da Fuoco (Abilità a Cascata) | Aeremobili (Abilità a Cascata) |
+| Amministrazione             | Armi da Fuoco (Abilità a Cascata) | Aeromobili (Abilità a Cascata) |
 | Animali (Abilità a Cascata) | Fucile a Energia                  | Ala                            |
 | Allevamento                 | Fucile a Proiettili               | Grav                           |
 | Cavalcare                   | Pistola a Proiettili              | Rotore                         |
@@ -132,21 +132,25 @@ anche per compiti non descritti qui. L’Arbitro stabilisce la Difficoltà
 e decide i risultati in tutti i casi.
 
 ### Aeromobili (Abilità a Cascata)
+
 Le varie specialità di questa abilità coprono differenti tipi di veicoli
 per il volo. Quando questa abilità è ottenuta, il personaggio deve
 immediatamente scegliere una delle seguenti: Grav, Rotore o Ala.
 
 ### Ala
+
 Questa abilità garantisce la capacità di manovrare, ed eseguire
 manutenzione di base su, jet e altri aeroplani. Le Ali devono continuare
 a muoversi o stallano e cadono dal cielo.
 
 ### Allevamento
+
 Il personaggio può far crescere raccolti e allevare animali.
 Questo include anche le colture idroponiche e i raccolti clonati per la
 produzione di cibo, a livelli tecnologici sufficientemente alti.
 
 ### Amministrazione
+
 Il personaggio ha esperienza con le agenzie burocratiche e capisce i
 requisiti per averci a che fare e gestirle. Si considerino alcuni dei
 seguenti compiti: evitare le molestie della polizia; garantire la
@@ -169,16 +173,19 @@ Avvocato. Vedi la descrizione dell’abilità **Corruzione** per maggiori
 informazioni.
 
 ### Animali (Abilità a Cascata)
+
 Le varie specialità di questa abilità coprono differenti aspetti della
 gestione degli animali. Quando questa abilità è ottenuta, il personaggio
 deve immediatamente scegliere una delle seguenti: Allevamento,
 Cavalcare, Sopravvivenza o Veterinaria.
 
 ### Armi Contundenti
+
 Il personaggio è abile nell’uso di armi contundenti, come mazze, staffe
 e chiavi inglesi molto grandi, nel combattimento corpo a corpo.
 
 ### Armi da fuoco (Abilità a Cascata)
+
 Le varie specialità di questa abilità coprono differenti tipi di armi
 portatili a distanza. Quando si riceve questa abilità, il personaggio
 deve immediatamente selezionare una delle seguenti: Tiro con l’Arco,
@@ -186,33 +193,40 @@ Pistole a Energia, Fucile a Energia, Doppietta, Pistola a proiettili,
 Fucile a proiettili.
 
 ### Armi da Taglio
+
 Il personaggio è esperto nell’uso di armi da taglio, come spade e asce,
 nel combattimento corpo a corpo.
 
 ### Armi di Batteria
+
 Il personaggio è esperto nell’operare le armi di batteria a bordo di una
 nave.
 
 ### Armi Montate sul Dorso
+
 Il personaggio è esperto nell’operare i banchi di armi o le armi dorsali
 a bordo di una nave. Queste armi possono essere usare contro altre navi
-o per bombarare i pianeti o per attaccare obiettivi fissi.
+o per bombardare i pianeti o per attaccare obiettivi fissi.
 
 ### Armi Naturali
+
 Il personaggio è esperto nell’uso di armi naturali nel combattimento
 corpo a corpo. Tra gli umani, questo include il pugilato, le arti
 marziali e la lotta.
 
 ### Armi Perforanti
+
 Il personaggio è esperto nell’uso di armi perforanti e da lancio, come
 picche e lance, nel combattimento corpo a corpo.
 
 ### Armi Pesanti
-L’abilità Armi Pesanti copre molti tipi di armi portatali e più grandi
+
+L’abilità Armi Pesanti copre molti tipi di armi portatili e più grandi
 che causano danni ingenti, come lanciarazzi, artiglieria e armi al
 plasma.
 
 ### Artiglieria (Abilità a Cascata)
+
 Le varie specialità di questa abilità coprono differenti tipi di armi
 devastanti comunemente usate contro veicoli, astronavi e installazioni a
 terra. Quando si riceve questa abilità, il personaggio deve
@@ -220,6 +234,7 @@ immediatamente selezionare una delle seguenti: Armi di Batteria, Armi
 Pesanti, Schermi, Armi montate sul dorso, Torrette.
 
 ### Atletica
+
 Questa abilità copre la prestanza e l’allenamento fisico, in modo simile
 a quello di un atleta allenato. Questo include azioni che richiedono la
 coordinazione fisica, come scalare, giocoleria o lancio; azioni di
@@ -230,12 +245,13 @@ forza come sollevamento pesi e bodybuilding.
 anche per riflettere la loro capacità nel volo.
 
 ### Avvocato
+
 Il personaggio ha familiarità con le principali leggi e regolamenti che
 governano il viaggio interstellare, il commercio e le relazioni. Questa
 abilità non fornisce la conoscenza della miriade di leggi di ciascun
 singolo mondo, né permette alla persona di professare come procuratore.
 
-**Ispezioni dell nave**: Di solito, quando una nave arriva in un nuovo
+**Ispezioni della nave**: Di solito, quando una nave arriva in un nuovo
 mondo, verrà ispezionata dalle autorità portuali per verificare
 l’aderenza con tutte le leggi e i regolamenti applicabili. Non è
 insolito inoltre per le pattuglie fermare e abbordare mercantili e altre
@@ -246,25 +262,29 @@ trovare in regola e passare l’ispezione. Se dovesse esserci qualsiasi
 cosa di illegale a bordo, il personaggio soffrirà un MD-2 per la prova.
 
 ### Baldoria
+
 Questa abilità riflette l’arte di interagire e socializzare con gli
-altri. Il personaggio è abile nell’arte delle chiacchiere di convenineza
+altri. Il personaggio è abile nell’arte delle chiacchiere di convenienza
 e rendere gli altri confortevoli in loro presenza in quasi ogni
 situazione sociale, come feste, balli, inaugurazioni, giri per locali,
 etc.
 
 ### Cavalcare
+
 Questa abilità garantisce la capacità di guidare e provvedere alle cure
 di base di cavalli e altre creature che sono addestrate a portare un
 cavaliere.
 
 ### Cingolato
+
 Questa abilità garantisce la capacità di manovrare, ed eseguire
 manutenzione di base su, carrarmati e altri veicoli che si muovono su
 cingoli.
 
 ### Collegamento
+
 Il personaggio è addestrato nell’arte di trattare con gli altri, inclusi
-la conoscienza dei protocolli appropriati, l’etichetta, i codici di
+la conoscenza dei protocolli appropriati, l’etichetta, i codici di
 condotta e altre informazioni necessarie quando si ha a che fare con
 un’ampia gamma di tipologie sociali. Un personaggio del genere è
 parecchio utile quando si tentano negoziati per un affare spinoso, per
@@ -279,6 +299,7 @@ un vantaggio. Le Prove in opposizione risolvono inoltre i casi in qui
 due diplomatici sono coinvolti in negoziazioni.
 
 ### Comando
+
 Il personaggio possiede la capacità di unire, ispirare, organizzare e
 dirigere gli sforzi della squadra per assicurare la migliore
 cooperazione e produttività possibili.
@@ -298,6 +319,7 @@ personaggio di un punteggio pari all’Effetto della prova. Effettuare una
 Prova di Comando è un’azione significativa.
 
 ### Computer
+
 Il personaggio è esperto nella programmazione e nell’operare computer
 elettronici e a fibra ottica, sia per i modelli a terra che quelli di
 bordo. I computer possono essere trovati su qualsiasi mondo con LT di 8
@@ -310,27 +332,29 @@ ad alta tecnologia. Chiunque abbia Computer-0 o meglio può effettuare le
 seguenti Prove: accesso a Datanet, inviare e ricevere messaggi, cercare
 informazioni non classificate e recuperare file e dati. Utenti più
 esperti possono aprire e chiudere dati criptati; scovare dati
-effecacemente; creare o rompere i protocolli di sicurezza di dati e
+efficacemente; creare o rompere i protocolli di sicurezza di dati e
 reti; ed effettuare ogni altro compito di programmazione a livello
 generale.
 
 ### Comunicazioni
+
 Il personaggio è addestrato all’uso, la riparazione e la manutenzione di
 comunicatori e sensori. Mentre chiunque può premere il bottone e far
 funzionare un comunicatore, questa abilità è necessaria per comprendere
 come mai un dispositivo non funzioni o come usare il dispositivo per usi
 diversi dalla comunicazione. Quando si usano i sensori, questa abilità
 permette al personaggio di interpretare i dati di lungo raggio dei
-sensori e degli scanner di una nave. I persnaggi esperti possono
+sensori e degli scanner di una nave. I personaggi esperti possono
 potenziare un segnale in arrivo o in uscita, aprire o chiudere un canale
 sicuro, disturbare comunicazioni locali, localizzare e valutare
 potenziali minacce e analizzare dati complessi dei sensori .
 
 ### Corruzione
+
 Il personaggio ha esperienza nel corrompere ufficiali più o meno gretti,
 in modo da aggirare i regolamenti o ignorare leggi ingombranti.
 L’ammontare della bustarella è spesso basata sul livello di violazione,
-come delinato nella tabella Prova di Corruzione secondo la Violazione.
+come delineato nella tabella Prova di Corruzione secondo la Violazione.
 
 #### Tabella: rova di Corruzione secondo la Violazione
 
@@ -338,7 +362,7 @@ come delinato nella tabella Prova di Corruzione secondo la Violazione.
 | --------------------------------- | --- | ----------------- |
 | Reato o Infrazione Insignificante | +2  | 1D6xCr10          |
 | Reato o Infrazione Minore         | +0  | 1D6xCr50          |
-| Serious Crime or Infraction       | -2  | 1D6xCr100         |
+| Reato o Infrazione Seria          | -2  | 1D6xCr100         |
 | Reato o Infrazione Capitale       | -4  | 1D6xCr500         |
 
 Se la bustarella è minore del minimo richiesto, il tentativo fallirà
@@ -352,18 +376,21 @@ tabella Prova di Corruzione secondo la Violazione. Se anche questo
 fallisce, il personaggio sarà accusato di tentata corruzione.
 
 Per esempio, un personaggio che tenta di corrompere un ufficiali per
-ingorare un furtarello dovrà offrire una bustarella di Cr2000. Se il
+ignorare un furtarello dovrà offrire una bustarella di Cr2000. Se il
 personaggio offre Cr4000 invece, potrà ottenere un MD+1 sulla prova. Se
 saranno offerti Cr6000, il personaggio otterrà MD+2 e così via.
 
 ### Demolizioni
+
 Questa abilità copre l’uso di cariche da demolizione e altri esplosivi e
 include l’assemblaggio e lo smantellamento di bombe.
 
 ### Doppietta
+
 Il personaggio è esperto nell’uso delle doppiette.
 
-### Electronica
+### Elettronica
+
 Il personaggio è esperto nell’installare, usare, mantenere, riparare e/o
 creare dispositivi ed equipaggiamento elettronici . Il personaggio può
 commerciarli ricavandone di che vivere, guadagnando un salario per ogni
@@ -377,21 +404,24 @@ malfunzionanti o compiti simili che riguardano i dispositivi
 elettronici.
 
 ### Fucile ad Energia
+
 Il personaggio è esperto nell’uso delle armi avanzate come fucili laser
 o al plasma.
 
 ### Fucili a Proiettili
+
 Il personaggio è esperto nell’uso di fucili a proiettili come fucili
 automatici e cannoni di Gauss.
 
 ### Gioco d’Azzardo
+
 La persona è ben preparata su giochi d’azzardo ed esperto nel giocarli.
 É avvantaggiato rispetto ai non esperti ed è generalmente capace di
 vincere quando si cimenta in questi giochi. L’Abilità Gioco d’Azzardo,
 comunque, non dovrebbe essere confusa con una generazione assunzione di
 rischio.
 
-**Giochi non competivi**: Questi sono giochi come Slot Machines,
+**Giochi non competitivi**: Questi sono giochi come Slot Machines,
 Roulette, Blackjack, Keno, Etc. Questi giochi sono giocati strettamente
 contro la Casa e le loro probabilità sono piuttosto constanti, così come
 i valori di ricompensa. Il personaggio sceglie un gioco dalle sue
@@ -413,7 +443,7 @@ iniziale. La Casa vince sempre al tiro di un 2 naturale.
 | Alta                   | +2  | 2:3        | Cr50              |
 
 **Giochi Competitivi**: Se si gioca contro un gruppo di altri giocatori,
-ciascun partecipante al gioco effettuarà la Prova di Abilità su Gioco
+ciascun partecipante al gioco effettuerà la Prova di Abilità su Gioco
 d’Azzardo e il tiro più alto vince il piatto. Un personaggio può tentare
 di barare durante un gioco in ogni momento dichiarando il suo intento di
 barare ed effettuando un’ulteriore Prova di Gioco d’Azzardo. Se
@@ -424,6 +454,7 @@ persona tenta di barare durante lo stesso round di gioco, la persona con
 il tiro più alto vince il piatto.
 
 ### Grav
+
 Questa abilità garantisce la capacità di manovrare correttamente chiatte
 ad aria e altri veicoli che usano la tecnologica gravitonica, oltre che
 di effettuare operazioni di manutenzione basilari di routine. I Grav
@@ -432,6 +463,7 @@ ma prove di abilità potrebbero essere necessarie quando si effettuano
 manovre acrobatiche ad alta velocità.
 
 ### Gravitonica
+
 Il personaggio è addestrato nell’installare, mantenere, riparare e/o
 creare dispositivi ed equipaggiamento gravitonici. Questi oggetti
 includono: chiatte ad aria, moduli sollevanti, cinture a gravità, slitte
@@ -444,18 +476,21 @@ compiti di routine, come supervisionare aiutanti inesperti e come
 gestire i più comuni problemi.
 
 ### G-Zero
+
 Il personaggio è abituato a lavorare e vivere negli ambienti a
 microgravità o gravità zero. Il personaggio è addestrato ed ha
-familiarita con l’uso di armi e combattimento in questi tipi di
+familiarità con l’uso di armi e combattimento in questi tipi di
 ambiente. Inoltre, le persone sono state addestrate a vestire, prendersi
 cura e mantenere tutti i tipi di Tuta Spaziale e Armatura da
 Combattimento comunemente usati in queste condizioni.
 
 ### Imbarcazioni a motore
+
 Questa abilità garantisce la capacità di manovrare, ed effettuare
 manutenzione di routine su, piccole barche motorizzate.
 
 ### Ingegneria
+
 Il personaggio è esperto nell’operare e mantenere i motori di manovra
 delle astronavi, i motori a Balzo e i generatori. Il personaggio può
 commerciarli ricavandone di che vivere, guadagnando un salario per ogni
@@ -466,18 +501,21 @@ L’Ingegneria è particolarmente importante nell’indirizzare l’energia ai
 motori a Balzo per una riuscita transizione allo Spazio di Balzo.
 
 ### Intermediario
-Un intermediario è abile nel localizzare fornitori e aquirenti e nel
+
+Un intermediario è abile nel localizzare fornitori e acquirenti e nel
 semplificare l’acquisto e la rivendita di beni di commercio, rispetto
 alla regole di **Scambi e Commercio**.
 
 ### Legge della Strada
-Un personaggo con conoscenza della Legge della Strada capisce l’ambiente
+
+Un personaggio con conoscenza della Legge della Strada capisce l’ambiente
 urbano e il potere delle strutture sociali. Un personaggio esperto
 conosce quando e dove recuperare informazioni, come aver a che fare con
 sconosciuti che li offendono e chi può occuparsi di attività sull’orlo
 della legalità.
 
 ### Lingue
+
 Il personaggio può leggere e scrivere in una lingua diversa per ogni
 livello di Lingue che possiede. Tutti i personaggi sanno parlare e
 scrivere la loro lingua madre senza bisogno dell’abilità Lingue e
@@ -488,12 +526,14 @@ Lingue può essere usata per cercare di decifrare il significato di
 massima di un brano, come un’iscrizione o un messaggio registrato.
 
 ### Marinaio (Abilità a Cascata)
+
 Le varie specialità di questa abilità coprono differenti di scafo e viaggi oceanici.
 Quando si riceve questa abilità, il personaggio deve
 immediatamente selezionare una delle seguenti: Imbarcazioni a Motore,
 Navi Oceaniche, Vela o Sottomarino.
 
 ### Meccanica
+
 Il personaggio è pratico nell’istallazione, l’uso, la manutenzione, la
 riparazione e/o la creazione di dispositivi o equipaggiamento meccanici.
 Il personaggio può commerciare ricavandone di che vivere, guadagnando un
@@ -507,24 +547,28 @@ sistemi di allarme meccanici, aprire lucchetti meccanici o in altri
 simili compiti che coinvolgono dispositivi meccanici.
 
 ### Medicina
+
 La persona ha una formazione e l’abilità nelle arti e scienze mediche,
 dalla diagnosi al triage fino alla chirurgia e altri trattamenti
-correttivi. Questa abilità rappresentà la capacità di un personaggio a
+correttivi. Questa abilità rappresenta la capacità di un personaggio a
 fornire assistenza di emergenza, cure a breve termine, a lungo termine e
 trattamenti specializzati per malattie, avvelenamento e infortuni
 debilitanti. Quando tratta un pazienza di una specie diversa dalla
 propria, il personaggio soffre un MD-2.
 
 ### Mischia (Abilità a Cascata)
-Le varie specialità di questa abilità coprono differenti tipi di armi da mischia.Quando si riceve questa abilità, il personaggio deve
+
+Le varie specialità di questa abilità coprono differenti tipi di armi da mischia. Quando si riceve questa abilità, il personaggio deve
 immediatamente selezionare una delle seguenti: Armi Natural, Armi
 Contundenti, Armi Perforanti e Armi da Taglio.
 
 ### Navi Oceaniche
+
 Questa abilità garantisce di manovrare, ed effettuare manutenzione di
-routine su, navi motirizzate di grandi dimensioni che solcano l’oceano.
+routine su, navi motorizzate di grandi dimensioni che solcano l’oceano.
 
 ### Navigazione
+
 Il personaggio è addestrato nelle scienze di navigazione di spazio
 siderale e di Balzo. Il Navigatore su un’astronave traccia la rotta e si
 assicura che le informazioni di astrogazione, richieste dal pilota e
@@ -535,6 +579,7 @@ siderale e tracciare una rotta di Balzo attraverso lo Spazio di Balzo.
 Un’astronave non può Balzare in sicurezza senza una rotta di Balzo.
 
 ### Pilotare
+
 La persona ha addestramento ed esperienza nell’operare vascelli
 interplanetari e interstellari. La competenza di pilotaggio è necessaria
 per manovrare questi vascelli, anche se una Prova è effettuata di solito
@@ -542,45 +587,54 @@ solo quando le circostanze diventano sfidanti, come condizioni
 atmosferiche avverse o azioni ostili.
 
 ### Pistola a Proiettili
+
 Il personaggio è esperto nell’uso di pistole a proiettili come pistole
 calibro 32 o calibro 38.
 
 ### Pistola ad Energia
+
 Il personaggio è esperto nell’uso delle armi avanzate come pistole laser
 e storditori.
 
 ### Prospezione
+
 Questa persona ha esperienza nella ricerca di minerali e depositi di metalli preziosi che possono essere trovati su asteroidi o sulla superficie di pianeti.
 
 ### Ricognizione
+
 Questa abilità rappresenta la capacità di anticipare i pericoli e
 individuare minacce, oggetti insoliti o persone fuori luogo. I
 personaggi esperti in Ricognizione sono abili nel restare invisibili e
 silenziosi.
 
 ### Rotore
+
 Questa abilità garantisce la capacità di manovrare, ed effettuare
 manutenzione di routine su, elicotteri, hovercraft e veicoli simili. I
 Rotori possono galleggiare nell’aria ma è richiesta una Prova di Abilità
 per restare stabili in condizioni ambientali avverse.
 
 ### Ruote
+
 Questa abilità garantisce la capacità di manovrare, ed eseguire
 manutenzione di base su, automobili e simili veicoli su gomma.
 
 ### Schermi
+
 Il personaggio è esperto nell’attivare e usare gli schermi a energia
 della nave, come ammortizzatori nucleari o schermi mesonici.
 
 ### Scienze (Abilità a Cascata)
+
 Le varie specialità di questa abilità coprono le differenti aree degli studi scientifici. Quando si riceve questa abilità, il personaggio deve
 immediatamente selezionare una delle seguenti: Scienze Biologiche,
 Scienze Fisiche, Science Sociali e Scienze Spaziali.
 
 ### Scienze Biologiche
+
 Questa abilità rappresenta la conoscenza pratica e teorica che deriva
 dallo studio scientifico di organismi viventi. Questo copre una vasta
-gama di campi, come: biochimica, biologia, botanica, cibernetica,
+gamma di campi, come: biochimica, biologia, botanica, cibernetica,
 genetica, fisiologia, psicologia e psionica.
 
 ### Science Fisiche
@@ -591,12 +645,14 @@ della materia non vivente. Questo copre una vasta gamma di campi
 correlati, come: chimica, elettronica, geologica e fisica.
 
 ### Scienze Sociali
+
 Questa abilità rappresenta la conoscenza pratica e teorica che deriva
 dallo studio scientifico delle società sofonti e delle relazioni
 sociali. Questo copre una vasta gamma di campi correlati come:
 archeologia, economia, storia, filosofia, psicologia e sofontologia.
 
 ### Scienze Spaziali
+
 Questa abilità rappresenta la conoscenza pratica e teorica che deriva
 dallo diverse discipline scientifiche che studiano fenomeni che accadono
 nello spazio interplanetario e interstellare, oltre che i corpi celesti
@@ -604,6 +660,7 @@ che esistono nello spazio. Questo copre una vasta gamma di campi
 correlati come: astronomia, cosmologia, planetologia e xenologia.
 
 ### Sopravvivenza
+
 Il personaggio è esperto nell’arte della sopravvivenza nella natura
 selvaggia, inclusi caccia e intrappolare animali, evitare l’esporsi,
 localizzare fonti di cibo e acqua pulita (se disponibile), accendere
@@ -612,27 +669,32 @@ pericolose, evitare di perdersi e affrontare i pericoli di climi
 rischiosi (artico, deserto, etc).
 
 ### Sottomarino
+
 Questa abilità garantisce la capacità di manovrare, ed eseguire
 manutenzione di base su, veicoli che viaggiano sott’acqua.
 
 ### Steward
+
 L’abilità di Steward permette al personaggio di servire e prendersi cura
 dei nobili e di passeggeri d’alta classe. Questo include la conoscenza
-di compiti di congierge, servizi di pulizia, preparazione e
+di compiti di concierge, servizi di pulizia, preparazione e
 presentazione dei pasti, assistenza alla tolettatura personale e servizi
 di valletto, oltre che dell’appropriata etichetta.
 
 ### Talpa
+
 Questa abilità garantisce la capacità di manovrare, ed effettuare
-manutenzione di routine su, veicoli che si muovno attraverso la materia
+manutenzione di routine su, veicoli che si muovono attraverso la materia
 solida usando trivelle e altre tecnologie di perforamento, come torce al
 plasma o cavitatori.
 
 ### Tattica
+
 L’abilità copre la pianificazione tattica e la capacità decisionale, dai
 giochi da tavolo ai combattimenti a squadre fino ai conflitti navali.
 
 ### Tenuta da Battaglia
+
 Questa abilità permette al personaggio di operare avanzate armature da
 battaglia, una potente forza di armatura da combattimento che potenzia
 le capacità di chi le indossa in vari modi. Le forze militari di terra e
@@ -641,30 +703,36 @@ tenuta da battaglia. Questa abilità copre anche la capacità di operare
 veicoli progettati come esoscheletri meccanici.
 
 ### Tiro con l’Arco
+
 Il personaggio è abile nell’uso di archi e balestre per cacciare o in
 combattimento.
 
 ### Torrette
+
 Il personaggio è esperto nell’operare armi a torretta a bordo delle
 navi.
 
 ### Tuttofare
+
 L’abilità Tuttofare funziona diversamente dalle altre abilità. Riduce la
 penalità di Inesperto che un personaggio riceve di solito quando non ha
 l’abilità adeguata da usare. Per ogni livello di Tuttofare la penalità è
 ridotta di uno. Tuttofare non garantisce alcun bonus a livelli più alti.
 
 ### Veicoli (Abilità a Cascata)
+
 Le varie specialità di questa abilità coprono differenti tipi di trasporto planetario.
 Quando si riceve questa abilità, il personaggio deve
 immediatamente selezionare una delle seguenti: Aeromobili, Talpa,
 Cingolati, Marinaio o Ruote.
 
 ### Vela
+
 Questa abilità garantisce la capacità di manovrare, ed effettuare
 manutenzione di routine su navi a vela.
 
 ### Veterinaria
+
 La persona è addestrato ed è abile nelle cure mediche e nel trattamento
 di animali. Questa abilità rappresenta la capacità del personaggio di
 provvedere alla cure di emergenza per gli animali, cure a breve termine,
@@ -672,6 +740,7 @@ a lungo termine e il trattamento specializzato per malattie,
 avvelenamento e infortuni debilitanti.
 
 ## Ottenere nuovi Livelli di Abilità durante il gioco
+
 Il Totale Abilità di un personaggio è calcolato sommando i livelli di
 ciascuna abilità (i livelli zero non vengono contati). Un personaggio
 con Meccanica-1 e Pistole a Proiettili-2, avrebbe un Totale Abilità di 3.
@@ -679,7 +748,7 @@ con Meccanica-1 e Pistole a Proiettili-2, avrebbe un Totale Abilità di 3.
 Per migliorare un’abilità, un personaggio deve addestrarsi per un numero
 di settimane pari al suo Totale Abilità attuale, più il livello
 desiderato in quell’abilità. Quindi, per avanzare da Pilota-2 a
-Pillota-3, ci vogliono sei settimane (tre più tre). Un personaggio può
+Pilota-3, ci vogliono sei settimane (tre più tre). Un personaggio può
 addestrarsi solo in un’abilità in una determinata settimana.
 
 Tuttofare non può essere imparato.

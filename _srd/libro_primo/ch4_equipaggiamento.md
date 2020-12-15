@@ -45,7 +45,7 @@ efficienza di un pezzo di equipaggiamento.
 | 12 (C) | Stellare Medio    | Il controllo del tempo rivoluziona la terraformazione e l’agricoltura.                                                                                                                            |
 | 13 (D) | Stellare Medio    | La tenuta da battaglia compare sul campo di battaglia in risposta a nuove armi. Interfacce “ad alta autonomia” permettono ai computer di diventare autoazionati e  autoapprendenti.               |
 | 14 (E) | Stellare Medio    | Le armi a fusione diventano portatili.                                                                                                                                                            |
-| 15 (F) | Stellare Avanzato | I generatori a globi neri indicano una nuova direazione per le tecnologie difensive, mentre lo sviluppo degli anagatici comportano un aumento cospicuo della durata della vita umana.             |
+| 15 (F) | Stellare Avanzato | I generatori a globi neri indicano una nuova direzione per le tecnologie difensive, mentre lo sviluppo degli anagatici comportano un aumento cospicuo della durata della vita umana.              |
 
 Livelli Tecnologici più alti esistono o possono apparire in alcuni
 universi di Cepheus Engine.
@@ -254,7 +254,7 @@ computer, e può essere usato anche senza accesso di rete. Un palmare
 costa il doppio di un computer normale dello stesso LT ma può essere
 tenuto con una mano e operato con l’altra.
 
-### Optioni
+### Opzioni
 
 **Data Display/Recorder** (LT 13): Questo apparecchio, chiamato per
 brevità DD/R, si mette sopra uno o entrambi gli occhi e fornisce un
@@ -342,7 +342,7 @@ nelle campagne di Cepheus Engine.
 | Panacee                 | 8   | Cr200   |
 | Rallentatore Medicinale | 11  | Cr500   |
 
-**Acceleratore Metabolico**: Aumenta il tempo di reazione
+**Acceleratore Metabolico: **Aumenta il tempo di reazione
 dell’utilizzatore a livelli sovrumani. Per chi la usa, tutti gli altri
 sembrano muoversi più lentamente. Un personaggio che usa la droga
 rallentante in combattimento aggiunge +8 al totale della sua Iniziativa
@@ -430,7 +430,7 @@ Mondo con Livello di Legge di 1 o più.
 | Nucleare Tascabile | 12  | 2D6 x 20 | 15D6 metri | 20,000     |
 | TDX                | 12  | 4D6      | 4D6 metri  | 1,000      |
 
-**Nucleare Tascabile**: Assolutamente illegale su molti pianeti, la
+**Nucleare Tascabile: **Assolutamente illegale su molti pianeti, la
 nucleare tascabile ha in realtà le dimensioni di una ventiquattrore, per
 cui è troppo grande per entrare in un lanciagranate.
 
@@ -633,7 +633,7 @@ o Esperto Gioco d’Azzardo per adattarli meglio al loro stile di vita.
 
 ### Opzioni
 
-**Arma Integrata**: Qualsiasi arma adeguata può essere aggiunta a un
+**Arma Integrata: **Qualsiasi arma adeguata può essere aggiunta a un
 drone o a un robot, al costo di Cr 10.000 + il costo dell’arma.
 
 **Armatura**: L’armatura può essere aumentata di 5, il che aumenta il
@@ -779,7 +779,7 @@ e li rende capaci di fare azioni, persino negli ambienti più insoliti.
 | Zaino Propulsore         | 9   | Cr2,000   | 5    |
 | Generatore Portatile     | 10  | Cr500,000 | 15   |
 
-**Abbigliamento Artico**: Protegge dal clima glaciale (-20°C o meno).
+**Abbigliamento Artico: **Protegge dal clima glaciale (-20°C o meno).
 Fornisce un MD+2 su tutte le prove di Resistenza effettuate per
 resistere agli effetti di esposizione al clima freddo. Il peso è ridotto
 di 1kg ogni 5 LT.
@@ -856,11 +856,11 @@ Le abilità tecniche richiedono strumenti specialistici di vario tipo.
 | Toolkit Scientifico    | 9   | Cr1,000 | 12   |
 | Toolkit di Agrimensura | 9   | Cr1,000 | 12   |
 
-**Grimaldelli**: Permettono di forzare normali serratura meccaniche. Gli
+**Grimaldelli: **Permettono di forzare normali serratura meccaniche. Gli
 strumenti da scasso sono illegali sui mondi con livello di legge 8+; su
 questi mondi il prezzo cresce a Cr100 o più.
 
-**Kit Medico**: Questo kit medico contiene dispositivi diagnostici e
+**Kit Medico: **Questo kit medico contiene dispositivi diagnostici e
 scanner, strumenti chirurgici e una quantità di medicinali e
 antibiotici, permettendo al medico di praticare l’arte nel suo campo.
 
@@ -902,7 +902,7 @@ hanno i seguenti tratti:
 
 **LT**: Il Livello Tecnologico minimo a cui quel veicolo è disponibile
 
-**Abilità**: Quale abilità è necessaria per guidare o pilotare il
+**Abilità:**: Quale abilità è necessaria per guidare o pilotare il
 veicolo.
 
 **Agilità (Agi)**: Quanto è facile da guidare il veicolo, espresso sotto
@@ -949,7 +949,7 @@ sua struttura prima di essere disabilitato.
 | Gravicintura   | 12  | Zero-G         | +2  | 300 kph  | 1 indossatore                        | Aperto | \-       | \-     | \-        | Nessuno                      | 100   |
 | Gravitrasporto | 15  | Grav           | +0  | 620 kph  | 1 guidatore, 1 artigliere, 14 psgr   | Chiuso | 25       | 8      | 8         | Pistola a Fusione (torretta) | 150   |
 
-**Aeroscafo**: Un veicolo scoperto sostenuto in aria dalla tecnologia
+**Aeroscafo: **Un veicolo scoperto sostenuto in aria dalla tecnologia
 antigravità. Gli aeroscafi possono anche raggiungere l’orbita
 (impiegando un numero di ore uguale al Codice Dimensione del mondo), ma
 i passeggeri a quell’altitudine devono indossare tute spaziali. Sono
@@ -962,12 +962,12 @@ incorporati (di solito una ricetrasmittente laser) che lo rendono ideale
 per l’esplorazione. Un ATV ha un punto d’aggancio per una torretta, ma
 normalmente non è dotato di armi.
 
-**Automobile**: Una normale autovettura a ruote.
+**Automobile:**: Una normale autovettura a ruote.
 
 **Biplano**: Una primitiva forma di aeroscafo con due paia di ali una
 sopra l’altra. Questo veicolo può trasportare solo un carico di 100kg.
 
-**Destroyer**: Uno scafo molto veloce e manovrabile a lunga durata per
+**Destroyer:** Uno scafo molto veloce e manovrabile a lunga durata per
 azioni militari, concepito per scortare scafi più grandi all’interno di
 una flotta, convogli e gruppi di battaglia e per difenderli da
 attaccanti più piccoli a corto raggio ma più potenti. Alimentato da un
@@ -1119,7 +1119,7 @@ volta.
 | Sciabola          | 3   | Cr100 | 1250g | mischia (gittata estesa)                      | 3D6   | S    | 8   |
 | Fioretto          | 3   | Cr100 | 500g  | mischia (gittata estesa)                      | 3D6   | P    | 8   |
 
-**Alabarda**: Un’arma a due mani a forma di palo dotata di una lama a
+**Alabarda: **Un’arma a due mani a forma di palo dotata di una lama a
 forma di ascia e uno spuntone di acciaio montato sulla sommità della
 lunga asta. Lunghezza: 2500mm.
 
@@ -1271,7 +1271,7 @@ ricaricata.
 | Carabina Laser                         | 8   | Cr200 | 3kg  | 50    |
 | Fucile Laser                           | 9   | Cr300 | 4kg  | 100   |
 
-**Arco**: Un pezzo di legno robusto ma elastico lavorato in una
+**Arco: **Un pezzo di legno robusto ma elastico lavorato in una
 specifica forma e incordato con una pezzo di corda, stringa o budello
 per aumentare la tensione. La corda è tirata indietro e rilasciato per
 scagliare una freccia a lunghe distanze con una forza sorprendente. A
@@ -1440,7 +1440,7 @@ richiede un qualche tipo di identificazione (analisi del DNA o della
 retina di chi lo usa, inserimento di password, trasmissione di un codice
 sbloccante da un com) prima di poter essere usata. Cr 100.
 
-**Lanciagranate(LT 8)**: Un lanciagranate RAM sotto la canna può essere
+**Lanciagranate(LT 8): **Un lanciagranate RAM sotto la canna può essere
 aggiunto a qualsiasi fucile per 1.000 Cr. Questo lanciagranate ha un
 caricatore di una granata, non può sparare in automatico e ci vogliono
 quattro azioni minori per ricaricarlo.
@@ -1588,13 +1588,13 @@ ricaricata.
 
 #### Tabella: Armi Pesanti Comuni
 
-| Armi              | LT  | Costo   | Peso | CdT | Gittata                   | Danno      | Rinculo | LL  |
-| ----------------- | --- | ------- | ---- | --- | ------------------------- | ---------- | ------- | --- |
-| Lanciagranate     | 7   | 400     | 6    | 1   | Distante (doppietta)      | By grenade | Sì      | 3   |
-| Lanciarazzi       | 7   | 2,000   | 6    | 1   | Distante (razzo)          | 4D6        | No      | 3   |
-| Lanciagranate RAM | 8   | 800     | 6    | 1/3 | Distante (arma d’assalto) | By grenade | Sì      | 3   |
-| CPP               | 12  | 20,000  | 10   | 1/4 | Distante (fucile)         | 10D6       | Sì      | 2   |
-| CFP               | 14  | 100,000 | 12   | 1/4 | Distante (fucile)         | 16D6       | Sì      | 2   |
+| Armi              | LT  | Costo   | Peso | CdT | Gittata                   | Danno       | Rinculo | LL  |
+| ----------------- | --- | ------- | ---- | --- | ------------------------- | ----------- | ------- | --- |
+| Lanciagranate     | 7   | 400     | 6    | 1   | Distante (doppietta)      | Per Granata | Sì      | 3   |
+| Lanciarazzi       | 7   | 2,000   | 6    | 1   | Distante (razzo)          | 4D6         | No      | 3   |
+| Lanciagranate RAM | 8   | 800     | 6    | 1/3 | Distante (arma d’assalto) | Per Granata | Sì      | 3   |
+| CPP               | 12  | 20,000  | 10   | 1/4 | Distante (fucile)         | 10D6        | Sì      | 2   |
+| CFP               | 14  | 100,000 | 12   | 1/4 | Distante (fucile)         | 16D6        | Sì      | 2   |
 
 #### Tabella: Munizioni Comuni (Armi Pesanti)
 

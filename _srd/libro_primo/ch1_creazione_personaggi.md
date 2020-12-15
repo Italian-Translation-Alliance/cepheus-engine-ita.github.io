@@ -9,7 +9,6 @@ title: 'CAPITOLO 1: CREAZIONE DEI PERSONAGGI'
 published: true
 
 ---
-
 In Cepheus Engine i personaggi raramente sono principianti freschi di fattoria.
 Non c'è alcuna limitazione a giocare un personaggio giovane e inesperto, se lo vuoi, ma siccome una vasta gamma di abilità è importante per il successo durante il gioco, molti giocatori preferiranno che i loro personaggi abbiano un po' più di esperienza del mondo. 
 
@@ -42,7 +41,7 @@ Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro 
     b. Se la tua carriera offre una Prova di acquisizione del Grado e sei di Rango 0, puoi scegliere di tirare per acquisire un Grado. Se hai successo, passi al Rango 1 della carriera prescelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi abilità bonus dalla Tabella Ranghi per questa carriera.    
     c. Se una carriera offre una Prova di Promozione e se sei di Rango 1 o superiore, puoi scegliere di tirare per la Promozione. Se hai successo, il tuo Rango incrementa di uno nella carriera prescelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi bonus di abilità dalla Tabella Ranghi per questa carriera. Puoi tirare per una Promozione nello stesso periodo in cui hai ricevuto un Grado.    
 7. Abilità e Addestramento
-    a. Seleziona una delle Tabelle Abilità o Addestramento prevista per questa carriera e tira su di essa. Se il risultato è un miglioramento della carattestica, applica la modifica al tuo punteggio di caratteristica immediatamente. Se guadagni un'abilità come risultato e non hai ancora alcun livello in quell'abilità, la prendi al Livello 1. Se già possiedi quell'abilità, la incrementi di un livello.     
+    a. Seleziona una delle Tabelle Abilità o Addestramento prevista per questa carriera e tira su di essa. Se il risultato è un miglioramento della caratteristica, applica la modifica al tuo punteggio di caratteristica immediatamente. Se guadagni un'abilità come risultato e non hai ancora alcun livello in quell'abilità, la prendi al Livello 1. Se già possiedi quell'abilità, la incrementi di un livello.     
     b. Se la tua carriera non prevede una Prova di assegnazione del Grado o di Promozione, puoi tirare una seconda volta, selezionando una delle Tabelle Abilità o Addestramento prevista per questa carriera (che può essere la stessa tabella che hai già scelto per questo periodo oppure una differente).
 8. Invecchiamento
     a. Aumenta la tua età di 4 anni.    
@@ -57,11 +56,11 @@ Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro 
 11. Prossima Carriera
     Se stai lasciando la tua carriera corrente e il totale del numero di periodi durante la creazione del personaggio è meno di sette, puoi andare al punto 3 per scegliere una nuova carriera oppure al punto 12 se desideri completare il tuo personaggio.
 12. Compra l'equipaggiamento iniziale
-    Compra il tuo equipaggaimento iniziale e, se te lo puoi permettere, magari un'astronave.
+    Compra il tuo equipaggiamento iniziale e, se te lo puoi permettere, magari un'astronave.
 
 ## Caratteristiche
 
-Le Cararatteristiche misurano le abilità più basilari di un personaggio: quanto è forte, agile, istruito o intelligente. I punteggi di caratteristica influenzano quasi tutto ciò che il personaggio fa. I personaggi più forti possono sollevare pesi maggiori, i più agili hanno un migliore equilibrio e così via.
+Le Caratteristiche misurano le abilità più basilari di un personaggio: quanto è forte, agile, istruito o intelligente. I punteggi di caratteristica influenzano quasi tutto ciò che il personaggio fa. I personaggi più forti possono sollevare pesi maggiori, i più agili hanno un migliore equilibrio e così via.
 
 I personaggi hanno sei abilità: Forza (For), Destrezza (Dex), Resistenza (Res), Intelligenza (Int), Educazione (Edu) e Status Sociale (Soc). Forza, Destrezza e Resistenza sono chiamate capacità fisiche, mentre Intelligenza, Educazione e Status Sociale sono capacità mentali definite in modo vago. Ciascun punteggio sopra la media garantisce un bonus su certi Tiri di dado, mentre capacità sotto la media causano una penalità a certi Tiri di dado.
 
@@ -85,7 +84,7 @@ In un universo di Cepheus Engine in cui i personaggi, che hanno uno Status Socia
 | 10 (A)         | Lord (Lady)                         |
 | 11 (B)         | Cavaliere (Dama)                    |
 | 12 (C)         | Barone (Baronessa), Baronetto       |
-| 13 (D)         | Marquis (Marquesa, Marchioness)     |
+| 13 (D)         | Marchese (Marchesa)                 |
 | 14 (E)         | Conte (Contessa)                    |
 | 15 (F)         | Duca (Duchessa)                     |
 | 16 (G)         | Arciduca (Arciduchessa)             |
@@ -102,7 +101,7 @@ Determinare i punteggi di caratteristica è abbastanza semplice.  Tira le tue se
 
 **Regola Opzionale**: Con il consenso dell'Arbitro, tira 2D6 sei volte e assegna i risultati alle sei differenti caratteristiche basandoti su una particolare concezione di personaggio. Per esempio, se immagini il tuo personaggio come un ricercatore altamente istruito, allora potresti assegnare il tuo risultato più alto all'Educazione e assegnare il secondo risultato più alto all'Intelligenza.
 
-**Limiti dei Punteggi di Carattestica**: Per i personaggi giocanti, un punteggio di caratteristica non può tipicamente superare il massimo di 15, né può scendere permanentemente sotto ad 1, a eccezione di particolari circostanze.
+**Limiti dei Punteggi di Caratteristica**: Per i personaggi giocanti, un punteggio di caratteristica non può tipicamente superare il massimo di 15, né può scendere permanentemente sotto ad 1, a eccezione di particolari circostanze.
 
 ### Modificatori di Caratteristica
 
@@ -132,7 +131,7 @@ Durante la partita, i punteggi di caratteristica dei personaggi potrebbero cambi
 - L'invecchiamento può abbassare in modo permanente i punteggi di caratteristica fisica.
 - Il danno fisico, come quello da combattimento, le cadute, le malattie o il veleno, può abbassare in modo temporaneo i punteggi di caratteristica fisica.
 - Il trauma mentale, come ferite alla testa o un attacco psionico, può abbassare in modo temporaneo i punteggi di caratteristica mentale.
-- Alcune medicine, potenziamenti psionici e altri casi possono migliorare temporanemanente o permanentemente specifici punteggi di caratteristica.
+- Alcune medicine, potenziamenti psionici e altri casi possono migliorare temporaneamente o permanentemente specifici punteggi di caratteristica.
 
 Ogni volta che un punteggio di caratteristica cambia, dovrà determinare il suo nuovo modificatore.
 
@@ -144,7 +143,7 @@ Le specie aliene possono avere scelte aggiuntive per il genere e quindi si può 
 
 ### Riguardo alle Specie Aliene e allo Status Sociale
 
-Le specie aliene potrebbero avere diversi criteri per lo Status Sociale: Casta o Carisma. Quando si ha a che fare con una razza che ha un diverso concetto di Status Sociale, tutti gli MD per lo Status Sociale o il suo equivaliente alieno, sia positivi che negativi, sono dimezzati.
+Le specie aliene potrebbero avere diversi criteri per lo Status Sociale: Casta o Carisma. Quando si ha a che fare con una razza che ha un diverso concetto di Status Sociale, tutti gli MD per lo Status Sociale o il suo equivalente alieno, sia positivi che negativi, sono dimezzati.
 
 ## Il Profilo di Personalità Universale (PPU)
 
@@ -220,7 +219,7 @@ Crescere sul tuo mondo d'origine ti ha dotato di abilità che dipendono dalla na
 | Giardino            | Animali-0            |
 | Industriale         | Intermediario-0      |
 | Mondo d'Acqua       | Navigazione-0        |
-| Oceani Fludi        | Navigazione-0        |
+| Oceani Fluidi       | Navigazione-0        |
 | Povero              | Animali-0            |
 | Ricco               | Baldoria-0           |
 | Vuoto               | G-Zero-0             |
@@ -235,7 +234,7 @@ Un'educazione formale ti fornisce delle competenze di base in varie scienze e di
 
 ## Carriere
 
-I Personaggi nel Cepheus Engine non iniziano come persone appena maggiorenni che si buttano immeditamente in gioco con le sole abilità iniziali. Invece, i personaggi acquisiscono esperienza intraprendendo una delle ventiquattro differenti carriere. La natura casuale dei percorsi di carriera (anche conosciuta come storia precedente o precedente carriera) porta ad avere personaggi con diversi livelli di esperienza e con diversi cammini di vita. Un personaggio acquisisce maggiori abilità quanto più rimangono nel processo di creazione, ma non esenti dal rischio di invecchiare. Le scelte dei giocatori avranno grande impatto sul risultato finale.
+I Personaggi nel Cepheus Engine non iniziano come persone appena maggiorenni che si buttano immediatamente in gioco con le sole abilità iniziali. Invece, i personaggi acquisiscono esperienza intraprendendo una delle ventiquattro differenti carriere. La natura casuale dei percorsi di carriera (anche conosciuta come storia precedente o precedente carriera) porta ad avere personaggi con diversi livelli di esperienza e con diversi cammini di vita. Un personaggio acquisisce maggiori abilità quanto più rimangono nel processo di creazione, ma non esenti dal rischio di invecchiare. Le scelte dei giocatori avranno grande impatto sul risultato finale.
 
 Durante la carriera, un personaggio dovrà più volte lanciare i dadi. Molti di questi lanci riguardano le caratteristiche - lancia 2D6, aggiungi l'MD della caratteristica elencata e cerca di avere un totale superiore al valore indicato. Un tiro di Int 8+ significa "tira 2D6, aggiungi l'MD di Intelligenza e hai successo se tiri 8 o più". Alcuni tiri sono Prove di Abilità, nelle quali aggiungi qualsiasi livello in quell'abilità e l'MD di una caratteristica appropriata, se specificato. Per esempio, un tiro di Gioco d'Azzardo 8+ significa "tira 2D6, aggiungi la tua abilità Gioco d'Azzardo e l'MD della caratteristica appropriata come Destrezza, se specificato e supera 8".
 
@@ -248,24 +247,24 @@ Le seguenti ventiquattro carriere sono dettagliate alla fine di questo capitolo:
 - **Barbaro**: Persona che proviene da un pianeta primitivo (LT4 o meno), capace di sopravvivere sul loro mondo senza aiuto di una civiltà tecnologicamente avanzata.
 - **Burocrate**: Ufficiale in un dipartimento governativo, incaricato di seguire i dettagli del funzionamento amministrativo.
 - **Cacciatore**: Persona che uccide o cattura grande selvaggina, quasi sempre grandi mammiferi terrestri, per ottenere carne, altri prodotti di origine animale (come corna o ossa), trofei o per sport.
-- **Cinturiano**: Persona che esplora per profitto le fasce di aesteroidi in cerca di depositi minerari e materiale di recupero.
+- **Cinturiano**: Persona che esplora per profitto le fasce di asteroidi in cerca di depositi minerari e materiale di recupero.
 - **Colono**: Persona che trasloca su un nuovo mondo o si insedia in una colonia planetaria.
-- **Corpo di Difesa Aerospaziale**: Membro di una forza armata planetaria che opera entro i limiti dell’atmosfera di quel mondo e nella sua orbita bassa. Conosciuto anche come “Areonautica Planetaria”.
+- **Corpo di Difesa Aerospaziale**: Membro di una forza armata planetaria che opera entro i limiti dell’atmosfera di quel mondo e nella sua orbita bassa. Conosciuto anche come “Aeronautica Planetaria”.
 - **Corpo di Difesa Marittima**: Membro di una forza armata planetaria che opera sotto o sopra la superficie degli oceani di quel mondo. Conosciuto anche come “Marina planetaria”.
 - **Corpo di Difesa Terrestre**: Membro di una forza armata planetaria che opera sulla superficie non bagnata di quel mondo. Conosciuto anche come “Esercito Planetario”.
 - **Diplomatico**: Persona che è investito da un governo planetario o interstellare per condurre negoziati ufficiali e per mantenere relazioni politiche, economiche e sociali con altre entità politiche.
 - **Esploratore**: Membro di un servizio di esplorazione interplanetaria, impegnato nella ricognizione di territori sconosciuti nello spazio.
 - **Intrattenitore**: Persona che ha raggiunto lo status di celebrità per la loro competenza nell’intrattenere il pubblico.
 - **Malvivente**: Persona che si guadagna da vivere attraverso mezzi illeciti.
-- **Marina**: Membro di una forza armata interstellare che conduce operazioni militari nello spazio interplanetario o interstelllare. Conosciuta anche come “Marina spaziale”.
-- **Marine**: Membro di una forza armata interstellare addestrato a servire in una varietà di ambienti, spesso trasportarto a bordo di astronavi come complemento alla marina interstellare. Conosciuto anche come “marine spaziale”.
+- **Marina**: Membro di una forza armata interstellare che conduce operazioni militari nello spazio interplanetario o interstellare. Conosciuta anche come “Marina spaziale”.
+- **Marine**: Membro di una forza armata interstellare addestrato a servire in una varietà di ambienti, spesso trasportato a bordo di astronavi come complemento alla marina interstellare. Conosciuto anche come “marine spaziale”.
 - **Medico**: Persona che è abile nella scienza medica ed è addestrata e autorizzata a trattare le persone malate o ferite.
 - **Mercante**: Persona coinvolta nel commercio interstellare, in particolare tra singoli mondi o entità politiche.
 - **Mercenario**: Soldato professionista ingaggiato per servire in una forza armata straniera o per eseguire specifiche azioni militari.
-- **Nobile**: Membro di un classe di elite, che possiede alto status sociale e politico.
+- **Nobile**: Membro di un classe di élite, che possiede alto status sociale e politico.
 - **Pirata**: Persona che attacca o ruba dalle astronavi interplanetarie o interstellari in pieno spazio.
 - **Ramingo**: Persona che si muove continuamente da un posto all’altro, senza alcuna fissa dimora o impiego.
-- **Scienziato**: Persona che si è impegnato nella scienza e ne possiede conoscienza ed esperienza, specialmente di biologia o fisica.
+- **Scienziato**: Persona che si è impegnato nella scienza e ne possiede conoscenza ed esperienza, specialmente di biologia o fisica.
 - **Tecnico**: Persona abile nelle tecniche meccaniche o industriali o in un particolare campo tecnico.
 
 ### Qualifica e la Coscrizione
@@ -276,9 +275,9 @@ La Prova di Qualifica determina se puoi entrare con successo nella carriera pres
 
 | Tiro | Carriera di Coscrizione                               |
 | ---- | ----------------------------------------------------- |
-| 1    | Corpo di Difesa Aerospaziale (Areonautica Planetaria) |
+| 1    | Corpo di Difesa Aerospaziale (Aeronautica Planetaria) |
 | 2    | Marine                                                |
-| 3    | Corpo di Difesa Marittina (Marina Planetaria)         |
+| 3    | Corpo di Difesa Marittima (Marina Planetaria)         |
 | 4    | Marina                                                |
 | 5    | Esploratori                                           |
 | 6    | Corpo di Difesa Terrestre (Esercito Planetario)       |
@@ -299,14 +298,14 @@ Ogni carriera prevede una Prova di Sopravvivenza. Se fallisci questo tiro, il tu
 
 #### Tabella: Incidenti di Sopravvivenza
 
-| 1D6 | Mishap                                                                                                                                                                                                                              |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Ferito in Azione. (Questo vale come un risultato di 2 sulla tabella degli Infortuni.) In alternativa, tira due volte sulla tabella degli                                                                                            |
-| 2   | Congedato con onore dal servizio                                                                                                                                                                                                    |
-| 3   | Congedato con onore dal servizio dopo una lunga battaglia legale. Le vicissitudini legali ti hanno indebitato per Cr10.000.Honorably discharged from the service after a long legal battle. Legal issues create a debt of Cr10,000. |
-| 4   | Congedato con disonore dal servizio. Perdi tutti i benefici.                                                                                                                                                                        |
-| 5   | Congedato con disonore dal servizio dopo aver trascorso altri 4 anni in prigione per crimini. Perdi tutti i benefici.                                                                                                               |
-| 6   | Congedato per motivi di salute dal servizio. Tira sulla tabella degli Infortuni                                                                                                                                                     |
+| 1D6 | Incidente                                                                                                                                |
+| --- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Ferito in Azione. (Questo vale come un risultato di 2 sulla tabella degli Infortuni.) In alternativa, tira due volte sulla tabella degli |
+| 2   | Congedato con onore dal servizio                                                                                                         |
+| 3   | Congedato con onore dal servizio dopo una lunga battaglia legale. Le vicissitudini legali ti hanno indebitato per Cr10.000.              |
+| 4   | Congedato con disonore dal servizio. Perdi tutti i benefici.                                                                             |
+| 5   | Congedato con disonore dal servizio dopo aver trascorso altri 4 anni in prigione per crimini. Perdi tutti i benefici.                    |
+| 6   | Congedato per motivi di salute dal servizio. Tira sulla tabella degli Infortuni                                                          |
 
 ## Gradi e Promozione
 
@@ -320,7 +319,7 @@ Gradi e Promozioni non sono previsti per Atleti, Barbari, Cinturiani, Raminghi, 
 
 Ogni carriera ha tabelle abilità associate ad essa - Sviluppo Personale, Abilità di Servizio, Abilità Specialistiche ed Educazione Avanzata. In ciascun periodo trascorso in una carriera, scegli una di queste tabelle e tira 1D6 per vedere quale abilità puoi incrementare. Puoi tirare sulla tabella Educazione Avanzata solamente se il personaggio ha Educazione 8+.
 
-Siccome Atleti, Barbari, Cinturiani, Raminghi, Intratternitori, Cacciatori ed Esploratori non hanno Prove di assegnazione del Grado o di Promozione, i personaggi ottengono, per ciascun periodo, due tiri per le abilità invece che solo un tiro.
+Siccome Atleti, Barbari, Cinturiani, Raminghi, Intrattenitori, Cacciatori ed Esploratori non hanno Prove di assegnazione del Grado o di Promozione, i personaggi ottengono, per ciascun periodo, due tiri per le abilità invece che solo un tiro.
 
 ### Abilità a Cascata
 
@@ -332,14 +331,14 @@ I personaggi feriti in combattimento o in incidenti durante la creazione, devono
 
 #### Tabella: Tabella delle Ferite
 
-| 1D6 | Infortuni                                                                                                                      |
-|:---:| ------------------------------------------------------------------------------------------------------------------------------ |
-| 1   | Quasi ucciso. Riduci una caratteristica fisica di 1D6, riduci le altre due caratteristiche fische di 2 (o una delle tre di 4). |
-| 2   | Gravemente ferito. Riduci una caratteristica fisica di 1D6.                                                                    |
-| 3   | Perdi un'occhio o un'estremità. Riduci la Forza o la Destrezza di 2.                                                           |
-| 4   | Sfregiato. Se sfregiato e ferito. RIduci una qualsiasi caratteristica di 2.                                                    |
-| 5   | Ferito. Riduci una qualsiasi caratteristica di 1.                                                                              |
-| 6   | Leggermente ferito. Nessun effetto permanente.                                                                                 |
+| 1D6 | Infortuni                                                                                                                       |
+|:---:| ------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Quasi ucciso. Riduci una caratteristica fisica di 1D6, riduci le altre due caratteristiche fisiche di 2 (o una delle tre di 4). |
+| 2   | Gravemente ferito. Riduci una caratteristica fisica di 1D6.                                                                     |
+| 3   | Perdi un'occhio o un'estremità. Riduci la Forza o la Destrezza di 2.                                                            |
+| 4   | Sfregiato. Se sfregiato e ferito. Riduci una qualsiasi caratteristica di 2.                                                     |
+| 5   | Ferito. Riduci una qualsiasi caratteristica di 1.                                                                               |
+| 6   | Leggermente ferito. Nessun effetto permanente.                                                                                  |
 
 ### Crisi da Ferita
 
@@ -356,7 +355,7 @@ Se il tuo personaggio è stato ferito al servizio di un patrono o di un’organi
 
 | Carriera                                                                                                                              | Tiro di 4+ | Tiro di 8+ | Tiro di 12+ |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | ----------- |
-| Corpo di Difesa Areospaziale, Marine, Sistema di Difesa Marittina, Marina, Esploratore, Sistema di Difesa Terrestre                   | 75%        | 100%       | 100%        |
+| Corpo di Difesa Aerospaziale, Marine, Sistema di Difesa Marittima, Marina, Esploratore, Sistema di Difesa Terrestre                   | 75%        | 100%       | 100%        |
 | Agente, Atleta, Burocrate, Diplomatico, Intrattenitore, Cacciatore, Mercenario, Mercante, Nobile, Medico, Pirata, Scienziato, Tecnico | 50%        | 75%        | 100%        |
 | Barbaro, Cinturiano, Colono, Ramingo, Malvivente                                                                                      | 0%         | 50%        | 75%         |
 
@@ -398,7 +397,7 @@ Le droghe costano 1d6x2.500 Crediti per ogni termine durante il quale il persona
 
 ## Riarruolamento e Pensione
 
-Al termine di ciascun periodo, il personaggio deve decidere se desideri continuare sul percorso della propria carriera o se desidera congedarsi. Se desidera continuare, il personaggio deve superare una Prova di Riarruolamento così come definita nella loro attuale professione o servizio. Se il personaggio tira un 12 naturale, non può lasciare la propia carriera attuale e deve continuare per un altro periodo. Se la prova non ha successo, non può riarruolarsi  e il personaggio deve lasciare l'attuale carriera.
+Al termine di ciascun periodo, il personaggio deve decidere se desideri continuare sul percorso della propria carriera o se desidera congedarsi. Se desidera continuare, il personaggio deve superare una Prova di Riarruolamento così come definita nella loro attuale professione o servizio. Se il personaggio tira un 12 naturale, non può lasciare la propria carriera attuale e deve continuare per un altro periodo. Se la prova non ha successo, non può riarruolarsi  e il personaggio deve lasciare l'attuale carriera.
 
 Un personaggio che ha servito per 7 o più periodi durante la creazione deve ritirarsi e non può più proseguire in altre carriere a meno che non abbia tirato un 12 naturale durante il Riarruolamento e debba servire per un altro periodo di servizio.
 
@@ -420,7 +419,7 @@ Un personaggio che ha servito per 5 o più periodi in un solo servizio, riceve u
 
 ## Benefici del Congedo
 
-I personaggi che termimano le proprie carriere ricevono un beneficio per ciascun periodo di servizio durante i quali non hanno perso tali benefici. Un ulteriore beneficio è ottenuto se il personaggio ha Rango 4, due per il Rango 5. Un personaggio con Rango 6, ottiene tre ulteriori benefici.
+I personaggi che terminano le proprie carriere ricevono un beneficio per ciascun periodo di servizio durante i quali non hanno perso tali benefici. Un ulteriore beneficio è ottenuto se il personaggio ha Rango 4, due per il Rango 5. Un personaggio con Rango 6, ottiene tre ulteriori benefici.
 
 ### Benefici in Denaro
 
@@ -428,7 +427,7 @@ Fino a 3 tiri beneficio possono essere effettuati sulla tabella Denaro. Tutti gl
 
 ### Benefici Materiali
 
-I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote di Nave. L'assocazione alla Società degli Esploratori è possibile e ulteriori benefici corrisposti in armamentario possono essere invece scambiati con livelli aggiuntivi di abilità. Nota che i personaggi con un Rango 5 o 6, ottengono +1 sui tiri di Benefici Materiali.
+I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote di Nave. L'associazione alla Società degli Esploratori è possibile e ulteriori benefici corrisposti in armamentario possono essere invece scambiati con livelli aggiuntivi di abilità. Nota che i personaggi con un Rango 5 o 6, ottengono +1 sui tiri di Benefici Materiali.
 
 - **Vascello da Esplorazione**: Il personaggio si considera in servizio indipendente
   con il corpo degli Esploratori e per questo gli è stato concesso l'uso di una nave stellare TL9 Courier da 100 tonnellate in eccedenza con clausola di riserva. Il Corpo degli Esploratori ha inoltre garantito manutenzione e carburante gratuiti in ogni Base di Esploratori. Tutte le altre spese riguardanti la nave sono responsabilità del personaggio. Mentre il personaggio ha la libertà di usare il vascello come preferisce, il vascello è ancora proprietà del Corpo degli Esploratori e quindi non può essere abbandonato o venduto senza conseguenze. In cambio dell'usufrutto della nave, il personaggio e la nave sono entrambi considerati disponibili a tornare in servizio in ogni momento, se il Corpo dovesse averne la necessità.
@@ -444,7 +443,7 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 - **Arma**: Il personaggio lascia il servizio con un'arma adeguata (pistola o lama). Una volta che l'arma è ottenuta come beneficio, riceverlo altre volte può far ottenere abilità in quell'arma. Una persona è sempre libera di prendere altri esemplari dell'arma anziché livelli di abilità, se lo desidera.
 
 | Carriera           | Agente                             | Atleta                    | Barbaro             | Burocrate                        |
-|--------------------|------------------------------------|---------------------------|---------------------|----------------------------------|
+| ------------------ | ---------------------------------- | ------------------------- | ------------------- | -------------------------------- |
 | Qualifiche         | Soc 6+                             | Res 8+                    | Res 5+              | Soc 6+                           |
 | Sopravvivenza      | Int 6+                             | Dex 5+                    | For 6+              | Edu 4+                           |
 | Grado              | Edu 7+                             | --                        | --                  | Soc 5+                           |
@@ -476,7 +475,7 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 7                  | 50000                              | 100000                    | 10000               | 50000                            |
 
 | Carriera                | Agente              | Atleta              | Barbaro             | Burocrate           |
-|-------------------------|---------------------|---------------------|---------------------|---------------------|
+| ----------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
 | 1                       | +1 Dex              | +1 Dex              | +1 For              | +1 Dex              |
 | 2                       | +1 Res              | +1 Int              | +1 Dex              | +1 Res              |
@@ -494,7 +493,7 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 |                         | Specialista         | Specialista         | Specialista         | Specialista         |
 | 1                       | Armi da Fuoco       | G-Zero              | Armi da Fuoco       | Amministrazione     |
 | 2                       | Mischia             | Atletica            | Tuttofare           | Computer            |
-| 3                       | Corruzione          | Atletica            | Mischia             | Perception          |
+| 3                       | Corruzione          | Atletica            | Mischia             | Percezione          |
 | 4                       | Comando             | Computer            | Ricognizione        | Comando             |
 | 5                       | Ricognizione        | Comando             | Animali             | Steward             |
 | 6                       | Sopravvivenza       | Gioco d’Azzardo     | Tattica             | Veicoli             |
@@ -507,14 +506,14 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 6                       | Comando             | Scienze             | Intermediario       | Amministrazione     |
 
 | Carriera           | Cacciatore          | Cinturiano          | Colono                                      | Difesa Aerospaziale          |
-|--------------------|---------------------|---------------------|---------------------------------------------|------------------------------|
+| ------------------ | ------------------- | ------------------- | ------------------------------------------- | ---------------------------- |
 | Qualifiche         | Res 5+              | Int 4+              | Res 5+                                      | Res 5+                       |
 | Sopravvivenza      | For 8+              | Dex 7+              | Res 6+                                      | Dex 5+                       |
 | Grado              | --                  | --                  | Int 7+                                      | Edu 6+                       |
 | Promozione         | --                  | --                  | Edu 6+                                      | Edu 7+                       |
 | Riarruolamento     | 6+                  | 5+                  | 5+                                          | 5+                           |
 | Ranghi e Abilità   | Cacciatore          | Cinturiano          | Colono                                      | Aerospazio                   |
-| 0                  | \[Sopravvivenza-1\] | \[G-Zero-1\]        | Cittadino \[Sopravvivenza-1\]               | Aviatore \[Aeremobili-1\]    |
+| 0                  | \[Sopravvivenza-1\] | \[G-Zero-1\]        | Cittadino \[Sopravvivenza-1\]               | Aviatore \[Aeromobili-1\]    |
 | 1                  | --                  | --                  | Capo Distretto                              | Ufficiale di volo            |
 | 2                  | --                  | --                  | Delegato di Distretto                       | Tenente                      |
 | 3                  | --                  | --                  | Consulente del Consiglio \[Collegamento-1\] | Capo Squadrone \[Comando-1\] |
@@ -539,7 +538,7 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 7                  | 100000              | 50000               | 50000                                       | 50000                        |
 
 | Carriera                | Cacciatore          | Cinturiano          | Colono              | Difesa Aerospaziale |
-|-------------------------|---------------------|---------------------|---------------------|---------------------|
+| ----------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
 | 1                       | +1 For              | +1 For              | +1 For              | +1 For              |
 | 2                       | +1 Dex              | +1 Dex              | +1 Dex              | +1 Dex              |
@@ -553,7 +552,7 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 3                       | Mischia             | Armi da Fuoco       | Animali             | Artiglieria         |
 | 4                       | Ricognizione        | Artiglieria         | Elettronica         | Mischia             |
 | 5                       | Sopravvivenza       | Prospezione         | Sopravvivenza       | Sopravvivenza       |
-| 6                       | Veicoli             | Pilotare            | Veicoli             | Aeremobili          |
+| 6                       | Veicoli             | Pilotare            | Veicoli             | Aeromobili          |
 |                         | Specialista         | Specialista         | Specialista         | Specialista         |
 | 1                       | Amministrazione     | G-Zero              | Atletica            | Comunicazioni       |
 | 2                       | Comunicazioni       | Computer            | Baldoria            | Gravitonica         |
@@ -570,7 +569,7 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 6                       | Animali             | Tattica             | Animali             | Tattica             |
 
 | Carriera           | Difesa Marittima                 | Difesa Terrestre            | Diplomatico                            | Esploratore               |
-|--------------------|----------------------------------|-----------------------------|----------------------------------------|---------------------------|
+| ------------------ | -------------------------------- | --------------------------- | -------------------------------------- | ------------------------- |
 | Qualifiche         | Res 5+                           | Res 5+                      | Soc 6+                                 | Int 6+                    |
 | Sopravvivenza      | Res 5+                           | Edu 5+                      | Edu 5+                                 | End 7+                    |
 | Grado              | Int 6+                           | Res 6+                      | Int 7+                                 | --                        |
@@ -601,25 +600,25 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 6                  | 50000                            | 50000                       | 50000                                  | 50000                     |
 | 7                  | 50000                            | 50000                       | 100000                                 | 50000                     |
 
-| Carriera                | Difesa Marittina    | Difesa Terrestre    | Diplomatico         | Esploratore         |
-|-------------------------|---------------------|---------------------|---------------------|---------------------|
+| Carriera                | Difesa Marittima    | Difesa Terrestre    | Diplomatico         | Esploratore         |
+| ----------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
 | 1                       | +1 For              | +1 For              | +1 Dex              | +1 For              |
 | 2                       | +1 Dex              | +1 Dex              | +1 Res              | +1 Dex              |
 | 3                       | +1 Res              | +1 Res              | +1 Int              | +1 End              |
-| 4                       | Atletica            | Atletica            | +1 Edu              | Tuttofaro           |
+| 4                       | Atletica            | Atletica            | +1 Edu              | Tuttofare           |
 | 5                       | Mischia             | Mischia             | Atletica            | +1 Edu              |
 | 6                       | Veicoli             | Veicoli             | Baldoria            | Mischia             |
 |                         | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio | Abilità di Servizio |
 | 1                       | Meccanica           | Meccanica           | Amministrazione     | Comunicazioni       |
 | 2                       | Armi da Fuoco       | Armi da Fuoco       | Computer            | Elettronica         |
 | 3                       | Artiglieria         | Artiglieria         | Baldoria            | Armi da Fuoco       |
-| 4                       | Mischia             | Mischia             | Corruzione          | Artigliera          |
+| 4                       | Mischia             | Mischia             | Corruzione          | Artiglieria         |
 | 5                       | Sopravvivenza       | Ricognizione        | Collegamento        | Ricognizione        |
 | 6                       | Marinaio            | Tenuta da Battaglia | Veicoli             | Pilota              |
 |                         | Specialista         | Specialista         | Specialista         | Specialista         |
 | 1                       | Comunicazioni       | Comunicazioni       | Baldoria            | Ingegneria          |
-| 2                       | Elettronica         | Demolizioni         | Lingue              | Artigliera          |
+| 2                       | Elettronica         | Demolizioni         | Lingue              | Artiglieria         |
 | 3                       | Armi da Fuoco       | Armi da Fuoco       | Corruzione          | Demolizioni         |
 | 4                       | Demolizioni         | Mischia             | Collegamento        | Navigazione         |
 | 5                       | Ricognizione        | Sopravvivenza       | Steward             | Medicina            |
@@ -633,7 +632,7 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 6                       | Tattica             | Tattica             | Comando             | Tattica             |
 
 | Carriera           | Intrattenitore            | Malvivente                            | Marina                           | Marine                    |
-|--------------------|---------------------------|---------------------------------------|----------------------------------|---------------------------|
+| ------------------ | ------------------------- | ------------------------------------- | -------------------------------- | ------------------------- |
 | Qualifiche         | Soc 8+                    | Dex 5+                                | Int 6+                           | Int 6+                    |
 | Sopravvivenza      | Int 4+                    | Dex 4+                                | Int 5+                           | Res 6+                    |
 | Grado              | --                        | For 6+                                | Soc 7+                           | Edu 6+                    |
@@ -665,7 +664,7 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 7                  | 100000                    | 50000                                 | 50000                            | 50000                     |
 
 | Carriera                | Intrattenitore      | Malvivente          | Marina              | Marine              |
-|-------------------------|---------------------|---------------------|---------------------|---------------------|
+| ----------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
 | 1                       | +1 Dex              | +1 For              | +1 For              | +1 For              |
 | 2                       | +1 Int              | +1 Dex              | +1 Dex              | +1 Dex              |
@@ -695,40 +694,40 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 5                       | Medicina            | Avvocato            | Navigazione         | Navigazione         |
 | 6                       | Scienze             | Tattica             | Tattica             | Tattica             |
 
-| Carriera           | Mercante                    | Medico                               | Mercenario                  | Nobile                    |
-|--------------------|-----------------------------|--------------------------------------|-----------------------------|---------------------------|
-| Qualifiche         | Int 4+                      | Edu 6+                               | Int 4+                      | Soc 8+                    |
-| Sopravvivenza      | Int 5+                      | Int 4+                               | Res 6+                      | Soc 4+                    |
-| Grado              | Int 5+                      | Int 5+                               | Int 7+                      | Edu 5+                    |
-| Promozione         | Edu 8+                      | Edu 8+                               | Int 6+                      | Int 8+                    |
-| Riarruolamento     | 4+                          | 5+                                   | 5+                          | 6+                        |
-| Ranghi e Abilità   | Mercante                    | Medico                               | Mercenario                  | Nobile                    |
-| 0                  | Marinaio \[Steward-1\]      | Stagista \[Medicina-1\]              | Soldato \[Armi da Fuoco-1\] | Cortigiano \[Baldoria-1\] |
-| 1                  | Cadetto                     | Specializzando                       | Tenente                     | Cavaliere                 |
-| 2                  | Quarto Ufficiale            | Specializzando Senior                | Capitano                    | Barone                    |
-| 3                  | Terzo Ufficiale \[Pilot-1\] | Specializzando Capo                  | Maggiore \[Tattica-1\]      | Marchese                  |
-| 4                  | Secondo Ufficiale           | Medico Curante \[Amministrazione-1\] | Tenente Colonnello          | Conte \[Avvocato-1\]      |
-| 5                  | Primo Ufficiale             | Capo Servizio                        | Colonello                   | Duca                      |
-| 6                  | Capitano                    | Amministratore ospedaliero           | Brigadiere                  | Arciduca                  |
-| Benefici Materiali |                             |                                      |                             |                           |
-| 1                  | Passaggio Inferiore         | Passaggio Inferiore                  | Passaggio Inferiore         | Passaggio Superiore       |
-| 2                  | +1 Edu                      | +1 Edu                               | +1 Int                      | +1 Edu                    |
-| 3                  | Arma                        | +1 Int                               | Arma                        | +1 Int                    |
-| 4                  | Passaggio Superiore         | Passaggio Superiore                  | Passaggio Superiore         | Passaggio Superiore       |
-| 5                  | 1D6 Quote di Nave           | Società degli Esploratori            | +1 Soc                      | Società degli Esploratori |
-| 6                  | Passaggio Superiore         | Passaggio Superiore                  | Passaggio Superiore         | Passaggio Superiore       |
-| 7                  | Società degli Esploratori   | +1 Soc                               | 1D6 Quote di Nave           | 1D6 Quote di Nave         |
-| Benefici in Denaro |                             |                                      |                             |                           |
-| 1                  | 1000                        | 2000                                 | 1000                        | 2000                      |
-| 2                  | 5000                        | 10000                                | 5000                        | 10000                     |
-| 3                  | 10000                       | 20000                                | 10000                       | 20000                     |
-| 4                  | 20000                       | 20000                                | 20000                       | 20000                     |
-| 5                  | 20000                       | 50000                                | 20000                       | 50000                     |
-| 6                  | 50000                       | 100000                               | 50000                       | 100000                    |
-| 7                  | 100000                      | 100000                               | 100000                      | 100000                    |
+| Carriera           | Mercante                     | Medico                               | Mercenario                  | Nobile                    |
+| ------------------ | ---------------------------- | ------------------------------------ | --------------------------- | ------------------------- |
+| Qualifiche         | Int 4+                       | Edu 6+                               | Int 4+                      | Soc 8+                    |
+| Sopravvivenza      | Int 5+                       | Int 4+                               | Res 6+                      | Soc 4+                    |
+| Grado              | Int 5+                       | Int 5+                               | Int 7+                      | Edu 5+                    |
+| Promozione         | Edu 8+                       | Edu 8+                               | Int 6+                      | Int 8+                    |
+| Riarruolamento     | 4+                           | 5+                                   | 5+                          | 6+                        |
+| Ranghi e Abilità   | Mercante                     | Medico                               | Mercenario                  | Nobile                    |
+| 0                  | Marinaio \[Steward-1\]       | Stagista \[Medicina-1\]              | Soldato \[Armi da Fuoco-1\] | Cortigiano \[Baldoria-1\] |
+| 1                  | Cadetto                      | Specializzando                       | Tenente                     | Cavaliere                 |
+| 2                  | Quarto Ufficiale             | Specializzando Senior                | Capitano                    | Barone                    |
+| 3                  | Terzo Ufficiale \[Pilota-1\] | Specializzando Capo                  | Maggiore \[Tattica-1\]      | Marchese                  |
+| 4                  | Secondo Ufficiale            | Medico Curante \[Amministrazione-1\] | Tenente Colonnello          | Conte \[Avvocato-1\]      |
+| 5                  | Primo Ufficiale              | Capo Servizio                        | Colonello                   | Duca                      |
+| 6                  | Capitano                     | Amministratore ospedaliero           | Brigadiere                  | Arciduca                  |
+| Benefici Materiali |                              |                                      |                             |                           |
+| 1                  | Passaggio Inferiore          | Passaggio Inferiore                  | Passaggio Inferiore         | Passaggio Superiore       |
+| 2                  | +1 Edu                       | +1 Edu                               | +1 Int                      | +1 Edu                    |
+| 3                  | Arma                         | +1 Int                               | Arma                        | +1 Int                    |
+| 4                  | Passaggio Superiore          | Passaggio Superiore                  | Passaggio Superiore         | Passaggio Superiore       |
+| 5                  | 1D6 Quote di Nave            | Società degli Esploratori            | +1 Soc                      | Società degli Esploratori |
+| 6                  | Passaggio Superiore          | Passaggio Superiore                  | Passaggio Superiore         | Passaggio Superiore       |
+| 7                  | Società degli Esploratori    | +1 Soc                               | 1D6 Quote di Nave           | 1D6 Quote di Nave         |
+| Benefici in Denaro |                              |                                      |                             |                           |
+| 1                  | 1000                         | 2000                                 | 1000                        | 2000                      |
+| 2                  | 5000                         | 10000                                | 5000                        | 10000                     |
+| 3                  | 10000                        | 20000                                | 10000                       | 20000                     |
+| 4                  | 20000                        | 20000                                | 20000                       | 20000                     |
+| 5                  | 20000                        | 50000                                | 20000                       | 50000                     |
+| 6                  | 50000                        | 100000                               | 50000                       | 100000                    |
+| 7                  | 100000                       | 100000                               | 100000                      | 100000                    |
 
 | Carriera                | Mercante            | Medico              | Mercenario          | Nobile              |
-|-------------------------|---------------------|---------------------|---------------------|---------------------|
+| ----------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
 | 1                       | +1 For              | +1 For              | +1 For              | +1 Dex              |
 | 2                       | +1 Dex              | +1 Dex              | +1 Dex              | +1 Int              |
@@ -759,16 +758,16 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 6                       | Tattica             | Scienze             | Tattica             | Scienze             |
 
 | Carriera           | Pirata                     | Ramingo             | Scienziato                 | Tecnico                         |
-|--------------------|----------------------------|---------------------|----------------------------|---------------------------------|
+| ------------------ | -------------------------- | ------------------- | -------------------------- | ------------------------------- |
 | Qualifiche         | Dex 5+                     | Dex 5+              | Edu 6+                     | Edu 6+                          |
 | Sopravvivenza      | Dex 6+                     | Res 5+              | Edu 5+                     | Dex 4+                          |
 | Grado              | For 7+                     | --                  | Int 7+                     | Edu 5+                          |
 | Promozione         | Int 6+                     | --                  | Int 6+                     | Int 8+                          |
 | Riarruolamento     | 5+                         | 5+                  | 5+                         | 5+                              |
-| Ranghi e Abilità   | Pirate                     | Ramingo             | Scienziato                 | Technician                      |
+| Ranghi e Abilità   | Pirata                     | Ramingo             | Scienziato                 | Tecnico                         |
 | 0                  | Marinaio \[Artiglieria-1\] | --                  | Istruttore \[Scienze-1\]   | Tecnico \[Computer-1\]          |
 | 1                  | Caporale                   | --                  | Professore Aggiunto        | Capo Squadra                    |
-| 2                  | Tenente \[Pilot-1\]        | --                  | Assegnista di Ricerca      | Supervisore                     |
+| 2                  | Tenente \[Pilota-1\]       | --                  | Assegnista di Ricerca      | Supervisore                     |
 | 3                  | Tenente Comandante         | --                  | Ricercatore \[Computer-1\] | Manager                         |
 | 4                  | Comandante                 | --                  | Professore Associato       | Direttore \[Amministrazione-1\] |
 | 5                  | Capitano                   | --                  | Professore                 | Vice Presidente                 |
@@ -791,7 +790,7 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 7                  | 100000                     | 10000               | 50000                      | 50000                           |
 
 | Carriera                | Pirata              | Ramingo             | Scienziato          | Tecnico             |
-|-------------------------|---------------------|---------------------|---------------------|---------------------|
+| ----------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | Abilità e Addestramento | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  | Sviluppo Personale  |
 | 1                       | +1 For              | +1 For              | +1 For              | +1 For              |
 | 2                       | +1 Dex              | +1 Dex              | +1 Dex              | +1 Dex              |
@@ -821,14 +820,13 @@ I Benefici Materiali possono prevedere alterazioni della caratteristiche o Quote
 | 5                       | Avvocato            | Collegamento        | Medicina            | Medicina            |
 | 6                       | Tattica             | Tattica             | Scienze             | Scienze             |
 
-
 ## Dettagli Conclusivi
 
 Ci vuole più di un insieme di caratteristiche e abilità per creare un personaggio divertente. Aggiungendo alcuni dettagli al termine della creazione, potresti trovare l'esperienza di gioco più gratificante.
 
 ### Nome
 
-Ogni personaggio ha bisogno di almeno un nome, magari uno adatto allo stile di gioco del tuo gruppo e all'universo dell'Arbitro. Considera di scegliere un nome basato su nomi reali o personaggi fittizzi o uno di tua completa invenzione. Se sei bloccato, prova a scegliere due personaggi tra i tuoi preferiti nella fantascienza e prendi parti di ciascuno dei loro nomi per creare qualcosa di unico per il tuo personaggio. 
+Ogni personaggio ha bisogno di almeno un nome, magari uno adatto allo stile di gioco del tuo gruppo e all'universo dell'Arbitro. Considera di scegliere un nome basato su nomi reali o personaggi fittizi o uno di tua completa invenzione. Se sei bloccato, prova a scegliere due personaggi tra i tuoi preferiti nella fantascienza e prendi parti di ciascuno dei loro nomi per creare qualcosa di unico per il tuo personaggio. 
 
 ### Genere
 
@@ -840,7 +838,7 @@ Scegliere dettagli come l'altezza, il peso, il colore dei capelli, le preferenze
 
 ### Obiettivi Personali
 
-Il tempo e l'esperienza hanno dimostrato che i personaggi con obiettivi personali sono molto più gratificanti da giocare nel lungo periodo. Un obiettivo personale dovrebbe essere qualcosa che non si rivolva in una singola avventura. Buoni esempi includono imparare i segreti di antiche civiltà, padroneggiare le arti Psioniche o aquisire potere politico. Gli obiettivi personali sono spesso forniscono all'Arbitro l'opportunità di sviluppare archi narrativi basati su quel personaggio, dato che gli obiettivi dicono all'Arbitro cosa il personaggio (e si presume il giocatore) sia interessato a perseguire. Va bene se gli obiettivi del personaggio cambiano nel tempo. Infatti, questo è un buon segno della crescita e dello sviluppo del personaggio.
+Il tempo e l'esperienza hanno dimostrato che i personaggi con obiettivi personali sono molto più gratificanti da giocare nel lungo periodo. Un obiettivo personale dovrebbe essere qualcosa che non si rivolva in una singola avventura. Buoni esempi includono imparare i segreti di antiche civiltà, padroneggiare le arti Psioniche o acquisire potere politico. Gli obiettivi personali sono spesso forniscono all'Arbitro l'opportunità di sviluppare archi narrativi basati su quel personaggio, dato che gli obiettivi dicono all'Arbitro cosa il personaggio (e si presume il giocatore) sia interessato a perseguire. Va bene se gli obiettivi del personaggio cambiano nel tempo. Infatti, questo è un buon segno della crescita e dello sviluppo del personaggio.
 
 ## Alieni
 
@@ -856,7 +854,7 @@ Discendenti di uccelli Onnivori/Rapaci, gli Avicoli sono una piccola razza di se
 
 #### Meccaniche di Gioco
 
-Gli Avicoli hanno debole Forza (1D6), notevole Destrezza (3D6) e debole Resistenza (1D6). Gli Avicoli hanno anche i Tratti: Volante (9m), Adattamento alla Bassa Gravità, Pilota Nato, Bassa Velocità (4,5 m) e Piccolo. Questa specie alata raggiunge la maturarità a 22 anni, inizia a invecchiare a 46 anni, è alta 105+(2D6x2) centimetri e hanno un peso di 20+(2D6x2) chili.
+Gli Avicoli hanno debole Forza (1D6), notevole Destrezza (3D6) e debole Resistenza (1D6). Gli Avicoli hanno anche i Tratti: Volante (9m), Adattamento alla Bassa Gravità, Pilota Nato, Bassa Velocità (4,5 m) e Piccolo. Questa specie alata raggiunge la maturità a 22 anni, inizia a invecchiare a 46 anni, è alta 105+(2D6x2) centimetri e hanno un peso di 20+(2D6x2) chili.
 
 ### Esper
 
@@ -868,13 +866,13 @@ Gli Esper seguono le regole standard per la creazione di personaggi umani. In ag
 
 ### Insettani
 
-Discendenti da una stirpe di Carnivori/Inseguitori, gli Insettani sono una razza insettoide che è difficile da comprendere per la maggior parte delle altre razze. Alti in media 1,8 metri, con una massa attorno ai 90 chilogrammi, i poichilotermici Insettani sono molto orientati alla comunità e pongono i bisogni della "colonia" davanti a quelli individuali. Hanno una capacità assai limitata di identità individuale e molto spesso si considerano come un'estensione della "regina". Con il migliorato apporto nutrizionale, che ha avuto un impatto sulla loro intelligenza così come anche l'esposizione ad altre culture, una crescente minoranza di Insettani ha iniziato a sviluppare un più forte senso del Sé personale, ma rimane fortemente influenzata dal loro instinto comunitario. Gli Insettani spesso contribuiscono alla più ampia comunità interstellare in ruoli orientati al servizio, facendo affidamento ai loro particolari generi: "operaie" (femmine sterili), "soldati" (femmini sterili), "droni" (maschi fertili) o "regine" (femmine fertili). Mentre non ci sono particolari differenze anatomiche tra i diversi generi, la colorazione del carapace e l'aiutare i non-Insettani, li distingue gli uni dagli altri.
+Discendenti da una stirpe di Carnivori/Inseguitori, gli Insettani sono una razza insettoide che è difficile da comprendere per la maggior parte delle altre razze. Alti in media 1,8 metri, con una massa attorno ai 90 chilogrammi, i poichilotermici Insettani sono molto orientati alla comunità e pongono i bisogni della "colonia" davanti a quelli individuali. Hanno una capacità assai limitata di identità individuale e molto spesso si considerano come un'estensione della "regina". Con il migliorato apporto nutrizionale, che ha avuto un impatto sulla loro intelligenza così come anche l'esposizione ad altre culture, una crescente minoranza di Insettani ha iniziato a sviluppare un più forte senso del Sé personale, ma rimane fortemente influenzata dal loro istinto comunitario. Gli Insettani spesso contribuiscono alla più ampia comunità interstellare in ruoli orientati al servizio, facendo affidamento ai loro particolari generi: "operaie" (femmine sterili), "soldati" (femminili sterili), "droni" (maschi fertili) o "regine" (femmine fertili). Mentre non ci sono particolari differenze anatomiche tra i diversi generi, la colorazione del carapace e l'aiutare i non-Insettani, li distingue gli uni dagli altri.
 
 #### Meccaniche di Gioco
 
-Gli Insettani hanno Notevole Destrezza (2D6+2). Gli Insettani anche anche i tratti: Corazzato, Prima Brutta Impressione, Casta, Sangue Freddo, Alta Velocità (9m), Grande Saltatore e Mentalità Alverare. Gli Insettani raggiungono la maturità a 18 anni e iniziano ad invecchiare a 34 anni (come gli umani), sono alti 160+(2D6x5) centimentri e pesano 60+(2d6x5) chilogrammi.
+Gli Insettani hanno Notevole Destrezza (2D6+2). Gli Insettani anche anche i tratti: Corazzato, Prima Brutta Impressione, Casta, Sangue Freddo, Alta Velocità (9m), Grande Saltatore e Mentalità Alveare. Gli Insettani raggiungono la maturità a 18 anni e iniziano ad invecchiare a 34 anni (come gli umani), sono alti 160+(2D6x5) centimetri e pesano 60+(2d6x5) chilogrammi.
 
-NOTA: Gli Insettani hanno caratteristiche differenti chiamate Casta, che sostituisce Status Sociale. La Casta è generata nello stesso modo dello Status Sociale. Tutte le modifiche allo Status Sociale cui si fa riferimento nel processo di crerazione del personaggio, hanno impatto identico sulla Casta.
+NOTA: Gli Insettani hanno caratteristiche differenti chiamate Casta, che sostituisce Status Sociale. La Casta è generata nello stesso modo dello Status Sociale. Tutte le modifiche allo Status Sociale cui si fa riferimento nel processo di creazione del personaggio, hanno impatto identico sulla Casta.
 
 ### Tritoni
 
@@ -882,15 +880,15 @@ Geneticamente manipolati da stirpi umane pure per vivere sott'acqua, i Tritoni a
 
 #### Meccaniche di Gioco
 
-I Tritoni possiedono i Tratti: Anfibio, Acquatico, Nuotare Nato, Dipedente dall'Acqua.
+I Tritoni possiedono i Tratti: Anfibio, Acquatico, Nuotare Nato, Dipendente dall'Acqua.
 
 ### Rettiliani
 
-Con un aspetto fortemente sauro, i Rettiliani discendono da una stipre di carnivori inseguitori omeotermici. Le loro scaglie tendono ad avere disegni brillanti, particolarmente tra i maschi della specie. Alti circa 1,9 metri, con un peso di 85 chilogrammi, i Rettiliani mantengono molte caratteristiche dei loro antenati sauri. I Rettiliani sono spinti da un forte senso di territorialità e dall'istinto della caccia. Dopo aver scoperto il Motore a Balzo, i Rettiliani hanno scoperto interi mondi da rivendicare.
+Con un aspetto fortemente sauro, i Rettiliani discendono da una stirpe di carnivori inseguitori omeotermici. Le loro scaglie tendono ad avere disegni brillanti, particolarmente tra i maschi della specie. Alti circa 1,9 metri, con un peso di 85 chilogrammi, i Rettiliani mantengono molte caratteristiche dei loro antenati sauri. I Rettiliani sono spinti da un forte senso di territorialità e dall'istinto della caccia. Dopo aver scoperto il Motore a Balzo, i Rettiliani hanno scoperto interi mondi da rivendicare.
 
 #### Meccaniche di Gioco
 
-I Rettiliani hanno Notevole Forza (2D6+1), Notevole Destrezza (2D6+1) e Debole Resistenza (2D6-1). I Rettiliani inoltre possiedono i Tratti: Anti-Psionico, Alta Velocità (9m), Resistenza al Calore, Visione Notturna, Armi Naturali (denti) e Adattamento a Bassa Gravità. I Rettiliani raggiungono la maturità a 22 anni, iniziano a invecchiare a 42 anni e sono altri 155+(2D6x5) centimentri e pesano 50+(2D6x5) chilogrammi.
+I Rettiliani hanno Notevole Forza (2D6+1), Notevole Destrezza (2D6+1) e Debole Resistenza (2D6-1). I Rettiliani inoltre possiedono i Tratti: Anti-Psionico, Alta Velocità (9m), Resistenza al Calore, Visione Notturna, Armi Naturali (denti) e Adattamento a Bassa Gravità. I Rettiliani raggiungono la maturità a 22 anni, iniziano a invecchiare a 42 anni e sono altri 155+(2D6x5) centimetri e pesano 50+(2D6x5) chilogrammi.
 
 ### Descrizione dei Tratti Alieni
 
@@ -906,11 +904,11 @@ Molte della razze in questa sezione possiedono insoliti tratti razziali, i quali
 
 - **Anti-Psionico**: Membri di questa specie sono anti-psionici innati. La forza Psionica del personaggio è equivalente a zero e non possono essere addestrati nelle arti psioniche. Inoltre, il personaggio non può soffrire gli effetti mentali della psionica, inclusi telepatia e assalti. Una specie non può avere questo tratto alieno se invece hanno Psionico tra i tratti.
 
-- **Arma Naturale**: Questa specie ha un'arma naturale, comer artigli, un morso potente o un aculeo velenoso. Questo tipo di armi sono utilizzabili a un raggio d'azione Personale e infliggono +1 danno. Le creature ottengono l'abilità Arma Naturale a Livello 0.
+- **Arma Naturale**: Questa specie ha un'arma naturale, come artigli, un morso potente o un aculeo velenoso. Questo tipo di armi sono utilizzabili a un raggio d'azione Personale e infliggono +1 danno. Le creature ottengono l'abilità Arma Naturale a Livello 0.
 
-- **Brutta Prima Impressione**: I membri di questa specie hanno un aspetto universalmente considerato repellente o tratti fisici che richiamano una reazione istintiva nelle altre razze. Molte razza avranno automaticamente un'attitudine Scortese nei confronti di questi personaggi, anche se è possibile superarla dopo che la persona ha interagito con il personaggio per qualche minuto, sulla base della persnalità e delle circostanze della loro interazione.
+- **Brutta Prima Impressione**: I membri di questa specie hanno un aspetto universalmente considerato repellente o tratti fisici che richiamano una reazione istintiva nelle altre razze. Molte razza avranno automaticamente un'attitudine Scortese nei confronti di questi personaggi, anche se è possibile superarla dopo che la persona ha interagito con il personaggio per qualche minuto, sulla base della personalità e delle circostanze della loro interazione.
 
-- **Casta**: Membri di questa specie hanno una predisposizione genetica per la gerachia sociale. Quando hanno a che fare con razze che usano Status Sociale o Carisma, tutti gli MD di attributo sociale, che siano positivi o negativi, sono dimezzati.
+- **Casta**: Membri di questa specie hanno una predisposizione genetica per la gerarchia sociale. Quando hanno a che fare con razze che usano Status Sociale o Carisma, tutti gli MD di attributo sociale, che siano positivi o negativi, sono dimezzati.
 
 - **Corazzato**: L'alieno possiede spesso pelo, scaglie, un esoscheletro o altre protezioni naturali che gli donano un punto armatura naturale.
 
@@ -923,15 +921,15 @@ Molte della razze in questa sezione possiedono insoliti tratti razziali, i quali
   - ***Delfini Elevati***: hanno Notevole Forza (+4) e Notevole Resistenza (+2) ma Debole Intelligenza, Educazione e Status Sociale (-2). Hanno i tratti: Elevato, Acquatico (pienamente acquatici, respiratori d'aria) e Maldestro.
   - ***Primati Elevati***: hanno Notevole Forza e Resistenza (+2) ma tutte le altre caratteristiche sono Deboli (-2). Hanno il tratto Elevato.
 
-- **Ferale**: Le specie ferali sono incivili, a dispetto della loro conoscienza tecnologica. Le specie ferali effettuano tiri di Educazione solamente con 1D6.
+- **Ferale**: Le specie ferali sono incivili, a dispetto della loro conoscenza tecnologica. Le specie ferali effettuano tiri di Educazione solamente con 1D6.
 
 - **Grande Saltatore**: I membri di questa specie possono saltare a grandi distanze. Come azione significativa, un membro di questa specie può effettuare una Prova di Atletica. Se ha successo, salta di quattro quadrati, più un numero di quadrati pari all'Effetto della Prova di abilità. Inoltre, i membri di questa specie sono considerati come aventi l'abilità Atletica a Livello 0.
 
-- **Grande Taglia**: Queste specie sono considerevolmente più grandi della media dei sofonti. Le creature di Grande Taglia hanno di solito una Forza e una Resistenza di 3d6 o 4d6 e una Destrezza di 1d6. I requisiti per il supporto vitale delle creature di Grande Taglia sono raddoppiati. Qualcune creature di Grande Taglia sono descritte come Giganti. Gli attacchi contro creature Giganti ricevono un MD +1 per colpire.
+- **Grande Taglia**: Queste specie sono considerevolmente più grandi della media dei sofonti. Le creature di Grande Taglia hanno di solito una Forza e una Resistenza di 3d6 o 4d6 e una Destrezza di 1d6. I requisiti per il supporto vitale delle creature di Grande Taglia sono raddoppiati. Alcune creature di Grande Taglia sono descritte come Giganti. Gli attacchi contro creature Giganti ricevono un MD +1 per colpire.
 
-- **Maldestro**: Questa specie non ha dita o altre appendici prensili, impedendole di afferare facilmente oggetti, di spingere piccoli bottoni, arrampicarmi in spazi ristretti e così via.
+- **Maldestro**: Questa specie non ha dita o altre appendici prensili, impedendole di afferrare facilmente oggetti, di spingere piccoli bottoni, arrampicarmi in spazi ristretti e così via.
 
-- **Mente Alverare**: Membri di questa specie sono guidati da una mentalità alveare e spesso perseguono le azioni che supportano al bene più grande della propria famiglia, anche a costo della propria sicurezza personale. I personaggi devono effettuare una Prova di Intelligenza per evitare di rischiare la propria sicurezza quando seguono questo comportamento. La difficoltà della Prova di Intelligenza cambia a seconda del grado di percepito beneficio per la famiglia (solitamente è un compito Medio con MD+0, anche se possono sorgere circostanze in cui la la difficoltà varia da Routine MD+2 a Difficile MD-2).
+- **Mente Alveare**: Membri di questa specie sono guidati da una mentalità alveare e spesso perseguono le azioni che supportano al bene più grande della propria famiglia, anche a costo della propria sicurezza personale. I personaggi devono effettuare una Prova di Intelligenza per evitare di rischiare la propria sicurezza quando seguono questo comportamento. La difficoltà della Prova di Intelligenza cambia a seconda del grado di percepito beneficio per la famiglia (solitamente è un compito Medio con MD+0, anche se possono sorgere circostanze in cui la la difficoltà varia da Routine MD+2 a Difficile MD-2).
 
 - **Metabolismo Lento**: Le creature con un metabolismo lento richiedono meno cibo rispetto alla maggioranza delle specie e i costi del loro supporto vitale sono dimezzati. In combattimento, le creature a metabolismo lento soffrono una penalità di -2 all'iniziativa.
 
@@ -957,6 +955,6 @@ Molte della razze in questa sezione possiedono insoliti tratti razziali, i quali
 
 - **Sangue Freddo**: I membri di questa specie sono sensibili ai climi rigidi. Se esposti a freddo estremo senza equipaggiamento protettivo, il personaggio soffre un MD-1 sull'iniziativa. Il personaggio soffre 1D6 danni ogni dieci minuti di esposizione.
 
-- **Visione Notturna**: Membri di questa specie possono vedere due volte piùlontano di un umano in condizioni di scarsa luminosità come sotto le stelle, al chiaro di luna o a torcia. Mantengono la capacità di distinguere i colori e i dettagli anche in queste condizioni.
+- **Visione Notturna**: Membri di questa specie possono vedere due volte più lontano di un umano in condizioni di scarsa luminosità come sotto le stelle, al chiaro di luna o a torcia. Mantengono la capacità di distinguere i colori e i dettagli anche in queste condizioni.
 
 - **Volante**: Queste specie possono volare usando ali. I personaggi di questa specie ottengono un'abilità di Atletica a Livello 0 e possono volare alla velocità segnata nella loro descrizione. Le creature volanti sono in volo devono spendere un'azione minore di movimento ogni round o finiscono in stallo e precipitano. Il volo alato è stancante e può essere sostenuto solo per un numero d'ore pari alla Resistenza della creatura, dopodiché è richiesto un pari ammontare di tempo di riposo.

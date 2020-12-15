@@ -13,7 +13,7 @@ Il Combattimento è un mezzo abituale di risolvere conflitti. Questo capitolo ne
 
 ## Checklist di Combattimento
 
-Il Combattimento nel Cephues Engine è ciclico. Ciascuno agisce a turno in un ciclo regolare definito round. In genere, si svolge nel seguente modo:
+Il Combattimento nel Cepheus Engine è ciclico. Ciascuno agisce a turno in un ciclo regolare definito round. In genere, si svolge nel seguente modo:
 
 1. L'Arbitro determina quale personaggi sono consapevole dei propri opponenti all'inizio della battaglia. Se alcuni, ma non tutti, i combattenti sono consapevoli dei propri opponenti, i combattenti che sono consapevoli ottengono un tiro di iniziativa automatico di 12 e un MD di Destrezza di 12+.
 
