@@ -1,0 +1,46 @@
+---
+title: "Generatore di Subsettori"
+layout: splash
+permalink: /generatore
+search: false
+
+---
+<div>
+	<h1>Generatore di sottosettori per Cepheus Engine</h1>
+	<p>
+	Questo strumento genera un sottosettore di Cepheus Engine rispetto alle regole contenute in <a href="../srd/capitolo-12">Capitolo 12: Mondi</a>. Il risultato è in <a href="https://travellermap.com/doc/fileformats#legacy-sec-format">Formato SEC</a> e può essere copiato nello <a href="https://travellermap.com/doc/custom">strumento per dati personalizzati di Traveller Map</a> per generare una mappa graficamente accattivante.
+	</br>
+	Selezionare una delle quattro tipologie sotto per generare un sottosettore rispondente a quelle caratteristiche.
+	</br>
+	Il codice di questo generatore è rilasciato in Pubblico Dominio da Steve Simenic ed è scaricabile da <a href="https://github.com/orffen/cepheus-srd/tree/master/tools">GitHub</a>.
+	</p>
+</div>
+<div class="btn-group btn-group-toggle btn-block" data-toggle="buttons">
+	<label class="btn btn-secondary active">
+		<input type="radio" name="sectorType" value="4" checked onclick="init()">Standard
+	</label>
+	<label class="btn btn-secondary">
+		<input type="radio" name="sectorType" value="6" onclick="init()">Spaccatura
+	</label>
+	<label class="btn btn-secondary">
+		<input type="radio" name="sectorType" value="5" onclick="init()">Rado
+	</label>
+	<label class="btn btn-secondary">
+		<input type="radio" name="sectorType" value="3" onclick="init()">Denso
+	</label>
+</div>
+<textarea class="form-control" id="output" rows="12"></textarea>
+<div id="sectorPopulation"></div>
+
+<script src="/_pages/tools/pseudohex.js"></script>
+<script src="/_pages/tools/roll.js"></script>
+<script src="/_pages/tools/sector.js"></script>
+<script src="/_pages/tools/world.js"></script>
+<script>
+	function init() {
+		document.getElementById("output").textContent = generateSector(document.querySelector('input[name="sectorType"]:checked').value);
+		document.getElementById("sectorPopulation").textContent = calculatePopulation(document.getElementById("output").value);
+	}
+	init();
+	//TODO: Would be nice to get a map image using the API (https://travellermap.com/doc/api#poster-render-a-sector-quadrant-or-subsector) and display it under the textarea
+</script>

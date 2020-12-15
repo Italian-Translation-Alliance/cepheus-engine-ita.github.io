@@ -6,6 +6,8 @@ main:
     url: /srd/
   - title: "Blog"
     url: /blog/
+  - title: "Generatore Sottosettori"
+    url: /generatore/
   - title: "Cerca"
     url: /cerca/  
 srd:
