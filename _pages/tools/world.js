@@ -275,7 +275,7 @@ function generateTradeCodes(uwp) {
     if (atmosphere == 0)
         tradeCodes.push("Va");
 
-    return tradeCodes.join(", ");
+    return tradeCodes.join(" ");
 }
 
 function generatePbg(uwp) {
