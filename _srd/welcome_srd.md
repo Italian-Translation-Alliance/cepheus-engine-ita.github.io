@@ -9,6 +9,8 @@ Benvenuti nel progetto di traduzione di Cepheus Engine, il Sistema di Gioco Aper
 
 Puoi reperire l'edizione originale del Cepheus Engine SRD in formato PDF e DOCX modificabile da [DriveThruRPG.com](https://www.drivethrurpg.com/browse/pub/3066/Samardan-Press/subcategory/5350_5360/Cepheus-Engine). Se desideri una copia cartacea, sempre in inglese, [Moon Toad Publishing](https://www.drivethrurpg.com/browse/pub/5791/Moon-Toad-Publishing) offre un'edizione [print-on-demand](https://www.drivethrurpg.com/product/237247/Cepheus-Engine-RPG). 
 
+È disponibile in italiano l'[Anteprima di Natale](https://github.com/cepheus-engine-ita/project/raw/master/documenti/Cepheus%20Engine%20-%20ITA%20-%20Preview%20Natale%202020.pdf), contenente il testo del LIBRO PRIMO in formato pdf.
+
 Il codice sorgente per questa versione web è raggiungibile su [GitHub](https://github.com/cepheus-engine-ita/srd).
 
 Copyright © 2016 Samardan Press
