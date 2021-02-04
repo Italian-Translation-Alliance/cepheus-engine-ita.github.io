@@ -6,7 +6,7 @@ sidebar:
 toc: true
 toc_label: Indice
 title: 'CAPITOLO 13: INCONTRI PLANETARI'
-published: false # true
+published: false true
 
 ---
 I personaggi nelle aree incivili sulla superficie del pianeta scoprono rapidamente che non sono soli. Finché un mondo può sostenere la vita, incontri di animali e di altri eventi naturali sono comuni, indipendentemente dal terreno attuale. Questo capitolo tratta di vari incontri che possono verificarsi nella natura selvaggia sulla superficie di un pianeta.
