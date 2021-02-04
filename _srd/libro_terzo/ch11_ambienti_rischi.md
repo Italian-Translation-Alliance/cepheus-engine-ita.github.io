@@ -6,7 +6,7 @@ sidebar:
 toc: true
 toc_label: Indice
 title:  'CAPITOLO 11: AMBIENTI E RISCHI'
-published: false  true
+published: true
 
 ---
 I seguenti sono pericoli ambientali comuni che possono essere riscontrati in un gioco di Cepheus Engine.
