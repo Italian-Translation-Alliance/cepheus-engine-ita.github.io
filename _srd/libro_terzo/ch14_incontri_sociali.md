@@ -85,13 +85,13 @@ Gli incontri casuali possono essere determinati tirando un D66 su un tavolo come
 
 Gli incontri legali implicano interazioni con le forze dell'ordine planetarie locali. Alcuni mondi hanno leggi più severe di altri. Questo è rappresentato dal valore del Livello di Legge del mondo. Più alto è il Livello di Legge, più è probabile che i visitatori vengano molestati dalle forze dell'ordine locali. Quando l'Arbitro determina che si verifica un incontro legale, un agente di polizia locale fermerà gli avventurieri e richiederà l'identificazione. Ulteriori complicazioni sono a discrezione dell'Arbitro.
 
-## Incontri di Patroni
+## Incontri con Patroni
 
 Un patrono è un personaggio non giocante che fornisce supporto finanziario o di altro tipo a una persona, organizzazione, causa o attività. Gli Arbitri spesso usano i patroni come strumento per tentare di coinvolgere i personaggi dei giocatori in avventure. Gli incontri con i patroni rappresentano l'inizio di un'avventura aperta, ovvero l'aggancio. Il patrono fornisce la missione che serve come base per un'avventura, così come la ricompensa per averla completata con successo.
 
-Gli avventurieri spesso cercano patroni come fonte di lavoro. Meno frequentemente, un patrono può cercare gli avventurieri, in base alla loro reputazione. L'Arbitro può tirare un D66 sul tavolo *Incontri dei Patroni* o crearne uno da solo. È possibile creare tabelle di Incontri dei Patroni unici per mondi o avventure specifici.
+Gli avventurieri spesso cercano patroni come fonte di lavoro. Meno frequentemente, un patrono può cercare gli avventurieri, in base alla loro reputazione. L'Arbitro può tirare un D66 sul tavolo *Incontri con Patroni* o crearne uno da solo. È possibile creare tabelle di Incontri dei Patroni unici per mondi o avventure specifici.
 
-#### Tabella: Incontri dei Patroni
+#### Tabella: Incontri con Patroni
 
 | D66 | Patrono Potenziale             |
 | --- | ------------------------------ |
