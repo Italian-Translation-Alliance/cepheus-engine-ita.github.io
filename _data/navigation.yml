@@ -40,7 +40,7 @@ srd:
   - title: "Libro Terzo: Arbitri"
     children:
         - title: "Capitolo 11: Ambienti e Rischi"
-          url:
+          url: /srd/capitolo-11/
         - title: "Capitolo 12: Mondi"
           url: /srd/capitolo-12/
         - title: "Capitolo 13: Incontri Planetari"
