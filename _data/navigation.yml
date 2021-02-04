@@ -52,7 +52,7 @@ srd:
         - title: "Capitolo 16: Arbitrare il Gioco"
           url: /srd/capitolo-16/
         - title: "Capitolo 17: Avventure"
-          url:
+          url: /srd/capitolo-17/
   - title: "Informazioni"
     children:
         - title: "Informazioni Importanti"
