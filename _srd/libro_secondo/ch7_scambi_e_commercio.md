@@ -9,7 +9,7 @@ title: 'CAPITOLO 7: SCAMBI E COMMERCIO'
 published: true
 
 ---
-Come indicato in **Entrate delle astronavi** nel **Capitolo 6: Viaggi spaziali**, una nave può facilmente trasportare merci a una tariffa fissa, senza dover intraprendere speculazioni. Tuttavia, per quei mercanti disposti a correre il rischio, la speculazione può rivelarsi un'impresa molto redditizia. Questo capitolo fornisce un semplice sistema di scambio speculativo da utilizzare nelle campagne di Cepheus Engine, per coloro che sono interessati a tali attività.
+Come indicato in **Reddito dell’astronave** nel **Capitolo 6: Viaggi spaziali**, una nave può facilmente trasportare merci a una tariffa fissa, senza dover intraprendere speculazioni. Tuttavia, per quei mercanti disposti a correre il rischio, la speculazione può rivelarsi un'impresa molto redditizia. Questo capitolo fornisce un semplice sistema di scambio speculativo da utilizzare nelle campagne di Cepheus Engine, per coloro che sono interessati a tali attività.
 
 ## Checklist del commercio speculativo
 
