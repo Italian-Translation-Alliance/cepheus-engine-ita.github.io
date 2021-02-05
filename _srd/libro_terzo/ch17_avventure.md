@@ -1,11 +1,11 @@
 ---
 layout: single
-permalink: /srd/capitolo-1/
+permalink: /srd/capitolo-17/
 sidebar:
   nav: srd
 toc: true
 toc_label: Indice
-title: '# CAPITOLO 17: AVVENTURE'
+title: 'CAPITOLO 17: AVVENTURE'
 published: true
 
 ---
