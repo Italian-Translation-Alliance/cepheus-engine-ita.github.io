@@ -66,15 +66,11 @@ Un Balzo consente ad un vascello di percorrere un numero di Parsec pari al numer
 
 Per determinare l'esito di un Balzo è necessario tirare 2D6 aggiungendo i MD elencarti di seguito. Se il risultato è pari o inferiore a 0, la nave avrà effettuato un Balzo fuori rotta. Con un risultato pari o superiore a 8 il Balzo risulterà accurato. Qualsiasi altro risultato avrà come effetto una Balzo inaccurato. Nel caso il Balzo venga effettuato utilizzando una Rotta di Balzo inesatta, darà automaticamente luogo ad un Balzo fuori rotta.
 
-\+ il risultato della prova effettuata per deviare la potenza al Motore di Balzo
-
-–1 per ciascun mese trascorso da quando è stata calcolata la Rotta di Balzo (o quando si utilizza una Rotta obsoleta)
-
-–2 per ciascun danno subito dal Motore di Balzo
-
-–2 nel caso si utilizzi del carburante non raffinato
-
-–8 nel caso in cui la nave si trovi entro il centinaio di diametri di distanza al momento del balzo
+- \+ il risultato della prova effettuata per deviare la potenza al Motore di Balzo
+- –1 per ciascun mese trascorso da quando è stata calcolata la Rotta di Balzo (o quando si utilizza una Rotta obsoleta)
+- –2 per ciascun danno subito dal Motore di Balzo
+- –2 nel caso si utilizzi del carburante non raffinato
+- –8 nel caso in cui la nave si trovi entro il centinaio di diametri di distanza al momento del balzo
 
 ### Fallimento di un Balzo e Balzo fuori rotta
 
