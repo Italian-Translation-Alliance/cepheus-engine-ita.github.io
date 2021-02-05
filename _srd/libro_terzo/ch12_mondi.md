@@ -271,8 +271,6 @@ Molti mondi possiedono astroporti, dato che la loro presenza è essenziale per s
 | 10       | B                 |
 | 11+      | A                 |
 
-#### 
-
 #### Tabella: Classe di Servizi dell'Astroporto
 
 | Classe | Descrizione | Miglior Carburante | Manutenzione Annuale | Potenziale del Cantiere Navale                          | Basi Possibili      |
