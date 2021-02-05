@@ -42,7 +42,7 @@ Il Cepheus Engine utilizza un codice a singola riga per incapsulare i dati di un
 
 **“Na**” indica la lealtà interstellare del sistema. “Na” è usato per mondi non allineati.
 
-## Star Mapping
+## Mappatura Stellare
 
 Per universi in Cepheus Engine, la presenza di un sistema stellare è segnata su mappa esagonali, dove ogni esagono rappresenta un parsec. Per ogni sistema, genera un Profilo di Mondi Universale per il mondo principale di quel sistema. La dimensione più piccola di una mappa di astrogazione, il sottosettore, misura otto esagoni in larghezza e dieci in altezza. Una dimensione intermedia, il quadrante, misura due sottosettori per due, mentre la dimensione di mappa più grande, il settore, misura due quadranti per due quadranti.
 
