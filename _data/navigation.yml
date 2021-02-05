@@ -28,7 +28,7 @@ srd:
   - title: "Libro Secondo: Astronavi e Viaggi Interstellari"
     children:
         - title: "Capitolo 6: Viaggi Spaziali"
-          url:
+          url: /srd/capitolo-6/
         - title: "Capitolo 7: Scambi e Commercio"
           url: /srd/capitolo-7/
         - title: "Capitolo 8: Progettazione e Costruzione della Navi"
