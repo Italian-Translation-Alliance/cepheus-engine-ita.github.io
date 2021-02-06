@@ -62,7 +62,7 @@ Come parte del loro sviluppo, i personaggi seguono determinati percorsi di vita 
 
 Le abilità rappresentano l'addestramento in un particolare tipo di compito o conoscenza, dalle manovre acrobatiche alla negoziazione, al pilotaggio di un'astronave, al programmare un computer. Una persona addestrata in atletica leggera è in grado arrampicarsi più velocemente e con più sicurezza di qualcuno che non lo è, per esempio. Le abilità sono misurate in livelli, che riflettono quanto addestramento un personaggio possiede nella competenza. Quando si registrano le abilità e i loro livelli associati, il nome dell'abilità viene scritto per primo, seguito da un trattino e quindi dal numero di livelli che il personaggio possiede in quell'abilità. Per esempio, Gioco d'azzardo-2 significa che il personaggio ha due livelli nell'abilità di Gioco d'azzardo.
 
-Ogni livello di abilità rappresenta circa due anni di addestramento e formazione in quell'abilità. Per fare un confronto usando una terminologia di stampo accademico, potresti equiparare il livello uno a quello di una laurea breve (o analogo programma accademico triennale), il livello due a una laurea magistrale (o altro programma quinquennale), il livello tre a un Master, il livello quattro a un dottorato e così via. I livelli di abilità agiscono come bonus sulle risoluzioni dei compiti quando il personaggio tenta un'azione connessa a un'abilità. Come il tuo personaggio procede nella propria carriera, acquisice abilità. Vedi **Capitolo 2: Abilità** per maggiori informazioni su abilità specifiche.
+Ogni livello di abilità rappresenta circa due anni di addestramento e formazione in quell'abilità. Per fare un confronto usando una terminologia di stampo accademico, potresti equiparare il livello uno a quello di una laurea breve (o analogo programma accademico triennale), il livello due a una laurea magistrale (o altro programma quinquennale), il livello tre a un Master, il livello quattro a un dottorato e così via. I livelli di abilità agiscono come bonus sulle risoluzioni dei compiti quando il personaggio tenta un'azione connessa a un'abilità. Come il tuo personaggio procede nella propria carriera, acquisisce abilità. Vedi **Capitolo 2: Abilità** per maggiori informazioni su abilità specifiche.
 
 ## Partite
 
@@ -121,7 +121,7 @@ Vedi **Capitolo 2: Abilità** per maggiori dettagli.
 
 ### Prove di opposizione
 
-Se due personaggi sono contrapposti in un compito, allora il personaggio che ottiene l'Effetto più alto vince. Per situazioni di parità, il personaggio con il punteggo più alto nella caratteristica rilevante vince. Se i personaggi pareggiano anche sulle caratteristiche, tirano di nuovo.
+Se due personaggi sono contrapposti in un compito, allora il personaggio che ottiene l'Effetto più alto vince. Per situazioni di parità, il personaggio con il punteggio più alto nella caratteristica rilevante vince. Se i personaggi pareggiano anche sulle caratteristiche, tirano di nuovo.
 
 ### Tentare di nuovo
 
@@ -129,7 +129,7 @@ In generale, puoi tentare nuovamente una prova se fallisci e puoi continuare a t
 
 ### Modificatori di circostanza
 
-Alcune circostanste rendono una prova più facile o più difficile, risultando in un bonus o una penalità che è aggiunta al risultato della prova. L'Arbitro può alterare le possibilità di successo in due modi:
+Alcune circostante rendono una prova più facile o più difficile, risultando in un bonus o una penalità che è aggiunta al risultato della prova. L'Arbitro può alterare le possibilità di successo in due modi:
 
 - Se il personaggio ha un vantaggio, come strumenti adeguati, aiuti competenti o altre circostanze benefiche, riceve un bonus di +1 alla sua prova di abilità.
 
@@ -152,12 +152,12 @@ Ci sono due tipi principali di prove: Prove di Abilità e Prove di Caratteristic
 
 ### Prove di Abilità
 
-Una prova di abilità determina ciò che puoi compiere con una particolare abilità (a volte che tu sia addestrato o meno in quell'abilità). Il tiro è un 2D6, modificato dai tuoi livelli nell'abilità, il punteggio modificatore della caratteristica chiave dell'abilità e la Difficoltà, contro un obiettivo di 8 o più. Le prove di abilità qualche volta hanno gradi di sucesso o fallimento, basati sull'Effetto del risultato della prova (quanto più alto o più basso è il risultato della prova rispetto all'obiettivo di 8). Quando è eseguita una prova di abilità, se il personaggio non ha nessun livello nell'abilità richiesta, allora soffre una penalità di -3 per essere inesperto.
+Una prova di abilità determina ciò che puoi compiere con una particolare abilità (a volte che tu sia addestrato o meno in quell'abilità). Il tiro è un 2D6, modificato dai tuoi livelli nell'abilità, il punteggio modificatore della caratteristica chiave dell'abilità e la Difficoltà, contro un obiettivo di 8 o più. Le prove di abilità qualche volta hanno gradi di successo o fallimento, basati sull'Effetto del risultato della prova (quanto più alto o più basso è il risultato della prova rispetto all'obiettivo di 8). Quando è eseguita una prova di abilità, se il personaggio non ha nessun livello nell'abilità richiesta, allora soffre una penalità di -3 per essere inesperto.
 
 ### Tiro di Attacco
 
 Un tiro di attacco determina se riesci a colpire o meno un opponente in combattimento.
-Un tiro di attacco è essenzialmente una prova di abilità, usando i livelli di abilità di combattimento come modifiatori.
+Un tiro di attacco è essenzialmente una prova di abilità, usando i livelli di abilità di combattimento come modificatori.
 
 ### Prove di Caratteristica
 
@@ -177,7 +177,7 @@ Puoi eseguire quante azioni gratuite e reazioni vuoi, sebbene l'Arbitro può sce
 
 ## Notazione Pseudo-Esadecimale
 
-Il Cepheus Engine usa una fomra di notazione pseudo-esadecimale come scorciatoia per annotare specifici valori dei punteggi di caratteristica, statistiche planetarie, designazioni di tipologie di motore e simili elementi di ideazione. La notazione  pseudo-esadecimale procede normalmente per i valori da 0 a 15, ma si estende oltre F per 15, con G per 16, etc. Il Cepheus Engine salta le lettere I e O, perché potrebbero essere confuse con i numeri 1 e 0. La Tabella di Notazione Pseudo-esadecimale fornisce un riferimento rapido per convertire i valori nell'uso di Cepheus Engine.
+Il Cepheus Engine usa una forma di notazione pseudo-esadecimale come scorciatoia per annotare specifici valori dei punteggi di caratteristica, statistiche planetarie, designazioni di tipologie di motore e simili elementi di ideazione. La notazione  pseudo-esadecimale procede normalmente per i valori da 0 a 15, ma si estende oltre F per 15, con G per 16, etc. Il Cepheus Engine salta le lettere I e O, perché potrebbero essere confuse con i numeri 1 e 0. La Tabella di Notazione Pseudo-esadecimale fornisce un riferimento rapido per convertire i valori nell'uso di Cepheus Engine.
 
 #### Tabella: Notazione Pseudo-esadecimale
 
@@ -218,7 +218,7 @@ Il Cepheus Engine usa certi termini e abbreviazioni per tutto il sistema di rego
 
 **Astronave**: Una nave spaziale con motore a balzo, capace di viaggi interstellari indipendenti.
 
-**Astroporto**: Un porto dove vascelli interstellari e interplanetari caricano e scaricano, specialmente uno dove sono collocati gli ufficili doganali.
+**Astroporto**: Un porto dove vascelli interstellari e interplanetari caricano e scaricano, specialmente uno dove sono collocati gli ufficiali doganali.
 
 **Attacco**: Qualsiasi delle numerose azioni intese per danneggiare, disarmare o neutralizzare un opponente.
 
@@ -256,25 +256,25 @@ Il Cepheus Engine usa certi termini e abbreviazioni per tutto il sistema di rego
 
 **Colpo critico (crit)**: Un attacco che infligge danno supplementare. I colpi critici sono solamente usati nel combattimento veicolare e spaziale.
 
-**Crediti (Cr)**: La principale unità di valuta usata nel Cepheus Engine. Per ingenti somme di denaro, il kilocredito (KCr) rappresente un migliaio di crediti e il megacredito (MCr) rappresente un milione di crediti.
+**Crediti (Cr)**: La principale unità di valuta usata nel Cepheus Engine. Per ingenti somme di denaro, il kilocredito (KCr) rappresenta un migliaio di crediti e il megacredito (MCr) rappresenta un milione di crediti.
 
-**D66**: Uno speciale tiro di dado generato dal tiro di due dadi a sei facce di differenti colori (o tirando lo stesso dato due volte, annontandone ciascuno dei valori), moltiplicando il primo dato per 10 e poi aggiungendo il secono dato, per creare un numero compreso da 11 e 66.
+**D66**: Uno speciale tiro di dado generato dal tiro di due dadi a sei facce di differenti colori (o tirando lo stesso dato due volte, annotandone ciascuno dei valori), moltiplicando il primo dato per 10 e poi aggiungendo il secondo dato, per creare un numero compreso da 11 e 66.
 
-**Dado**: Un piccolo poliedro, tipicamente un cubo, con un numero diverso su ogni faccia, lanciato e usato nel gioco d'azzardo e altri giochi che prevedono la casualità. Il Cepheus Engine usa eclusivamente dadi a sei facce per generare risultati casuali durante il gioco.
+**Dado**: Un piccolo poliedro, tipicamente un cubo, con un numero diverso su ogni faccia, lanciato e usato nel gioco d'azzardo e altri giochi che prevedono la casualità. Il Cepheus Engine usa esclusivamente dadi a sei facce per generare risultati casuali durante il gioco.
 
 **Danno**: Danno causato a un personaggio da ferite, malattia o altre fonte.
 
-**Danno non letale**: Danno che può potenzialemente stordire o mettere al tappeto un obiettivo, ma non causa danno permanente.
+**Danno non letale**: Danno che può potenzialmente stordire o mettere al tappeto un obiettivo, ma non causa danno permanente.
 
-**Danno letale**: Danno che potenzialemente inabilita o uccide l'obiettivo.
+**Danno letale**: Danno che potenzialmente inabilita o uccide l'obiettivo.
 
 **Difficoltà**: Un modificare applicato a una prova che è assegnato dall'Arbitro e riflette la relativa difficoltà o facilità di una determinata azione.
 
-**Effetto**:  La differenza tra il risultato di una prova e l'obiettivo di 8 (p.e. quando alto o bass è il risultato).
+**Effetto**:  La differenza tra il risultato di una prova e l'obiettivo di 8 (p.e. quando il risultato è alto o basso).
 
 **Fallimento Eccezionale**: Ogni prova che ha un fallimento di 6 o più (p.e. ha un effetto di -6 o peggio).
 
-**Ferito gravemente**: Se hai perso almeno un punto in tutte e tre le caratteristiche fisiche, sei considerato ferito gravemente. Quando sei incosciente, non puoi muoverti ad eccezione di arrancare o strisciare per un massimo di 1,5 metri per round di combattimento. Perdi, inoltre, la tua azione minore in combattimento. Puoi solo riguadagnare punti di caratteristica pari al tuo MD di Resistanza al giorno di riposo attraverso la guarigione naturale. Hai bisogno di un intervento chirurgico.
+**Ferito gravemente**: Se hai perso almeno un punto in tutte e tre le caratteristiche fisiche, sei considerato ferito gravemente. Quando sei incosciente, non puoi muoverti ad eccezione di arrancare o strisciare per un massimo di 1,5 metri per round di combattimento. Perdi, inoltre, la tua azione minore in combattimento. Puoi solo riguadagnare punti di caratteristica pari al tuo MD di Resistenza al giorno di riposo attraverso la guarigione naturale. Hai bisogno di un intervento chirurgico.
 
 **Giorno Standard**: Un'unità di temo che dura 24 ore.
 
@@ -307,7 +307,7 @@ o effetto.
 
 **Penalità**:  Un modificatore negativo a un tiro di dado.
 
-**Personaggi**: Persone di finzione nel gioco. I giocatori controllano i personaggi giocanti, mentre l'Arbitro contollai personaggi non giocanti.
+**Personaggi**: Persone di finzione nel gioco. I giocatori controllano i personaggi giocanti, mentre l'Arbitro controlla i personaggi non giocanti.
 
 **Personaggio giocante (PG)**: Un personaggio controllato da un giocatore, uno dei protagonisti di un'avventura o campagna.
 
@@ -323,7 +323,7 @@ o effetto.
 
 **Razza dominante**: Una specie senziente capace di viaggio interstellare attraverso la tecnologia del motore a balzo e che ha usato tale tecnologia per espandere la propria presenza su significative regioni di spazio. Le razze dominanti tipicamente controllano un governo interstellare abbastanza espansivo e hanno insediamenti e popolazione di grandi dimensioni a più di dieci parsec dal loro pianeta di origine.
 
-**Razza minore**: Una specie senziante che ha non ha sviluppato da sola la tecnologia del motore a Balzo. Mentre individui di una razza minore possono ed effettuano viaggi interstellari, le popolazioni insediate di qualsiasi Razza Minore sono incontrate raramente oltre i dieci parsec dal loro mondo di origine.
+**Razza minore**: Una specie senziente che ha non ha sviluppato da sola la tecnologia del motore a Balzo. Mentre individui di una razza minore possono ed effettuano viaggi interstellari, le popolazioni insediate di qualsiasi Razza Minore sono incontrate raramente oltre i dieci parsec dal loro mondo di origine.
 
 **Reazione**: Un'azione eseguita in risposta all'azione di un altro. Puoi eseguire tutte le reazioni che vuoi in un turno di Combattimento corpo a corpo, ma il numero di Reazioni che un vascello può intraprendere è basato sull'iniziativa nel Combattimento Spaziale.
 
@@ -333,7 +333,7 @@ o effetto.
 
 **Senza addestramento**: Che non ha gradi in un'abilità. Alcune abilità non possono essere usate senza addestramento. Prove di abilità senza addestramento soffrono di una penalità MD-3.
 
-**Società degli Esploratori**: Un servizio privato di viaggio interstellare che mantiene resort e strutture esclusive in vari astroporti. Parecchie organizzazioni interstellari garantiscono l'iscrizione alla Società degli Esploratori come ricompensa per un servizio di staordinario valore.
+**Società degli Esploratori**: Un servizio privato di viaggio interstellare che mantiene resort e strutture esclusive in vari astroporti. Parecchie organizzazioni interstellari garantiscono l'iscrizione alla Società degli Esploratori come ricompensa per un servizio di straordinario valore.
 
 **Sofonte**: Un essere senziente con una capacità di ragionamento di base sostanzialmente equivalente o superiore a quella di un essere umano medio.
 
@@ -345,6 +345,6 @@ o effetto.
 
 **Universo**: L'ambientazione presentata dall'Arbitro, in cui i personaggi mettono in atto avventure e campagne. Un Arbitro può usare ambientazioni pubblicate per le loro avventure o crearne di proprie con il Cepheus Engine.
 
-**Vascello**: Termine di uso generale usato per astronavi, veicoli piccoli, o veicoli in senso lato. Più comunemento, può riferirsi a qualsiasi veicolo o nave capace di navigazione interplanetaria o interstellare.
+**Vascello**: Termine di uso generale usato per astronavi, veicoli piccoli, o veicoli in senso lato. Più comunemente, può riferirsi a qualsiasi veicolo o nave capace di navigazione interplanetaria o interstellare.
 
 **Veicolo piccolo**: Un vascello sotto le 100 tonnellate, capace di navigazione interplanetaria.
