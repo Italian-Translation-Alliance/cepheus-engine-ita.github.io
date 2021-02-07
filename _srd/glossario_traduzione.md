@@ -140,6 +140,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Zero-G                              | G-Zero                      |
 
 ### Abilità nelle Armi
+
 | Weapon Skills                | Abilità nelle Armi                |
 |------------------------------|-----------------------------------|
 | Gun Combat (Cascade Skill)   | Armi da Fuoco (Abilità a Cascata) |
@@ -162,6 +163,7 @@ La consistenza di traduzione dei termini in tutti i testi del SRD è garantita d
 | Slashing Weapons             | Armi da Taglio                    |
 
 ### Abilità di Trasporto
+
 | Transport Skills           | Abilità di Trasporto           |
 |----------------------------|--------------------------------|
 | Vehicle (Cascade Skill)    | Veicoli (Abilità a Cascata)    |
