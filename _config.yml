@@ -290,6 +290,7 @@ defaults:
     values:
       layout: single
       author_profile: false
+      mathjax: true
   # _pages
   - scope:
       path: ""
