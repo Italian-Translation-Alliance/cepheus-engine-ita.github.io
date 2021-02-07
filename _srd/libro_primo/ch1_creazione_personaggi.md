@@ -7,7 +7,6 @@ toc: true
 toc_label: Indice
 title: 'CAPITOLO 1: CREAZIONE DEI PERSONAGGI'
 published: true
-
 ---
 In Cepheus Engine i personaggi raramente sono principianti freschi di fattoria.
 Non c'è alcuna limitazione a giocare un personaggio giovane e inesperto, se lo vuoi, ma siccome una vasta gamma di abilità è importante per il successo durante il gioco, molti giocatori preferiranno che i loro personaggi abbiano un po' più di esperienza del mondo. 
