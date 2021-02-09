@@ -18,44 +18,44 @@ Questo capitolo fornisce istruzioni complete per la generazione di ventiquattro 
 
 ## Checklist di Creazione Personaggio
 
-1. Caratteristiche
+1. Caratteristiche  
     a. Determina le sei caratteristiche tirando 2D6 e registrandole in ordine sulla tua scheda personaggio.    
     b. Determina i modificatori di caratteristica.    
-2. Mondo d'origine (Opzionale)
+2. Mondo d'origine (Opzionale)  
     a. Determina il mondo d'origine.    
     b. Segna le abilità iniziali. I personaggi guadagnano un numero di abilità di base a Livello 0, pari a 3 + il modificatore di Educazione. Le prime due devono essere prese dal tuo mondo d'origine (basate sui Codici di Commercio o il Livello di Legge del mondo); il resto sono presi dalla lista di educazione.    
-3. Carriera
+3. Carriera  
     a. Scegli una carriera. Non puoi scegliere di nuovo una carriera che hai già lasciato, a meno che non sia Ramingo.    
     b. Tira per qualificarti per quella carriera, come indicato nella descrizione della carriera. Se non è la tua prima carriera, soffri un MD-2 per ogni precedente carriera in cui hai servito.    
     c. Se ti qualifichi per questa carriera, vai al punto 4.    
     d. Se non ti qualifichi per quella carriera, puoi entrare nella carriera di Ramingo, o sottoporti alla Coscrizione. Puoi farti coscrivere solo una volta.    
-4. Addestramento di base
+4. Addestramento di base  
    Per il primo periodo nella tua prima carriera, acquisisci tutte le Abilità di Servizio a livello 0.
    Per il primo periodo nelle successive carriere, puoi scegliere qualsiasi altra Abilità di Servizio a livello 0.
-5. Sopravvivenza
+5. Sopravvivenza  
     Tira per la sopravvivenza, come indicato nella descrizione della carriera.
     Se hai successo, vai al punto 6.
     Se non hai successo, sei morto. In alternativa, gli eventi ti hanno condotto fuori da questa carriera. Tira sulla tabella degli Incidenti e vai al punto 10 (non ricevi benefici per questo periodo).
-6. Gradi e Promozione
+6. Gradi e Promozione  
     a. Inizi come un personaggio di Rango 0.
     b. Se la tua carriera offre una Prova di acquisizione del Grado e sei di Rango 0, puoi scegliere di tirare per acquisire un Grado. Se hai successo, passi al Rango 1 della carriera prescelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi abilità bonus dalla Tabella Ranghi per questa carriera.    
     c. Se una carriera offre una Prova di Promozione e se sei di Rango 1 o superiore, puoi scegliere di tirare per la Promozione. Se hai successo, il tuo Rango incrementa di uno nella carriera prescelta. Seleziona una delle Tabelle Abilità o Addestramento e tira su di essa per un'ulteriore abilità. Guadagni qualsiasi bonus di abilità dalla Tabella Ranghi per questa carriera. Puoi tirare per una Promozione nello stesso periodo in cui hai ricevuto un Grado.    
-7. Abilità e Addestramento
+7. Abilità e Addestramento  
     a. Seleziona una delle Tabelle Abilità o Addestramento prevista per questa carriera e tira su di essa. Se il risultato è un miglioramento della caratteristica, applica la modifica al tuo punteggio di caratteristica immediatamente. Se guadagni un'abilità come risultato e non hai ancora alcun livello in quell'abilità, la prendi al Livello 1. Se già possiedi quell'abilità, la incrementi di un livello.     
     b. Se la tua carriera non prevede una Prova di assegnazione del Grado o di Promozione, puoi tirare una seconda volta, selezionando una delle Tabelle Abilità o Addestramento prevista per questa carriera (che può essere la stessa tabella che hai già scelto per questo periodo oppure una differente).
-8. Invecchiamento
+8. Invecchiamento  
     a. Aumenta la tua età di 4 anni.    
     b. Se il tuo personaggio ha 34 anni o di più, tira per l'Invecchiamento.
-9. Riarruolamento
+9. Riarruolamento  
     a. Tira per il Riarruolamento. Se fallisci, devi lasciare questa carriera. Se hai tirato un 12 naturale, non puoi lasciare questa carriera e devi continuare per un altro periodo, vai al punto 5.    
     b. Se hai servito per un totale di sette periodi o più durante la creazione del personaggio, allora puoi andare in pensione, vai al punto 10.    
     c. Se desideri continuare in questa carriera, vai al punto 5.    
     d. Se desideri lasciare questa carriera, vai al punto 10.
-10. Benefici
+10. Benefici  
     Se stai lasciando la carriera, tira per ottenere Benefici. Un personaggio ha diritto a un Beneficio per ciascun periodo di servizio in quella carriera. Puoi anche guadagnare ulteriori Tiri Beneficio se hai raggiunto un Rango più alto.
-11. Prossima Carriera
+11. Prossima Carriera  
     Se stai lasciando la tua carriera corrente e il totale del numero di periodi durante la creazione del personaggio è meno di sette, puoi andare al punto 3 per scegliere una nuova carriera oppure al punto 12 se desideri completare il tuo personaggio.
-12. Compra l'equipaggiamento iniziale
+12. Compra l'equipaggiamento iniziale  
     Compra il tuo equipaggiamento iniziale e, se te lo puoi permettere, magari un'astronave.
 
 ## Caratteristiche
