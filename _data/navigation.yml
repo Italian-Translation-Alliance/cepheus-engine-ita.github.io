@@ -36,7 +36,7 @@ srd:
         - title: "Capitolo 9: Vascelli Comuni"
           url: /srd/capitolo-9/
         - title: "Capitolo 10: Combattimento Spaziale"
-          url:
+          url: /srd/capitolo-10/
   - title: "Libro Terzo: Arbitri"
     children:
         - title: "Capitolo 11: Ambienti e Rischi"
