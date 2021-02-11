@@ -2,7 +2,7 @@
 main:
   - title: "Che cos'è"
     url: /about/
-  - title: "System Reference Document"
+  - title: "Regolamento"
     url: /srd/
   - title: "Blog"
     url: /blog/
@@ -11,6 +11,8 @@ main:
   - title: "Cerca"
     url: /cerca/  
 srd:
+  - title: "CEPHEUS: PIÙ VELOCE DELLA LUCE!"
+    url: /srd/cepheus-pvl/
   - title: "Introduzione"
     url: /introduzione/
   - title: "Libro Primo: Personaggi"
