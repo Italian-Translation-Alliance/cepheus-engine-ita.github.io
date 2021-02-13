@@ -1,8 +1,6 @@
 ---
 layout: single
 permalink: /cepheus-pvl/
-sidebar:
-  nav: srd
 toc: true
 toc_label: Indice
 title: 'CEPHEUS: PIÙ VELOCE DELLA LUCE!'
