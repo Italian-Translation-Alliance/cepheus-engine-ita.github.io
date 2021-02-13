@@ -2,8 +2,10 @@
 main:
   - title: "Che cos'è"
     url: /about/
-  - title: "Regolamento"
+  - title: "CEPHEUS ENGINE SRD"
     url: /srd/
+  - title: "CEPHEUS: PIÙ VELOCE DELLA LUCE!"
+    url: /srd/cepheus-pvl/    
   - title: "Blog"
     url: /blog/
   - title: "Generatore Sottosettori"
@@ -11,8 +13,6 @@ main:
   - title: "Cerca"
     url: /cerca/  
 srd:
-  - title: "CEPHEUS: PIÙ VELOCE DELLA LUCE!"
-    url: /srd/cepheus-pvl/
   - title: "Introduzione"
     url: /introduzione/
   - title: "Libro Primo: Personaggi"
