@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /srd/cepheus-pvl/
+permalink: /cepheus-pvl/
 sidebar:
   nav: srd
 toc: true
