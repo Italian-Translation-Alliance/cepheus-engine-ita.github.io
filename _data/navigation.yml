@@ -2,10 +2,12 @@
 main:
   - title: "Che cos'è"
     url: /about/
-  - title: "CEPHEUS ENGINE SRD"
+  - title: "Cepheus Engine SRD"
     url: /srd/
-  - title: "CEPHEUS: PIÙ VELOCE DELLA LUCE!"
+  - title: "Cepheus: più veloce della luce!"
     url: /cepheus-pvl/
+  - title: "Cepheus Quantum"
+    url: /cepheus-quantum/    
   - title: "Blog"
     url: /blog/
   - title: "Generatore Sottosettori"
