@@ -254,7 +254,7 @@ di correre verso le capsule di salvataggio.
 | 11     | Ponte di Comando    |
 | 12     | Nave Distrutta      |
 
-### Legal
+### Informazioni Legali
 
 Questo Prodotto è derivato dal Traveller System Reference Document e
 altro Open Gaming Content reso disponibile attraverso la Open Gaming
