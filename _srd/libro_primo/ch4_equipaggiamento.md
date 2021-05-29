@@ -584,7 +584,7 @@ personaggio di avere una presenza virtuale a grande distanza.
 **Drone Sonda** (LT 11): Un drone sonda è una versione irrobustita di un
 drone personale, corazzato e con più pacchetti sensori. Ha una portata
 operativa di cinquecento chilometri e può volare alla velocità di 300
-k/h.
+km/h.
 
 > Forza 3 (-1), Destrezza 7 (+0), Carena 3, Struttura 3
 > **Tratti**: Armatura 5, Sistema Integrato (com, audio/visivo), Sistema
