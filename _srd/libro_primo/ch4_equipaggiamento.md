@@ -59,7 +59,7 @@ MegaCredito (MCr, 1.000.000 di Crediti).
 ## Armatura
 
 L’armatura riduce la quantità di danno che un personaggio subisce da un
-colpo, sulla base del tipo dii armatura indossata. Il valore armatura
+colpo, sulla base del tipo di armatura indossata. Il valore armatura
 per un’armatura è pari all’ammontare del danno ridotto dalla corazza
 quando sei colpito in combattimento. Un colpo con Effetto di 6+ infligge
 sempre almeno un punto di danno, a prescindere dall’armatura
@@ -126,7 +126,7 @@ molto efficace contro i laser, ma non fornisce protezione contro gli
 altri attacchi. L’armatura reflex può essere indossata con altre
 armature.
 
-**Rete** (LT 6): Un giubbotto o maglia che copre il torso, foderato di
+**Rete** (LT 7): Un giubbotto o maglia che copre il torso, foderato di
 una rete flessibile in metallo o plastica che fornisce protezione
 aggiuntiva contro i proiettili.
 
@@ -192,7 +192,7 @@ separati. A livello tecnologico 7 il perso è ridotto a 1,5 kg e viene
 montata su una cintura o una fascia.
 
 **Comunicatore a Media Distanza**: Radio montate su una cintura o una
-fascia capaci di un raggio fino a 30 kg e di contattare i canali radio
+fascia capaci di un raggio fino a 30 km e di contattare i canali radio
 ufficiali. Cinque canali separati. A livello tecnologico 7, il peso è
 ridotto a 500 grammi.
 
