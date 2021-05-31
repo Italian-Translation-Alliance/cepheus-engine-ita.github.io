@@ -163,7 +163,7 @@ Un personaggio può reagire solo ad attacchi di cui è consapevole.
 
 ### Schivare
 
-Un personaggio che viene attaccato può schivare, dando al suo attaccante un DM di -1 e dando a se stesso un DM di -1 a tutte le prove di abilità fino al round seguente. Se il personaggio è al riparo o ha un ostacolo dietro il quale abbassarsi o schivare, il MD per colpirlo è aumentato a -2.
+Un personaggio che viene attaccato può schivare, dando al suo attaccante un MD di -1 e dando a se stesso un MD di -1 a tutte le prove di abilità fino al round seguente. Se il personaggio è al riparo o ha un ostacolo dietro il quale abbassarsi o schivare, il MD per colpirlo è aumentato a -2.
 
 ### Parare
 
