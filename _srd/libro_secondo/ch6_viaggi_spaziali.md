@@ -84,7 +84,7 @@ Esistono delle procedure standard riguardanti la gestione delle attività di un'
 
 ### Passaggio per nave
 
-Una nave deve avere spazio sufficiente per alloggiare tutti i membri dell'equipaggio; solitamente questo implica la presenza di una cabina ogni due membri (definita come alloggio doppio). Qualsiasi restante cabina può venire destinata la trasporto di passeggeri. Tuttavia, i passeggeri non possono dividere le cabine coi membri dell'equipaggio, fatta eccezione nel caso di passaggio lavorativo. Di solito, vengono alloggiati un passeggero in una cabina piccola e due nelle cabine di dimensioni maggiori.
+Una nave deve avere spazio sufficiente per alloggiare tutti i membri dell'equipaggio; solitamente questo implica la presenza di una cabina ogni due membri (definita come alloggio doppio). Qualsiasi restante cabina può venire destinata al trasporto di passeggeri. Tuttavia, i passeggeri non possono dividere le cabine coi membri dell'equipaggio, fatta eccezione nel caso di passaggio lavorativo. Di solito, vengono alloggiati un passeggero in una cabina piccola e due nelle cabine di dimensioni maggiori.
 
 I viaggiatori di passaggio possono appartenere a cinque diverse categorie, esposte in ordine discendente - Alto, Medio, Basso, Lavorativo e Clandestino.
 
